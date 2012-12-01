@@ -14,9 +14,6 @@ projects[countries][version] = 2.1
 projects[date][subdir] = contrib
 projects[date][version] = 2.6
 
-projects[date_ical][subdir] = contrib
-projects[date_ical][version] = 1.1
-
 projects[email][subdir] = contrib
 projects[email][version] = 1.2
 
@@ -81,14 +78,8 @@ projects[ctools][version] = 1.2
 projects[diff][subdir] = contrib
 projects[diff][version] = 3.2
 
-projects[draggableviews][subdir] = contrib
-projects[draggableviews][version] = 2.0
-
 projects[entity][subdir] = contrib
 projects[entity][version] = 1.0-rc3
-
-projects[feeds][subdir] = contrib
-projects[feeds][version] = 2.0-alpha7
 
 projects[features][subdir] = contrib
 projects[features][version] = 1.0
