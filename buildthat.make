@@ -66,6 +66,9 @@ projects[better_formats][version] = 1.0-beta1
 projects[calendar][subdir] = contrib
 projects[calendar][version] = 3.4
 
+projects[comment_notify][subdir] = contrib
+projects[comment_notify][version] = 1.1
+
 projects[context][subdir] = contrib
 projects[context][version] = 3.0-beta4
 
@@ -251,6 +254,9 @@ projects[itoggle][version] = 2.3
 
 projects[mailchimp][subdir] = contrib
 projects[mailchimp][version] = 2.7
+
+projects[mollom][subdir] = contrib
+projects[mollom][version] = 1.1
 
 projects[userreport][subdir] = contrib
 projects[userreport][version] = 1.0-alpha2
