@@ -112,7 +112,7 @@ projects[job_scheduler][subdir] = contrib
 projects[job_scheduler][version] = 2.0-alpha3
 
 projects[libraries][subdir] = contrib
-projects[libraries][version] = 1.0
+projects[libraries][version] = 2.0
 
 projects[logintoboggan][subdir] = contrib
 projects[logintoboggan][version] = 1.3
