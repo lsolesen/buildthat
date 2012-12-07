@@ -244,7 +244,7 @@ projects[chart][subdir] = contrib
 projects[chart][version] = 1.x-dev
 
 projects[colorbox][subdir] = contrib
-projects[colorbox][version] = 1.x-dev
+projects[colorbox][version] = 2.x-dev
 
 projects[itoggle][subdir] = contrib
 projects[itoggle][version] = 2.3
