@@ -367,3 +367,6 @@ libraries[plupload][destination] = "libraries"
 
 projects[shiny][subdir] = contrib
 projects[shiny][version] = 1.0-rc2
+
+projects[omega][subdir] = contrib
+projects[omega][version] = 3.1
