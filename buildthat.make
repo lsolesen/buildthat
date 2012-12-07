@@ -57,6 +57,9 @@ projects[transliteration][version] = 3.1
 ; Site building tools
 ;;;;;;;;;
 
+projects[adaptive_image][subdir] = contrib
+projects[adaptive_image][version] = 1.4
+
 projects[backup_migrate][subdir] = contrib
 projects[backup_migrate][version] = 2.4
 
