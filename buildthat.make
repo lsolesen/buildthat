@@ -90,6 +90,9 @@ projects[entity][version] = 1.0-rc3
 projects[features][subdir] = contrib
 projects[features][version] = 1.0
 
+projects[fences][subdir] = contrib
+projects[fences][version] = 1.0
+
 projects[file_entity][subdir] = contrib
 projects[file_entity][version] = 2.x-dev
 
@@ -299,6 +302,9 @@ projects[block_visibility][version] = 1.0-beta2
 
 projects[ccl][subdir] = contrib
 projects[ccl][version] = 1.5
+
+projects[module_filter][subdir] = contrib
+projects[module_filter][version] = 1.7
 
 projects[options_element][subdir] = contrib
 projects[options_element][version] = 1.8
