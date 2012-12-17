@@ -22,7 +22,7 @@ projects[entityreference][version] = 1.x-dev
 projects[entityreference][patch][1699378] = http://drupal.org/files/view-argument-as-token-1699378-41.patch
 
 projects[field_extrawidgets][subdir] = contrib
-projects[field_extrawidgets][version] = 1.0
+projects[field_extrawidgets][version] = 1.1
 
 projects[field_group][subdir] = contrib
 projects[field_group][version] = 1.1
@@ -73,10 +73,10 @@ projects[comment_notify][subdir] = contrib
 projects[comment_notify][version] = 1.1
 
 projects[context][subdir] = contrib
-projects[context][version] = 3.0-beta4
+projects[context][version] = 3.0-beta5
 
 projects[crumbs][subdir] = contrib
-projects[crumbs][version] = 1.7
+projects[crumbs][version] = 1.8
 
 projects[ctools][subdir] = contrib
 projects[ctools][version] = 1.2
@@ -191,13 +191,13 @@ projects[views][subdir] = contrib
 projects[views][version] = 3.5
 
 projects[views_bulk_operations][subdir] = contrib
-projects[views_bulk_operations][version] = 3.0
+projects[views_bulk_operations][version] = 3.1
 
 projects[views_random_seed][subdir] = contrib
 projects[views_random_seed][version] = 1.2
 
 projects[views_send][subdir] = contrib
-projects[views_send][version] = 1.x-dev
+projects[views_send][version] = 1.0-rc1
 
 projects[views_slideshow][subdir] = contrib
 projects[views_slideshow][version] = 3.0
@@ -214,10 +214,10 @@ projects[mailsystem][subdir] = contrib
 projects[mailsystem][version] = 2.34
 
 projects[message][subdir] = contrib
-projects[message][version] = 1.6
+projects[message][version] = 1.7
 
 projects[message_notify][subdir] = contrib
-projects[message_notify][version] = 2.x-dev
+projects[message_notify][version] = 2.3
 
 ;;;;;;;;;
 ; SEO Tools
@@ -372,7 +372,7 @@ libraries[plupload][destination] = "libraries"
 ;;;;;;;;;
 
 projects[shiny][subdir] = contrib
-projects[shiny][version] = 1.0-rc2
+projects[shiny][version] = 1.0-rc3
 
 projects[omega][subdir] = contrib
 projects[omega][version] = 3.1
