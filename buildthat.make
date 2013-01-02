@@ -73,7 +73,7 @@ projects[comment_notify][subdir] = contrib
 projects[comment_notify][version] = 1.1
 
 projects[context][subdir] = contrib
-projects[context][version] = 3.0-beta5
+projects[context][version] = 3.0-beta6
 
 projects[crumbs][subdir] = contrib
 projects[crumbs][version] = 1.8
