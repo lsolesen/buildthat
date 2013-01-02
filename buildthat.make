@@ -75,6 +75,9 @@ projects[calendar][version] = 3.4
 projects[comment_notify][subdir] = contrib
 projects[comment_notify][version] = 1.1
 
+projects[connector][subdir] = contrib
+projects[connector][version] = 1.0-beta1
+
 projects[context][subdir] = contrib
 projects[context][version] = 3.0-beta6
 
@@ -101,6 +104,9 @@ projects[file_entity][version] = 2.x-dev
 
 projects[file_lock][subdir] = contrib
 projects[file_lock][version] = 2.x-dev
+
+projects[http_client][subdir] = contrib
+projects[http_client][version] = 2.4
 
 projects[flag][subdir] = "contrib"
 projects[flag][version] = 2.0
@@ -155,6 +161,9 @@ projects[node_clone][version] = 1.0-rc1
 
 projects[oauth][subdir] = contrib
 projects[oauth][version] = 3.0
+
+projects[oauthconnector][subdir] = contrib
+projects[oauthconnector][version] = 1.0-beta1
 
 projects[oembed][subdir] = contrib
 projects[oembed][version] = 0.1-beta3
