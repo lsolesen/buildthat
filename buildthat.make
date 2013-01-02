@@ -168,6 +168,9 @@ projects[rules][version] = 2.2
 projects[scheduler][subdir] = contrib
 projects[scheduler][version] = 1.0
 
+projects[similarterms][subdir] = contrib 
+projects[similarterms][version] = 2.3
+
 projects[special_menu_items][subdir] = contrib
 projects[special_menu_items][version] = 2.0
 
