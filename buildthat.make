@@ -141,6 +141,9 @@ projects[media_vimeo][version] = 1.0-beta5
 projects[media_youtube][subdir] = contrib
 projects[media_youtube][version] = 2.x-dev
 
+projects[menu_block][subdir] = "contrib"
+projects[menu_block][version] = 2.3
+
 projects[mimemail][subdir] = contrib
 projects[mimemail][version] = 1.0-alpha2
 
