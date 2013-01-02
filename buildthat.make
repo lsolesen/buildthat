@@ -102,6 +102,9 @@ projects[file_entity][version] = 2.x-dev
 projects[file_lock][subdir] = contrib
 projects[file_lock][version] = 2.x-dev
 
+projects[flag][subdir] = "contrib"
+projects[flag][version] = 2.0
+
 projects[imagecache_profiles][subdir] = contrib
 projects[imagecache_profiles][version] = 1.0
 
