@@ -132,6 +132,9 @@ projects[logintoboggan][version] = 1.3
 projects[media][subdir] = contrib
 projects[media][version] = 2.x-dev
 
+projects[media_vimeo][subdir] = contrib 
+projects[media_vimeo][version] = 1.0-beta5
+
 projects[media_youtube][subdir] = contrib
 projects[media_youtube][version] = 2.x-dev
 
