@@ -24,6 +24,9 @@ projects[entityreference][subdir] = contrib
 projects[entityreference][version] = 1.x-dev
 projects[entityreference][patch][1699378] = http://drupal.org/files/view-argument-as-token-1699378-41.patch
 
+projects[field_group][subdir] = contrib
+projects[field_group][version] = 1.1
+
 projects[field_extrawidgets][subdir] = contrib
 projects[field_extrawidgets][version] = 1.1
 
