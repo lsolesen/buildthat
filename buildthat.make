@@ -214,7 +214,7 @@ projects[token][subdir] = contrib
 projects[token][version] = 1.4
 
 projects[quiz][subdir] = "contrib"
-projects[quiz][version] = 4.0-alpha10
+projects[quiz][version] = 4.0-alpha12
 
 ; Can be removed when http://drupal.org/node/1058912 is resolved
 projects[token_tweaks][subdir] = contrib
