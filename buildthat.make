@@ -39,6 +39,9 @@ projects[link][version] = 1.0
 projects[pdf_reader][subdir] = contrib
 projects[pdf_reader][version] = 1.0-rc4
 
+projects[title][subdir] = contrib
+projects[title][version] = 1.0-alpha5
+
 ;;;;;;;;;
 ; Path tools
 ;;;;;;;;;
