@@ -189,6 +189,15 @@ projects[rules][version] = 2.2
 projects[scheduler][subdir] = contrib
 projects[scheduler][version] = 1.0
 
+projects[search_api][subdir] = contrib
+projects[search_api][version] = 1.3
+
+projects[search_api][subdir] = contrib
+projects[search_api][version] = 1.3
+
+projects[search_api_db][subdir] = contrib
+projects[search_api_db][version] = 1.0-beta4
+
 projects[similarterms][subdir] = contrib 
 projects[similarterms][version] = 2.3
 
