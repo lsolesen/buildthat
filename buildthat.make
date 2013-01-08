@@ -30,9 +30,6 @@ projects[field_group][version] = 1.1
 projects[field_extrawidgets][subdir] = contrib
 projects[field_extrawidgets][version] = 1.1
 
-projects[field_group][subdir] = contrib
-projects[field_group][version] = 1.1
-
 projects[field_redirection][subdir] = contrib
 projects[field_redirection][version] = 2.5
 
