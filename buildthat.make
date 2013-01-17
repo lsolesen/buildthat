@@ -193,7 +193,7 @@ projects[scheduler][subdir] = contrib
 projects[scheduler][version] = 1.0
 
 projects[search_api][subdir] = contrib
-projects[search_api][version] = 1.3
+projects[search_api][version] = 1.4
 
 projects[search_api][subdir] = contrib
 projects[search_api][version] = 1.3
@@ -304,7 +304,7 @@ projects[itoggle][subdir] = contrib
 projects[itoggle][version] = 2.3
 
 projects[mailchimp][subdir] = contrib
-projects[mailchimp][version] = 2.7
+projects[mailchimp][version] = 2.9
 
 projects[mollom][subdir] = contrib
 projects[mollom][version] = 1.1
@@ -317,7 +317,7 @@ projects[userreport][version] = 1.0-alpha2
 ;;;;;;;;;
 
 projects[ckeditor_link][subdir] = contrib
-projects[ckeditor_link][version] = 2.2
+projects[ckeditor_link][version] = 2.3
 
 projects[wysiwyg][subdir] = contrib
 projects[wysiwyg][version] = 2.2
@@ -361,10 +361,10 @@ projects[simplified_menu_admin][version] = 1.0-beta2
 ; Internationalization
 ;;;;;;;;;
 
-projects[variable][version] = "2.x-dev"
+projects[variable][version] = "2.2"
 projects[variable][subdir] = "contrib"
 
-projects[i18n][version] = "1.x-dev"
+projects[i18n][version] = "1.8"
 projects[i18n][subdir] = "contrib"
 
 ;;;;;;;;;
