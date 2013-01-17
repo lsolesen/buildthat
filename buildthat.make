@@ -413,8 +413,11 @@ libraries[plupload][destination] = "libraries"
 ; Themes
 ;;;;;;;;;
 
-projects[adaptivetheme][type] = theme
+projects[adaptivetheme][subdir] = contrib
 projects[adaptivetheme][version] = 3.1
+
+projects[corolla][subdir] = contrib
+projects[corolla][version] = 3.0-rc1
 
 projects[shiny][subdir] = contrib
 projects[shiny][version] = 1.0-rc5
