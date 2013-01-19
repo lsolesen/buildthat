@@ -307,7 +307,7 @@ projects[mailchimp][subdir] = contrib
 projects[mailchimp][version] = 2.9
 
 projects[mollom][subdir] = contrib
-projects[mollom][version] = 1.1
+projects[mollom][version] = 2.3
 
 projects[userreport][subdir] = contrib
 projects[userreport][version] = 1.0-alpha2
