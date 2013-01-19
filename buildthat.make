@@ -78,6 +78,9 @@ projects[calendar][version] = 3.4
 projects[comment_notify][subdir] = contrib
 projects[comment_notify][version] = 1.1
 
+projects[cookiecontrol][subdir] = contrib
+projects[cookiecontrol][version] = 1.5
+
 projects[connector][subdir] = contrib
 projects[connector][version] = 1.0-beta1
 
