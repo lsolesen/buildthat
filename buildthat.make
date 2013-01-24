@@ -363,6 +363,19 @@ projects[shortcutperrole][version] = 1.1
 projects[simplified_menu_admin][subdir] = contrib
 projects[simplified_menu_admin][version] = 1.0-beta2
 
+projects[emfield][subdir] = contrib
+projects[emfield[version] = 1.0-alpha1
+
+projects[rpx][subdir] = contrib
+projects[rpx][version] = 2.2
+projects[rpx][patch][1678124] = http://drupal.org/files/rpx-1678124-1.patch
+
+projects[skinr][subdir] = contrib
+projects[skinr][version] = 2.0-beta1
+
+projects[translation_helpers][subdir] = contrib
+projects[translation_helpers][version] = 1.0
+
 ;;;;;;;;;
 ; Filters
 ;;;;;;;;;
@@ -428,6 +441,22 @@ libraries[plupload][download][url] = "https://github.com/downloads/moxiecode/plu
 libraries[plupload][directory_name] = ""
 libraries[plupload][destination] = "libraries"
 
+libraries[jquery_ui][download][type] = "get"
+libraries[jquery_ui][download][url] = "http://jquery-ui.googlecode.com/files/jquery.ui-1.6.zip"
+libraries[jquery_ui][directory_name] = "jquery.ui"
+libraries[jquery_ui][destination] = "modules/contrib/jquery_ui"
+
+libraries[tcpdf][download][type] = "git"
+libraries[tcpdf][download][url] = git://tcpdf.git.sourceforge.net/gitroot/tcpdf/tcpdf
+libraries[tcpdf][destination] = "libraries"
+; Download 5.9.149
+libraries[tcpdf][download][revision] = e9ebd692d5c5b1db8d9fa3a276662e75ceb9ac5a
+
+libraries[fpdf][download][type] = "git"
+libraries[fpdf][download][url] = git://github.com/lsolesen/fpdf.git
+libraries[fpdf][download][tag] = 1.6.0
+libraries[fpdf][destination] = "libraries"
+
 ;;;;;;;;;
 ; Themes
 ;;;;;;;;;
@@ -443,3 +472,9 @@ projects[shiny][version] = 1.0-rc5
 
 projects[omega][subdir] = contrib
 projects[omega][version] = 3.1
+
+projects[fusion][subdir] = contrib
+projects[fusion][version] = 2.0-beta2
+
+projects[acquia_marina][subdir] = contrib
+projects[acquia_marina][version] = 2.0-beta1
