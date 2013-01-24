@@ -478,3 +478,6 @@ projects[fusion][version] = 2.0-beta2
 
 projects[acquia_marina][subdir] = contrib
 projects[acquia_marina][version] = 2.0-beta1
+
+projects[marinelli][subdir] = contrib
+projects[marinelli][version] = 3.0-beta11
