@@ -187,7 +187,7 @@ projects[publishcontent][subdir] = contrib
 projects[publishcontent][version] = 1.0
 
 projects[plupload][subdir] = contrib
-projects[plupload][version] = 1.0
+projects[plupload][version] = 1.1
 
 projects[references_dialog][subdir] = contrib
 projects[references_dialog][version] = 1.x-dev
@@ -304,7 +304,7 @@ projects[chart][subdir] = contrib
 projects[chart][version] = 1.x-dev
 
 projects[colorbox][subdir] = contrib
-projects[colorbox][version] = 2.0
+projects[colorbox][version] = 2.2
 
 projects[itoggle][subdir] = contrib
 projects[itoggle][version] = 2.3
@@ -313,7 +313,7 @@ projects[mailchimp][subdir] = contrib
 projects[mailchimp][version] = 2.9
 
 projects[mollom][subdir] = contrib
-projects[mollom][version] = 2.3
+projects[mollom][version] = 2.4
 
 projects[userreport][subdir] = contrib
 projects[userreport][version] = 1.0-alpha2
