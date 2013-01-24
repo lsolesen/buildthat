@@ -216,6 +216,9 @@ projects[special_menu_items][version] = 2.0
 projects[strongarm][subdir] = contrib
 projects[strongarm][version] = 2.0
 
+projects[tagadelic][subdir] = contrib 
+projects[tagadelic][version] = 1.x-dev
+
 projects[taxonomy_display][subdir] = contrib
 projects[taxonomy_display][version] = 1.1
 
