@@ -66,6 +66,9 @@ projects[transliteration][version] = 3.1
 projects[adaptive_image][subdir] = contrib
 projects[adaptive_image][version] = 1.4
 
+projects[admin_views][subdir] = contrib
+projects[admin_views][version] = 1.0
+
 projects[backup_migrate][subdir] = contrib
 projects[backup_migrate][version] = 2.4
 
@@ -96,8 +99,15 @@ projects[ctools][version] = 1.2
 projects[diff][subdir] = contrib
 projects[diff][version] = 3.2
 
+projects[enterprise_rotator][subdir] = contrib
+projects[enterprise_rotator][version] = 1.0-rc1
+
 projects[entity][subdir] = contrib
 projects[entity][version] = 1.0
+
+projects[facetapi][subdir] = contrib
+projects[facetapi][version] = 1.2
+projects[facetapi][patch][1616518] = http://drupal.org/files/1616518-7-show-active-term.patch
 
 projects[features][subdir] = contrib
 projects[features][version] = 1.0
@@ -131,6 +141,9 @@ projects[jquery_update][version] = 2.2
 
 projects[l10n_update][subdir] = contrib 
 projects[l10n_update][version] = 1.0-beta3
+
+projects[linkit][subdir] = contrib
+projects[linkit][version] = 2.5
 
 projects[i18n][subdir] = contrib 
 projects[i18n][version] = 1.x-dev
@@ -201,9 +214,6 @@ projects[scheduler][version] = 1.0
 projects[search_api][subdir] = contrib
 projects[search_api][version] = 1.4
 
-projects[search_api][subdir] = contrib
-projects[search_api][version] = 1.3
-
 projects[search_api_db][subdir] = contrib
 projects[search_api_db][version] = 1.0-beta4
 
@@ -219,8 +229,17 @@ projects[strongarm][version] = 2.0
 projects[tagadelic][subdir] = contrib 
 projects[tagadelic][version] = 1.x-dev
 
+projects[tabsnomore][type] = module
+projects[tabsnomore][subdir] = contrib
+projects[tabsnomore][download][type] = "git"
+projects[tabsnomore][download][url] = "http://git.drupal.org/sandbox/onkeltem/1730244.git"
+projects[tabsnomore[download][branch] = "master"
+
 projects[taxonomy_display][subdir] = contrib
 projects[taxonomy_display][version] = 1.1
+
+projects[taxonomy_menu][subdir] = contrib
+projects[taxonomy_menu][version] = 1.4
 
 projects[token][subdir] = contrib
 projects[token][version] = 1.4
@@ -484,3 +503,7 @@ projects[acquia_marina][version] = 2.0-beta1
 
 projects[marinelli][subdir] = contrib
 projects[marinelli][version] = 3.0-beta11
+
+projects[navin][subdir] = contrib
+projects[navin][version] = 1.0-beta2
+projects[navin][patch][1850670] = http://drupal.org/files/issue-1850670.patch
