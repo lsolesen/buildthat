@@ -139,6 +139,9 @@ projects[image_resize_filter][version] = 1.13
 projects[jquery_update][subdir] = contrib
 projects[jquery_update][version] = 2.2
 
+projects[jplayer][subdir] = contrib
+projects[jplayer][version] = 2.0-beta1
+
 projects[l10n_update][subdir] = contrib 
 projects[l10n_update][version] = 1.0-beta3
 
@@ -478,6 +481,11 @@ libraries[fpdf][download][type] = "git"
 libraries[fpdf][download][url] = git://github.com/lsolesen/fpdf.git
 libraries[fpdf][download][tag] = 1.6.0
 libraries[fpdf][destination] = "libraries"
+
+libraries[jplayer][download][type] = "get"
+libraries[jplayer][download][url] = "http://www.jplayer.org/2.2.0/jQuery.jPlayer.2.2.0.zip"
+libraries[jplayer][directory_name] = "jplayer"
+libraries[jplayer][destination] = "libraries"
 
 ;;;;;;;;;
 ; Themes
