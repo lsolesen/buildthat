@@ -526,3 +526,6 @@ projects[marinelli][version] = 3.0-beta11
 projects[navin][subdir] = contrib
 projects[navin][version] = 1.0-beta2
 projects[navin][patch][1850670] = http://drupal.org/files/issue-1850670.patch
+
+projects[responsive_bartik][subdir] = contrib
+projects[responsive_bartik][version] = 1.x-dev
