@@ -493,6 +493,11 @@ libraries[jplayer][download][url] = "http://www.jplayer.org/2.2.0/jQuery.jPlayer
 libraries[jplayer][directory_name] = "jplayer"
 libraries[jplayer][destination] = "libraries"
 
+libraries[mailchimp][download][type] = "get"
+libraries[mailchimp][download][url] = "http://apidocs.mailchimp.com/api/downloads/mailchimp-api-class.zip"
+libraries[mailchimp][directory_name] = "mailchimp"
+libraries[mailchimp][destination] = "libraries"
+
 ;;;;;;;;;
 ; Themes
 ;;;;;;;;;
