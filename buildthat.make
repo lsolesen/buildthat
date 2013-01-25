@@ -438,10 +438,10 @@ libraries[colorbox][download][url] = "http://jacklmoore.com/colorbox/colorbox.zi
 libraries[colorbox][directory_name] = ""
 libraries[colorbox][destination] = "libraries"
 
-libraries[jquery.cycle][download][type] = "get"
-libraries[jquery.cycle][download][url] = "https://raw.github.com/malsup/cycle/master/jquery.cycle.all.js"
-libraries[jquery.cycle][directory_name] = "jquery.cycle"
-libraries[jquery.cycle][destination] = "libraries"
+;libraries[jquery.cycle][download][type] = "get"
+;libraries[jquery.cycle][download][url] = "https://raw.github.com/malsup/cycle/master/jquery.cycle.all.js"
+;libraries[jquery.cycle][directory_name] = "jquery.cycle"
+;libraries[jquery.cycle][destination] = "libraries"
 
 ; used by itoggle
 libraries[jquery.easing][download][type] = "get"
