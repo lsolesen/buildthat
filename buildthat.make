@@ -1,6 +1,12 @@
 core = 7.x
 api = 2
 
+projects[feeds][subdir] = contrib
+projects[feeds][version] = 2.x-dev
+
+projects[views_data_export][subdir] = contrib
+projects[views_data_export][version] = 3.0-beta6
+
 ;;;;;;;;;
 ; Fields
 ;;;;;;;;;
