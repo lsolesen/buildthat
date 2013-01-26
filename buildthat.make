@@ -4,6 +4,9 @@ api = 2
 projects[feeds][subdir] = contrib
 projects[feeds][version] = 2.x-dev
 
+projects[prelaunch][subdir] = contrib
+projects[prelaunch][version] = 1.1
+
 projects[views_data_export][subdir] = contrib
 projects[views_data_export][version] = 3.0-beta6
 
@@ -73,7 +76,7 @@ projects[adaptive_image][subdir] = contrib
 projects[adaptive_image][version] = 1.4
 
 projects[admin_views][subdir] = contrib
-projects[admin_views][version] = 1.0
+projects[admin_views][version] = 1.1
 
 projects[backup_migrate][subdir] = contrib
 projects[backup_migrate][version] = 2.4
@@ -341,7 +344,7 @@ projects[itoggle][subdir] = contrib
 projects[itoggle][version] = 2.3
 
 projects[mailchimp][subdir] = contrib
-projects[mailchimp][version] = 2.9
+projects[mailchimp][version] = 2.x-dev
 
 projects[mollom][subdir] = contrib
 projects[mollom][version] = 2.4
