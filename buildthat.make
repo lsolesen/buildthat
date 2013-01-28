@@ -6,6 +6,7 @@ projects[feeds][version] = 2.x-dev
 
 projects[prelaunch][subdir] = contrib
 projects[prelaunch][version] = 1.1
+projects[prelaunch][patches][1900750] = http://drupal.org/files/issue-1900750.patch
 
 projects[views_data_export][subdir] = contrib
 projects[views_data_export][version] = 3.0-beta6
