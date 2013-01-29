@@ -347,6 +347,7 @@ projects[service_links][version] = 2.x-dev
 
 projects[socialmedia][subdir] = contrib	
 projects[socialmedia][version] = 1.0-beta13
+projects[socialmedia][patch][1468030] = http://drupal.org/files/fixed_warning-1468030-9.patch
 
 projects[widgets][subdir] = contrib	
 projects[widgets][version] = 1.0-rc1
