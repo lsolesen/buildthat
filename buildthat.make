@@ -79,6 +79,10 @@ projects[adaptive_image][version] = 1.4
 projects[admin_views][subdir] = contrib
 projects[admin_views][version] = 1.1
 
+projects[ajax_poll][subdir] = contrib
+projects[ajax_poll][version] = 1.1
+projects[ajax_poll][patch][1048064] = http://drupal.org/files/ajax_poll-panels-fix-1048064-11.patch
+
 projects[backup_migrate][subdir] = contrib
 projects[backup_migrate][version] = 2.4
 
@@ -105,6 +109,12 @@ projects[crumbs][version] = 1.8
 
 projects[ctools][subdir] = contrib
 projects[ctools][version] = 1.2
+
+projects[devel][subdir] = contrib
+projects[devel][version] = 1.3
+
+projects[disqus][subdir] = contrib
+projects[disqus][version] = 1.x-dev
 
 projects[diff][subdir] = contrib
 projects[diff][version] = 3.2
@@ -286,6 +296,12 @@ projects[views_send][version] = 1.0-rc1
 projects[views_slideshow][subdir] = contrib
 projects[views_slideshow][version] = 3.0
 
+projects[vote_up_down][subdir] = contrib
+projects[vote_up_down][version] = 1.x-dev
+
+projects[votingapi][subdir] = contrib
+projects[votingapi][version] = 2.10
+
 ;;;;;;;;;
 ; Performance
 ;;;;;;;;;
@@ -325,6 +341,9 @@ projects[site_verify][version] = 1.0
 ;;;;;;;;;
 ; Social integration
 ;;;;;;;;;
+
+projects[service_links][subdir] = contrib  
+projects[service_links][version] = 2.x-dev
 
 projects[socialmedia][subdir] = contrib	
 projects[socialmedia][version] = 1.0-beta13
