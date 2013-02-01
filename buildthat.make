@@ -1,6 +1,9 @@
 core = 7.x
 api = 2
 
+projects[entityconnect][subdir] = contrib
+projects[entityconnect][version] = 1.x-dev
+
 projects[feeds][subdir] = contrib
 projects[feeds][version] = 2.x-dev
 
