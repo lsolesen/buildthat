@@ -557,3 +557,6 @@ projects[navin][patch][1850670] = http://drupal.org/files/issue-1850670.patch
 
 projects[responsive_bartik][subdir] = contrib
 projects[responsive_bartik][version] = 1.x-dev
+
+projects[simpleclean][subdir] = contrib
+projects[simpleclean][version] = 2.x-dev
