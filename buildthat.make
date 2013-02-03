@@ -1,6 +1,12 @@
 core = 7.x
 api = 2
 
+projects[delta][subdir] = contrib
+projects[delta][version] = 3.0-beta11
+
+projects[ds][subdir] = contrib
+projects[ds][version] = 2.0
+
 projects[entityconnect][subdir] = contrib
 projects[entityconnect][version] = 1.x-dev
 
