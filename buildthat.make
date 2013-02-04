@@ -2,7 +2,7 @@ core = 7.x
 api = 2
 
 projects[empty_page][subdir] = contrib
-projects[empty_page][version] = 1.0
+projects[empty_page][version] = 1.x-dev
 
 projects[delta][subdir] = contrib
 projects[delta][version] = 3.0-beta11
