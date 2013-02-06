@@ -1,6 +1,9 @@
 core = 7.x
 api = 2
 
+projects[body_class][subdir] = contrib
+projects[body_class][version] = 1.2
+
 projects[empty_page][subdir] = contrib
 projects[empty_page][version] = 1.x-dev
 
