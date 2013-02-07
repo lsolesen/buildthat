@@ -25,8 +25,8 @@ projects[flexslider][version] = 1.x-dev
 projects[flexslider][subdir] = contrib
 projects[flexslider][version] = 1.x-dev
 
-projects[comment_block][subdir] = contrib
-projects[comment_block][version] = 1.0
+projects[commentsblock][subdir] = contrib
+projects[commentsblock][version] = 1.5
 
 projects[fontyourface][subdir] = contrib
 projects[fontyourface][version] = 2.6
