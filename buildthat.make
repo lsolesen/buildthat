@@ -1,6 +1,30 @@
 core = 7.x
 api = 2
 
+projects[twitter_block][subdir] = contrib
+projects[twitter_block][version] = 1.0
+
+projects[superfish][subdir] = contrib
+projects[superfish][version] = 1.8
+
+projects[save_draft][subdir] = contrib
+projects[save_draft][version] = 1.4
+
+projects[image_caption][subdir] = contrib
+projects[image_caption][version] = 1.x-dev
+
+projects[flexslider][subdir] = contrib
+projects[flexslider][version] = 1.x-dev
+
+projects[flexslider][subdir] = contrib
+projects[flexslider][version] = 1.x-dev
+
+projects[comment_block][subdir] = contrib
+projects[comment_block][version] = 1.0
+
+projects[fontyourface][subdir] = contrib
+projects[fontyourface][version] = 2.6
+
 projects[block_class][subdir] = contrib
 projects[block_class][version] = 1.2
 
