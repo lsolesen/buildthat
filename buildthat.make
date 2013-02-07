@@ -1,6 +1,9 @@
 core = 7.x
 api = 2
 
+projects[semanticviews][subdir] = contrib
+projects[semanticviewsk][version] = 1.x-dev
+
 projects[twitter_block][subdir] = contrib
 projects[twitter_block][version] = 1.0
 
