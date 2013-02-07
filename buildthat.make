@@ -1,6 +1,9 @@
 core = 7.x
 api = 2
 
+projects[featured_content][subdir] = contrib
+projects[featured_content][version] = 1.5
+
 projects[semanticviews][subdir] = contrib
 projects[semanticviewsk][version] = 1.x-dev
 
