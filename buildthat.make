@@ -26,7 +26,7 @@ projects[flexslider][subdir] = contrib
 projects[flexslider][version] = 1.x-dev
 
 projects[commentsblock][subdir] = contrib
-projects[commentsblock][version] = 1.5
+projects[commentsblock][version] = 2.0-beta1
 
 projects[fontyourface][subdir] = contrib
 projects[fontyourface][version] = 2.6
@@ -253,7 +253,7 @@ projects[nodequeue][subdir] = contrib
 projects[nodequeue][version] = 2.0-beta1
 
 projects[oauth][subdir] = contrib
-projects[oauth][version] = 3.0
+projects[oauth][version] = 3.1
 
 projects[oauthconnector][subdir] = contrib
 projects[oauthconnector][version] = 1.0-beta1
