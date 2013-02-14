@@ -5,7 +5,7 @@ projects[featured_content][subdir] = contrib
 projects[featured_content][version] = 1.5
 
 projects[semanticviews][subdir] = contrib
-projects[semanticviewsk][version] = 1.x-dev
+projects[semanticviews][version] = 1.x-dev
 
 projects[twitter_block][subdir] = contrib
 projects[twitter_block][version] = 1.0
