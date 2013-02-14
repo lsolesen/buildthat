@@ -302,7 +302,6 @@ projects[tabsnomore][subdir] = contrib
 projects[tabsnomore][download][type] = "git"
 projects[tabsnomore][download][url] = "http://git.drupal.org/sandbox/onkeltem/1730244.git"
 projects[tabsnomore[download][branch] = "master"
-projects[tabsnomore][patch][1846598] = http://drupal.org/files/0001-Fix-bug-1846598.patch
 
 projects[taxonomy_display][subdir] = contrib
 projects[taxonomy_display][version] = 1.1
