@@ -26,10 +26,10 @@ projects[flexslider][subdir] = contrib
 projects[flexslider][version] = 1.x-dev
 
 projects[commentsblock][subdir] = contrib
-projects[commentsblock][version] = 2.0-beta1
+projects[commentsblock][version] = 2.1
 
 projects[fontyourface][subdir] = contrib
-projects[fontyourface][version] = 2.6
+projects[fontyourface][version] = 2.7
 
 projects[block_class][subdir] = contrib
 projects[block_class][version] = 1.2
@@ -89,7 +89,7 @@ projects[field_redirection][subdir] = contrib
 projects[field_redirection][version] = 2.5
 
 projects[link][subdir] = contrib
-projects[link][version] = 1.0
+projects[link][version] = 1.1
 
 projects[pdf_reader][subdir] = contrib
 projects[pdf_reader][version] = 1.0-rc4
@@ -232,7 +232,7 @@ projects[media_vimeo][subdir] = contrib
 projects[media_vimeo][version] = 2.x-dev
 
 projects[media_youtube][subdir] = contrib
-projects[media_youtube][version] = 2.x-dev
+projects[media_youtube][version] = 2.0-rc2
 
 projects[menu_block][subdir] = "contrib"
 projects[menu_block][version] = 2.3
@@ -310,7 +310,7 @@ projects[taxonomy_menu][subdir] = contrib
 projects[taxonomy_menu][version] = 1.4
 
 projects[token][subdir] = contrib
-projects[token][version] = 1.4
+projects[token][version] = 1.5
 
 projects[quiz][subdir] = "contrib"
 projects[quiz][version] = 4.0-alpha12
@@ -440,7 +440,7 @@ projects[wysiwyg_filter][version] = 1.6-rc2
 ;;;;;;;;;
 
 projects[admin_menu][subdir] = contrib
-projects[admin_menu][version] = 3.0-rc3
+projects[admin_menu][version] = 3.0-rc4
 
 projects[advanced_help][subdir] = contrib
 projects[advanced_help][version] = 1.0
