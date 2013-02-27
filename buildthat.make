@@ -570,6 +570,11 @@ libraries[mailchimp][download][url] = "http://apidocs.mailchimp.com/api/download
 libraries[mailchimp][directory_name] = "mailchimp"
 libraries[mailchimp][destination] = "libraries"
 
+libraries[superfish][download][type] = "get"
+libraries[superfish][download][url] = "https://github.com/mehrpadin/Superfish-for-Drupal/archive/1571b1d5d3519246fe5b2e40a14579758afac503.zip"
+libraries[superfish][directory_name] = "superfish"
+libraries[superfish][destination] = "libraries"
+
 ;;;;;;;;;
 ; Themes
 ;;;;;;;;;
