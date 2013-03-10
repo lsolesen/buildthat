@@ -41,7 +41,7 @@ projects[delta][subdir] = contrib
 projects[delta][version] = 3.0-beta11
 
 projects[ds][subdir] = contrib
-projects[ds][version] = 2.0
+projects[ds][version] = 2.2
 
 projects[entityconnect][subdir] = contrib
 projects[entityconnect][version] = 1.x-dev
@@ -141,16 +141,16 @@ projects[comment_notify][subdir] = contrib
 projects[comment_notify][version] = 1.1
 
 projects[cookiecontrol][subdir] = contrib
-projects[cookiecontrol][version] = 1.5
+projects[cookiecontrol][version] = 1.6
 
 projects[connector][subdir] = contrib
-projects[connector][version] = 1.0-beta1
+projects[connector][version] = 1.0-beta2
 
 projects[context][subdir] = contrib
 projects[context][version] = 3.0-beta6
 
 projects[crumbs][subdir] = contrib
-projects[crumbs][version] = 1.8
+projects[crumbs][version] = 1.9
 
 projects[ctools][subdir] = contrib
 projects[ctools][version] = 1.2
@@ -202,7 +202,7 @@ projects[image_resize_filter][subdir] = contrib
 projects[image_resize_filter][version] = 1.13
 
 projects[jquery_update][subdir] = contrib
-projects[jquery_update][version] = 2.2
+projects[jquery_update][version] = 2.3
 
 projects[jplayer][subdir] = contrib
 projects[jplayer][version] = 2.0-beta1
@@ -211,7 +211,7 @@ projects[l10n_update][subdir] = contrib
 projects[l10n_update][version] = 1.0-beta3
 
 projects[linkit][subdir] = contrib
-projects[linkit][version] = 2.5
+projects[linkit][version] = 2.6
 
 projects[i18n][subdir] = contrib 
 projects[i18n][version] = 1.x-dev
@@ -220,7 +220,7 @@ projects[job_scheduler][subdir] = contrib
 projects[job_scheduler][version] = 2.0-alpha3
 
 projects[libraries][subdir] = contrib
-projects[libraries][version] = 2.0
+projects[libraries][version] = 2.1
 
 projects[logintoboggan][subdir] = contrib
 projects[logintoboggan][version] = 1.3
@@ -313,7 +313,7 @@ projects[token][subdir] = contrib
 projects[token][version] = 1.5
 
 projects[quiz][subdir] = "contrib"
-projects[quiz][version] = 4.0-alpha12
+projects[quiz][version] = 4.0-beta1
 
 ; Can be removed when http://drupal.org/node/1058912 is resolved
 projects[token_tweaks][subdir] = contrib
@@ -338,7 +338,7 @@ projects[views_random_seed][subdir] = contrib
 projects[views_random_seed][version] = 1.2
 
 projects[views_send][subdir] = contrib
-projects[views_send][version] = 1.0-rc1
+projects[views_send][version] = 1.0-rc2
 
 projects[views_slideshow][subdir] = contrib
 projects[views_slideshow][version] = 3.0
@@ -407,7 +407,7 @@ projects[chart][subdir] = contrib
 projects[chart][version] = 1.x-dev
 
 projects[colorbox][subdir] = contrib
-projects[colorbox][version] = 2.2
+projects[colorbox][version] = 2.3
 
 projects[itoggle][subdir] = contrib
 projects[itoggle][version] = 2.3
@@ -586,7 +586,7 @@ projects[corolla][subdir] = contrib
 projects[corolla][version] = 3.0-rc1
 
 projects[shiny][subdir] = contrib
-projects[shiny][version] = 1.0-rc5
+projects[shiny][version] = 1.0
 
 projects[omega][subdir] = contrib
 projects[omega][version] = 3.1
