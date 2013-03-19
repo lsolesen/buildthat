@@ -141,7 +141,7 @@ projects[calendar][subdir] = contrib
 projects[calendar][version] = 3.4
 
 projects[comment_notify][subdir] = contrib
-projects[comment_notify][version] = 1.1
+projects[comment_notify][version] = 1.2
 
 projects[cookiecontrol][subdir] = contrib
 projects[cookiecontrol][version] = 1.6
