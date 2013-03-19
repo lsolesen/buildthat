@@ -1,6 +1,9 @@
 core = 7.x
 api = 2
 
+projects[url][subdir] = contrib
+projects[url][version] = 1.0
+
 projects[featured_content][subdir] = contrib
 projects[featured_content][version] = 1.5
 
