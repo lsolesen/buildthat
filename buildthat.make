@@ -381,6 +381,7 @@ projects[google_analytics_reports][version] = 3.x-dev
 
 projects[metatag][subdir] = contrib
 projects[metatag][version] = 1.0-beta4
+projects[metatag][patch][1865228] = http://drupal.org/files/metatag-n1865228-4.patch
 
 projects[schemaorg][subdir] = contrib
 projects[schemaorg][version] = 1.0-beta3
