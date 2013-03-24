@@ -1,6 +1,9 @@
 core = 7.x
 api = 2
 
+projects[publish_button][subdir] = contrib
+projects[publish_button][version] = 1.0-beta8
+
 projects[url][subdir] = contrib
 projects[url][version] = 1.0
 
@@ -267,6 +270,7 @@ projects[oembed][version] = 0.1-beta3
 projects[panels][subdir] = contrib
 projects[panels][version] = 3.x-dev
 
+; should be removed when sure that no module uses it anymore. Switch to publish_content
 projects[publishcontent][subdir] = contrib
 projects[publishcontent][version] = 1.0
 
