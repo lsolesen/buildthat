@@ -101,7 +101,7 @@ projects[pdf_reader][subdir] = contrib
 projects[pdf_reader][version] = 1.0-rc4
 
 projects[title][subdir] = contrib
-projects[title][version] = 1.0-alpha5
+projects[title][version] = 1.0-alpha7
 
 ;;;;;;;;;
 ; Path tools
@@ -272,7 +272,7 @@ projects[panels][version] = 3.x-dev
 
 ; should be removed when sure that no module uses it anymore. Switch to publish_content
 projects[publishcontent][subdir] = contrib
-projects[publishcontent][version] = 1.0
+projects[publishcontent][version] = 1.1
 
 projects[plupload][subdir] = contrib
 projects[plupload][version] = 1.1
@@ -302,7 +302,7 @@ projects[strongarm][subdir] = contrib
 projects[strongarm][version] = 2.0
 
 projects[tagadelic][subdir] = contrib 
-projects[tagadelic][version] = 1.x-dev
+projects[tagadelic][version] = 2.x-dev
 
 projects[tabsnomore][type] = module
 projects[tabsnomore][subdir] = contrib
@@ -354,7 +354,7 @@ projects[vote_up_down][subdir] = contrib
 projects[vote_up_down][version] = 1.x-dev
 
 projects[votingapi][subdir] = contrib
-projects[votingapi][version] = 2.10
+projects[votingapi][version] = 2.11
 
 ;;;;;;;;;
 ; Performance
@@ -371,7 +371,7 @@ projects[message][subdir] = contrib
 projects[message][version] = 1.7
 
 projects[message_notify][subdir] = contrib
-projects[message_notify][version] = 2.3
+projects[message_notify][version] = 2.4
 
 ;;;;;;;;;
 ; SEO Tools
