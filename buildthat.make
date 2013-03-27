@@ -234,6 +234,10 @@ projects[logintoboggan][version] = 1.3
 projects[media][subdir] = contrib
 projects[media][version] = 2.x-dev
 
+projects[media_colorbox][subdir] = contrib
+projects[media_colorbox][version] = 1.0-rc3
+projects[media_colorbox][patch][1888198] = http://drupal.org/files/media_colorbox_wysiwyg-1888198-14.patch
+
 projects[media_vimeo][subdir] = contrib 
 projects[media_vimeo][version] = 2.x-dev
 
