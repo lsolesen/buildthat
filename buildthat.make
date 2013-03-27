@@ -617,3 +617,9 @@ projects[responsive_bartik][version] = 1.x-dev
 
 projects[simpleclean][subdir] = contrib
 projects[simpleclean][version] = 2.x-dev
+
+projects[zen][subdir] = contrib
+projects[zen][version] = 5.1
+
+projects[neptune][subdir] = contrib
+projects[neptune][version] = 1.1
