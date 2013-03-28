@@ -41,7 +41,7 @@ projects[block_class][subdir] = contrib
 projects[block_class][version] = 1.2
 
 projects[empty_front_page][subdir] = contrib
-projects[empty_front_page][version] = 1.x-dev
+projects[empty_front_page][version] = 1.0
 
 projects[delta][subdir] = contrib
 projects[delta][version] = 3.0-beta11
