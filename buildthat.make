@@ -1,6 +1,9 @@
 core = 7.x
 api = 2
 
+projects[revisioning][subdir] = contrib
+projects[revisioning][version] = 1.4
+
 projects[globalredirect][subdir] = contrib
 projects[globalredirect][version] = 2.10
 
