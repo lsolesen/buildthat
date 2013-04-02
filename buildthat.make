@@ -1,6 +1,9 @@
 core = 7.x
 api = 2
 
+projects[easy_social][subdir] = contrib
+projects[easy_social][version] = 2.10
+
 projects[publish_button][subdir] = contrib
 projects[publish_button][version] = 1.0-beta8
 
