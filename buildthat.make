@@ -1,6 +1,12 @@
 core = 7.x
 api = 2
 
+projects[webform_validation][subdir] = contrib
+projects[webform_validation][version] = 1.2
+
+projects[select_or_other][subdir] = contrib
+projects[select_or_other][version] = 2.15
+
 projects[revisioning][subdir] = contrib
 projects[revisioning][version] = 1.4
 
