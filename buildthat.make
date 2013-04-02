@@ -1,6 +1,9 @@
 core = 7.x
 api = 2
 
+projects[cck_blocks][subdir] = contrib
+projects[cck_blocks][version] = 1.1
+
 projects[webform_validation][subdir] = contrib
 projects[webform_validation][version] = 1.2
 
