@@ -1,6 +1,9 @@
 core = 7.x
 api = 2
 
+projects[smartcrop][subdir] = contrib
+projects[smartcrop][version] = 1.0-beta2
+
 projects[cck_blocks][subdir] = contrib
 projects[cck_blocks][version] = 1.1
 
@@ -221,6 +224,10 @@ projects[imagecache_profiles][version] = 1.0
 
 projects[imagecrop][subdir] = contrib
 projects[imagecrop][version] = 1.0-rc3
+
+projects[imagefield_focus][subdir] = contrib
+projects[imagefield_focus][version] = 1.x-dev
+projects[imagefield_focus][patch][1781778] = http://drupal.org/files/iff-media_1.patch
 
 projects[image_resize_filter][subdir] = contrib
 projects[image_resize_filter][version] = 1.13
