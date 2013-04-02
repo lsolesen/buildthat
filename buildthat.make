@@ -1,6 +1,9 @@
 core = 7.x
 api = 2
 
+projects[globalredirect][subdir] = contrib
+projects[globalredirect][version] = 2.10
+
 projects[easy_social][subdir] = contrib
 projects[easy_social][version] = 2.10
 
