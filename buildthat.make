@@ -11,7 +11,7 @@ projects[revisioning][subdir] = contrib
 projects[revisioning][version] = 1.4
 
 projects[globalredirect][subdir] = contrib
-projects[globalredirect][version] = 2.10
+projects[globalredirect][version] = 1.5
 
 projects[easy_social][subdir] = contrib
 projects[easy_social][version] = 2.10
