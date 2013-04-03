@@ -1,6 +1,9 @@
 core = 7.x
 api = 2
 
+projects[l10n_client][subdir] = contrib
+projects[l10n_client][version] = 1.2
+
 projects[smartcrop][subdir] = contrib
 projects[smartcrop][version] = 1.0-beta2
 
