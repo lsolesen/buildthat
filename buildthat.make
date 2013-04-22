@@ -156,7 +156,7 @@ projects[ajax_poll][version] = 1.1
 projects[ajax_poll][patch][1048064] = http://drupal.org/files/ajax_poll-panels-fix-1048064-11.patch
 
 projects[backup_migrate][subdir] = contrib
-projects[backup_migrate][version] = 2.4
+projects[backup_migrate][version] = 2.5
 
 projects[better_formats][subdir] = contrib
 projects[better_formats][version] = 1.0-beta1
@@ -198,7 +198,7 @@ projects[entity][subdir] = contrib
 projects[entity][version] = 1.0
 
 projects[facetapi][subdir] = contrib
-projects[facetapi][version] = 1.2
+projects[facetapi][version] = 1.3
 projects[facetapi][patch][1616518] = http://drupal.org/files/1616518-7-show-active-term.patch
 
 projects[features][subdir] = contrib
@@ -313,7 +313,7 @@ projects[rules][subdir] = contrib
 projects[rules][version] = 2.3
 
 projects[scheduler][subdir] = contrib
-projects[scheduler][version] = 1.0
+projects[scheduler][version] = 1.1
 
 projects[search_api][subdir] = contrib
 projects[search_api][version] = 1.4
@@ -362,7 +362,7 @@ projects[webform_mailchimp][subdir] = contrib
 projects[webform_mailchimp][version] = 1.0-rc2
 
 projects[views][subdir] = contrib
-projects[views][version] = 3.6
+projects[views][version] = 3.7
 
 projects[draggableviews][subdir] = contrib
 projects[draggableviews][version] = 2.x-dev
@@ -397,10 +397,10 @@ projects[mailsystem][subdir] = contrib
 projects[mailsystem][version] = 2.34
 
 projects[message][subdir] = contrib
-projects[message][version] = 1.7
+projects[message][version] = 1.8
 
 projects[message_notify][subdir] = contrib
-projects[message_notify][version] = 2.4
+projects[message_notify][version] = 2.5
 
 ;;;;;;;;;
 ; SEO Tools
@@ -413,7 +413,7 @@ projects[google_analytics_reports][subdir] = contrib
 projects[google_analytics_reports][version] = 3.x-dev
 
 projects[metatag][subdir] = contrib
-projects[metatag][version] = 1.0-beta5
+projects[metatag][version] = 1.0-beta7
 
 projects[schemaorg][subdir] = contrib
 projects[schemaorg][version] = 1.0-beta3
@@ -443,7 +443,7 @@ projects[chart][subdir] = contrib
 projects[chart][version] = 1.x-dev
 
 projects[colorbox][subdir] = contrib
-projects[colorbox][version] = 2.3
+projects[colorbox][version] = 2.4
 
 projects[itoggle][subdir] = contrib
 projects[itoggle][version] = 2.3
@@ -452,7 +452,7 @@ projects[mailchimp][subdir] = contrib
 projects[mailchimp][version] = 2.x-dev
 
 projects[mollom][subdir] = contrib
-projects[mollom][version] = 2.4
+projects[mollom][version] = 2.6
 
 projects[userreport][subdir] = contrib
 projects[userreport][version] = 1.0-alpha2
