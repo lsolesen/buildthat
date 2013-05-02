@@ -14,10 +14,10 @@ projects[webform_validation][subdir] = contrib
 projects[webform_validation][version] = 1.2
 
 projects[select_or_other][subdir] = contrib
-projects[select_or_other][version] = 2.15
+projects[select_or_other][version] = 2.16
 
 projects[revisioning][subdir] = contrib
-projects[revisioning][version] = 1.4
+projects[revisioning][version] = 1.5
 
 projects[globalredirect][subdir] = contrib
 projects[globalredirect][version] = 1.5
@@ -41,7 +41,7 @@ projects[twitter_block][subdir] = contrib
 projects[twitter_block][version] = 1.0
 
 projects[superfish][subdir] = contrib
-projects[superfish][version] = 1.8
+projects[superfish][version] = 1.9
 
 projects[save_draft][subdir] = contrib
 projects[save_draft][version] = 1.4
@@ -56,7 +56,7 @@ projects[commentsblock][subdir] = contrib
 projects[commentsblock][version] = 2.1
 
 projects[fontyourface][subdir] = contrib
-projects[fontyourface][version] = 2.7
+projects[fontyourface][version] = 2.8
 
 projects[block_class][subdir] = contrib
 projects[block_class][version] = 1.2
@@ -74,7 +74,7 @@ projects[entityconnect][subdir] = contrib
 projects[entityconnect][version] = 1.x-dev
 
 projects[feeds][subdir] = contrib
-projects[feeds][version] = 2.x-dev
+projects[feeds][version] = 2.0-alpha8
 
 projects[prelaunch][subdir] = contrib
 projects[prelaunch][version] = 1.1
@@ -195,7 +195,7 @@ projects[enterprise_rotator][subdir] = contrib
 projects[enterprise_rotator][version] = 1.0-rc1
 
 projects[entity][subdir] = contrib
-projects[entity][version] = 1.0
+projects[entity][version] = 1.1
 
 projects[facetapi][subdir] = contrib
 projects[facetapi][version] = 1.3
@@ -267,7 +267,7 @@ projects[media_vimeo][subdir] = contrib
 projects[media_vimeo][version] = 2.x-dev
 
 projects[media_youtube][subdir] = contrib
-projects[media_youtube][version] = 2.0-rc2
+projects[media_youtube][version] = 2.0-rc3
 
 projects[menu_block][subdir] = "contrib"
 projects[menu_block][version] = 2.3
@@ -494,7 +494,7 @@ projects[module_filter][subdir] = contrib
 projects[module_filter][version] = 1.7
 
 projects[options_element][subdir] = contrib
-projects[options_element][version] = 1.8
+projects[options_element][version] = 1.9
 
 projects[shortcutperrole][subdir] = contrib
 projects[shortcutperrole][version] = 1.1
