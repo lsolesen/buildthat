@@ -316,7 +316,7 @@ projects[scheduler][subdir] = contrib
 projects[scheduler][version] = 1.1
 
 projects[search_api][subdir] = contrib
-projects[search_api][version] = 1.4
+projects[search_api][version] = 1.5
 
 projects[search_api_db][subdir] = contrib
 projects[search_api_db][version] = 1.0-beta4
@@ -506,7 +506,7 @@ projects[emfield][subdir] = contrib
 projects[emfield[version] = 1.0-alpha1
 
 projects[rpx][subdir] = contrib
-projects[rpx][version] = 2.2
+projects[rpx][version] = 2.3
 projects[rpx][patch][1678124] = http://drupal.org/files/rpx-1678124-1.patch
 
 projects[skinr][subdir] = contrib
