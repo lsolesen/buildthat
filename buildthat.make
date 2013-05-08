@@ -88,7 +88,7 @@ projects[views_data_export][version] = 3.0-beta6
 ;;;;;;;;;
 
 projects[addressfield][subdir] = contrib
-projects[addressfield][version] = 1.0-beta3
+projects[addressfield][version] = 1.0-beta4
 
 projects[cck][subdir] = contrib
 projects[cck][version] = 2.x-dev
