@@ -217,7 +217,7 @@ projects[http_client][subdir] = contrib
 projects[http_client][version] = 2.4
 
 projects[flag][subdir] = "contrib"
-projects[flag][version] = 2.0
+projects[flag][version] = 2.1
 
 projects[imagecache_profiles][subdir] = contrib
 projects[imagecache_profiles][version] = 1.0
@@ -374,7 +374,7 @@ projects[views_random_seed][subdir] = contrib
 projects[views_random_seed][version] = 1.2
 
 projects[views_send][subdir] = contrib
-projects[views_send][version] = 1.0-rc2
+projects[views_send][version] = 1.0-rc3
 
 projects[views_slideshow][subdir] = contrib
 projects[views_slideshow][version] = 3.0
