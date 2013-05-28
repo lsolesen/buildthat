@@ -14,7 +14,7 @@ projects[webform_validation][subdir] = contrib
 projects[webform_validation][version] = 1.2
 
 projects[select_or_other][subdir] = contrib
-projects[select_or_other][version] = 2.16
+projects[select_or_other][version] = 2.17
 
 projects[revisioning][subdir] = contrib
 projects[revisioning][version] = 1.5
@@ -68,7 +68,7 @@ projects[delta][subdir] = contrib
 projects[delta][version] = 3.0-beta11
 
 projects[ds][subdir] = contrib
-projects[ds][version] = 2.2
+projects[ds][version] = 2.3
 
 projects[entityconnect][subdir] = contrib
 projects[entityconnect][version] = 1.x-dev
@@ -149,14 +149,14 @@ projects[adaptive_image][subdir] = contrib
 projects[adaptive_image][version] = 1.4
 
 projects[admin_views][subdir] = contrib
-projects[admin_views][version] = 1.1
+projects[admin_views][version] = 1.2
 
 projects[ajax_poll][subdir] = contrib
 projects[ajax_poll][version] = 1.1
 projects[ajax_poll][patch][1048064] = http://drupal.org/files/ajax_poll-panels-fix-1048064-11.patch
 
 projects[backup_migrate][subdir] = contrib
-projects[backup_migrate][version] = 2.5
+projects[backup_migrate][version] = 2.7
 
 projects[better_formats][subdir] = contrib
 projects[better_formats][version] = 1.0-beta1
@@ -319,7 +319,7 @@ projects[search_api][subdir] = contrib
 projects[search_api][version] = 1.5
 
 projects[search_api_db][subdir] = contrib
-projects[search_api_db][version] = 1.0-beta4
+projects[search_api_db][version] = 1.0-rc1
 
 projects[similarterms][subdir] = contrib 
 projects[similarterms][version] = 2.3
@@ -622,7 +622,7 @@ projects[corolla][subdir] = contrib
 projects[corolla][version] = 3.0-rc1
 
 projects[shiny][subdir] = contrib
-projects[shiny][version] = 1.1
+projects[shiny][version] = 1.2
 
 projects[omega][subdir] = contrib
 projects[omega][version] = 3.1
