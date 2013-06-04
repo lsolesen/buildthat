@@ -54,9 +54,9 @@ projects[flexslider][version] = 1.x-dev
 
 projects[commentsblock][subdir] = contrib
 projects[commentsblock][version] = 2.1
-projects[commentsblock][patches][2011630] = https://drupal.org/files/issue-2011630_0.patch
-projects[commentsblock][patches][1840182] = https://drupal.org/files/issue-1840182.patch
-projects[commentsblock][patches][1947632] = https://drupal.org/files/commit-8b80354-commentsblock.module.patch
+projects[commentsblock][patch][2011630] = https://drupal.org/files/issue-2011630_0.patch
+projects[commentsblock][patch][1840182] = https://drupal.org/files/issue-1840182.patch
+projects[commentsblock][patch][1947632] = https://drupal.org/files/commit-8b80354-commentsblock.module.patch
 
 projects[fontyourface][subdir] = contrib
 projects[fontyourface][version] = 2.8
@@ -81,7 +81,7 @@ projects[feeds][version] = 2.0-alpha8
 
 projects[prelaunch][subdir] = contrib
 projects[prelaunch][version] = 1.1
-projects[prelaunch][patches][1900750] = http://drupal.org/files/issue-1900750.patch
+projects[prelaunch][patch][1900750] = http://drupal.org/files/issue-1900750.patch
 
 projects[views_data_export][subdir] = contrib
 projects[views_data_export][version] = 3.0-beta6
@@ -434,6 +434,7 @@ projects[service_links][version] = 2.x-dev
 projects[socialmedia][subdir] = contrib	
 projects[socialmedia][version] = 1.0-beta13
 projects[socialmedia][patch][1468030] = http://drupal.org/files/fixed_warning-1468030-9.patch
+projects[socialmedia][patch][1981474] = https://drupal.org/files/service_links-1981474.patch
 
 projects[widgets][subdir] = contrib	
 projects[widgets][version] = 1.0-rc1
