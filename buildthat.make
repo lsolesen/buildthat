@@ -294,7 +294,7 @@ projects[oauth][subdir] = contrib
 projects[oauth][version] = 3.1
 
 projects[oauthconnector][subdir] = contrib
-projects[oauthconnector][version] = 1.0-beta1
+projects[oauthconnector][version] = 1.0-beta2
 
 projects[oembed][subdir] = contrib
 projects[oembed][version] = 0.1-beta3
@@ -319,7 +319,7 @@ projects[scheduler][subdir] = contrib
 projects[scheduler][version] = 1.1
 
 projects[search_api][subdir] = contrib
-projects[search_api][version] = 1.5
+projects[search_api][version] = 1.6
 
 projects[search_api_db][subdir] = contrib
 projects[search_api_db][version] = 1.0-rc1
@@ -359,7 +359,7 @@ projects[token_tweaks][subdir] = contrib
 projects[token_tweaks][version] = 1.x-dev
 
 projects[webform][subdir] = contrib
-projects[webform][version] = 3.18
+projects[webform][version] = 3.19
 
 projects[webform_mailchimp][subdir] = contrib
 projects[webform_mailchimp][version] = 1.0-rc2
