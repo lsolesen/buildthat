@@ -54,9 +54,9 @@ projects[flexslider][version] = 1.x-dev
 
 projects[commentsblock][subdir] = contrib
 projects[commentsblock][version] = 2.1
-projects[commentsblock][patch][2011630] = https://drupal.org/files/issue-2011630-comment-5.patch
 projects[commentsblock][patch][1840182] = https://drupal.org/files/issue-1840182_0.patch
 projects[commentsblock][patch][1947632] = https://drupal.org/files/commit-8b80354-commentsblock.module.patch
+;projects[commentsblock][patch][2011630] = https://drupal.org/files/issue-2011630-comment-5.patch
 
 projects[fontyourface][subdir] = contrib
 projects[fontyourface][version] = 2.8
