@@ -1,6 +1,9 @@
 core = 7.x
 api = 2
 
+projects[less][subdir] = contrib
+projects[less][version] = 2.6
+
 projects[l10n_client][subdir] = contrib
 projects[l10n_client][version] = 1.2
 
@@ -617,6 +620,11 @@ libraries[superfish][download][type] = "get"
 libraries[superfish][download][url] = "https://github.com/lsolesen/superfish/archive/master.zip"
 libraries[superfish][directory_name] = "superfish"
 libraries[superfish][destination] = "libraries"
+
+libraries[less][download][type] = "get"
+libraries[less][download][url] = "http://leafo.net/lessphp/src/lessphp-0.3.9.tar.gz"
+libraries[less][directory_name] = "less"
+libraries[less][destination] = "libraries"
 
 ;;;;;;;;;
 ; Themes
