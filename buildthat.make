@@ -623,7 +623,7 @@ libraries[superfish][destination] = "libraries"
 
 libraries[less][download][type] = "get"
 libraries[less][download][url] = "http://leafo.net/lessphp/src/lessphp-0.3.9.tar.gz"
-libraries[less][directory_name] = "less"
+libraries[less][directory_name] = "lessphp"
 libraries[less][destination] = "libraries"
 
 ;;;;;;;;;
