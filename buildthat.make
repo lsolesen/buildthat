@@ -55,14 +55,8 @@ projects[image_caption][version] = 1.x-dev
 projects[flexslider][subdir] = contrib
 projects[flexslider][version] = 1.x-dev
 
-projects[commentsblock][type] = module
 projects[commentsblock][subdir] = contrib
-projects[commentsblock][download][type] = "git"
-projects[commentsblock][download][url] = "http://git.drupal.org/project/commentsblock.git"
-projects[commentsblock][download][branch] = "7.x-2.x"
-projects[commentsblock][patch][1840182] = https://drupal.org/files/issue-1840182_0.patch
-projects[commentsblock][patch][1947632] = https://drupal.org/files/commit-8b80354-commentsblock.module.patch
-projects[commentsblock][patch][2011630] = https://drupal.org/files/issue-2011630-comment-5.patch
+projects[commentsblock][version] = 2.2
 
 projects[fontyourface][subdir] = contrib
 projects[fontyourface][version] = 2.8
