@@ -71,7 +71,7 @@ projects[delta][subdir] = contrib
 projects[delta][version] = 3.0-beta11
 
 projects[ds][subdir] = contrib
-projects[ds][version] = 2.3
+projects[ds][version] = 2.4
 
 projects[entityconnect][subdir] = contrib
 projects[entityconnect][version] = 1.x-dev
@@ -469,7 +469,7 @@ projects[ckeditor_link][subdir] = contrib
 projects[ckeditor_link][version] = 2.3
 
 projects[wysiwyg][subdir] = contrib
-projects[wysiwyg][version] = 2.2
+projects[wysiwyg][version] = 2.x-dev
 projects[wysiwyg][patch][934976] = http://drupal.org/files/wysiwyg-one-format.934976.23.patch
 
 projects[wysiwyg_filter][subdir] = contrib
@@ -547,7 +547,7 @@ projects[i18n][subdir] = "contrib"
 ;;;;;;;;;
 
 libraries[ckeditor][download][type] = "get"
-libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%203.6.3/ckeditor_3.6.3.zip"
+libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%204.1.2/ckeditor_4.1.2_standard.zip"
 libraries[ckeditor][directory_name] = "ckeditor"
 libraries[ckeditor][destination] = "libraries"
 
@@ -650,7 +650,7 @@ projects[navin][version] = 1.0-beta2
 projects[navin][patch][1850670] = http://drupal.org/files/issue-1850670.patch
 
 projects[responsive_bartik][subdir] = contrib
-projects[responsive_bartik][version] = 1.x-dev
+projects[responsive_bartik][version] = 1.0-beta2
 
 projects[simpleclean][subdir] = contrib
 projects[simpleclean][version] = 2.x-dev
@@ -659,4 +659,4 @@ projects[zen][subdir] = contrib
 projects[zen][version] = 5.1
 
 projects[neptune][subdir] = contrib
-projects[neptune][version] = 1.1
+projects[neptune][version] = 1.2
