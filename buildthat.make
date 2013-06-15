@@ -459,7 +459,7 @@ projects[mollom][subdir] = contrib
 projects[mollom][version] = 2.6
 
 projects[userreport][subdir] = contrib
-projects[userreport][version] = 1.0-alpha3
+projects[userreport][version] = 1.0-alpha4
 
 ;;;;;;;;;
 ; Text editor
