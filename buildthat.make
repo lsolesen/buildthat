@@ -430,7 +430,6 @@ projects[site_verify][version] = 1.0
 
 projects[service_links][subdir] = contrib  
 projects[service_links][version] = 2.x-dev
-projects[service_links][patch][1981474] = https://drupal.org/files/service_links-1981474.patch
 
 projects[socialmedia][subdir] = contrib	
 projects[socialmedia][version] = 1.0-beta13
