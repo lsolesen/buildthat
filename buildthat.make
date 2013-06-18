@@ -80,9 +80,7 @@ projects[feeds][subdir] = contrib
 projects[feeds][version] = 2.0-alpha8
 
 projects[prelaunch][subdir] = contrib
-projects[prelaunch][version] = 1.1
-projects[prelaunch][patch][1900750] = http://drupal.org/files/issue-1900750.patch
-projects[prelaunch][patch][2020559] = https://drupal.org/files/issue-2020559.patch
+projects[prelaunch][version] = 1.2
 
 projects[views_data_export][subdir] = contrib
 projects[views_data_export][version] = 3.0-beta6
