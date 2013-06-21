@@ -41,8 +41,8 @@ projects[featured_content][version] = 1.5
 projects[semanticviews][subdir] = contrib
 projects[semanticviews][version] = 1.x-dev
 
-projects[twitter_block][subdir] = contrib
-projects[twitter_block][version] = 1.0
+projects[twitter][subdir] = contrib
+projects[twitter][version] = 5.8
 
 projects[superfish][subdir] = contrib
 projects[superfish][version] = 1.9
