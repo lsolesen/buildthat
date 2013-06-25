@@ -392,6 +392,12 @@ projects[votingapi][version] = 2.11
 ; Performance
 ;;;;;;;;;
 
+projects[advagg][subdir] = contrib
+projects[advagg][version] = 2.0-beta1
+
+projects[cdn][subdir] = contrib
+projects[cdn][version] = 2.6
+
 ;;;;;;;;;
 ; Messages and email
 ;;;;;;;;;
