@@ -29,7 +29,7 @@ projects[less][subdir] = contrib
 projects[less][version] = 2.6
 
 projects[l10n_client][subdir] = contrib
-projects[l10n_client][version] = 1.2
+projects[l10n_client][version] = 1.x-dev
 projects[l10n_client][patch][2025013] = https://drupal.org/files/issue-2025013.patch
 
 projects[smartcrop][subdir] = contrib
