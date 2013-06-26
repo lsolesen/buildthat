@@ -1,6 +1,30 @@
 core = 7.x
 api = 2
 
+projects[css_emimage][subdir] = contrib
+projects[css_emimage][version] = 1.3
+
+projects[speedy][subdir] = contrib
+projects[speedy][version] = 1.7
+
+projects[views_content_cache][subdir] = contrib
+projects[views_content_cache][version] = 3.0-alpha2
+
+projects[taxonomy_edge][subdir] = contrib
+projects[taxonomy_edge][version] = 1.8
+
+projects[node_view_permissions][subdir] = contrib
+projects[node_view_permissions][version] = 1.1
+
+projects[login_security][subdir] = contrib
+projects[login_security][version] = 1.3
+
+projects[readonlymode][subdir] = contrib
+projects[readonlymode][version] = 1.1
+
+projects[robotstxt][subdir] = contrib
+projects[robotstxt][version] = 1.x-dev
+
 projects[less][subdir] = contrib
 projects[less][version] = 2.6
 
@@ -18,7 +42,7 @@ projects[webform_validation][subdir] = contrib
 projects[webform_validation][version] = 1.2
 
 projects[select_or_other][subdir] = contrib
-projects[select_or_other][version] = 2.17
+projects[select_or_other][version] = 2.18
 
 projects[revisioning][subdir] = contrib
 projects[revisioning][version] = 1.5
@@ -516,7 +540,7 @@ projects[emfield][subdir] = contrib
 projects[emfield[version] = 1.0-alpha1
 
 projects[rpx][subdir] = contrib
-projects[rpx][version] = 2.3
+projects[rpx][version] = 2.4
 projects[rpx][patch][1678124] = http://drupal.org/files/rpx-1678124-1.patch
 
 projects[skinr][subdir] = contrib
