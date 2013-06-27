@@ -644,7 +644,7 @@ libraries[mailchimp][directory_name] = "mailchimp"
 libraries[mailchimp][destination] = "libraries"
 
 libraries[superfish][download][type] = "get"
-libraries[superfish][download][url] = "https://github.com/lsolesen/superfish/archive/master.zip"
+libraries[superfish][download][url] = "https://github.com/mehrpadin/Superfish-for-Drupal/archive/1.x.zip"
 libraries[superfish][directory_name] = "superfish"
 libraries[superfish][destination] = "libraries"
 
