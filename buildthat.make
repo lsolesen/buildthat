@@ -30,7 +30,7 @@ projects[less][version] = 2.6
 
 projects[l10n_client][subdir] = contrib
 projects[l10n_client][version] = 1.x-dev
-projects[l10n_client][patch][2025013] = https://drupal.org/files/issue-2025013.patch
+;projects[l10n_client][patch][2025013] = https://drupal.org/files/issue-2025013.patch
 
 projects[smartcrop][subdir] = contrib
 projects[smartcrop][version] = 1.0-beta2
@@ -684,6 +684,7 @@ projects[responsive_bartik][version] = 1.0-beta2
 
 projects[simpleclean][subdir] = contrib
 projects[simpleclean][version] = 2.x-dev
+projects[simpleclean][patch][2029307] = https://drupal.org/files/issue-2029307_0.patch
 
 projects[zen][subdir] = contrib
 projects[zen][version] = 5.1
