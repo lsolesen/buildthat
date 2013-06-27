@@ -1,6 +1,9 @@
 core = 7.x
 api = 2
 
+projects[fpa][subdir] = contrib
+projects[fpa][version] = 2.3
+
 projects[css_emimage][subdir] = contrib
 projects[css_emimage][version] = 1.3
 
