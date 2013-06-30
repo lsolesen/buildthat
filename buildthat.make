@@ -17,7 +17,7 @@ projects[taxonomy_edge][subdir] = contrib
 projects[taxonomy_edge][version] = 1.8
 
 projects[node_view_permissions][subdir] = contrib
-projects[node_view_permissions][version] = 1.1
+projects[node_view_permissions][version] = 1.2
 
 projects[login_security][subdir] = contrib
 projects[login_security][version] = 1.3
@@ -335,7 +335,7 @@ projects[publishcontent][subdir] = contrib
 projects[publishcontent][version] = 1.1
 
 projects[plupload][subdir] = contrib
-projects[plupload][version] = 1.1
+projects[plupload][version] = 1.2
 
 projects[references_dialog][subdir] = contrib
 projects[references_dialog][version] = 1.x-dev
