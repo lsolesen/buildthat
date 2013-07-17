@@ -33,7 +33,7 @@ projects[less][version] = 3.0
 
 projects[l10n_client][subdir] = contrib
 projects[l10n_client][version] = 1.x-dev
-projects[l10n_client][patch][2025013] = https://drupal.org/files/configure-link-2025013-6.patch
+;projects[l10n_client][patch][2025013] = https://drupal.org/files/configure-link-2025013-6.patch
 
 projects[smartcrop][subdir] = contrib
 projects[smartcrop][version] = 1.0-beta2
