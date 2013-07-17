@@ -20,7 +20,7 @@ projects[node_view_permissions][subdir] = contrib
 projects[node_view_permissions][version] = 1.2
 
 projects[login_security][subdir] = contrib
-projects[login_security][version] = 1.3
+projects[login_security][version] = 1.4
 
 projects[readonlymode][subdir] = contrib
 projects[readonlymode][version] = 1.1
@@ -29,7 +29,7 @@ projects[robotstxt][subdir] = contrib
 projects[robotstxt][version] = 1.x-dev
 
 projects[less][subdir] = contrib
-projects[less][version] = 2.6
+projects[less][version] = 3.0
 
 projects[l10n_client][subdir] = contrib
 projects[l10n_client][version] = 1.x-dev
@@ -275,7 +275,7 @@ projects[linkit][subdir] = contrib
 projects[linkit][version] = 2.6
 
 projects[i18n][subdir] = contrib 
-projects[i18n][version] = 1.x-dev
+projects[i18n][version] = 1.9
 
 projects[job_scheduler][subdir] = contrib
 projects[job_scheduler][version] = 2.0-alpha3
@@ -347,7 +347,7 @@ projects[scheduler][subdir] = contrib
 projects[scheduler][version] = 1.1
 
 projects[search_api][subdir] = contrib
-projects[search_api][version] = 1.6
+projects[search_api][version] = 1.7
 
 projects[search_api_db][subdir] = contrib
 projects[search_api_db][version] = 1.0-rc1
