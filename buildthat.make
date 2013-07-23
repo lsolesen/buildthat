@@ -288,7 +288,7 @@ projects[logintoboggan][version] = 1.3
 
 projects[media][subdir] = contrib
 projects[media][version] = 2.x-dev
-projects[media][patch][1951964] = https://drupal.org/files/issue-1951964.patch
+projects[media][patch][1951964] = https://drupal.org/files/issue-1951964_0.patch
 
 projects[media_colorbox][subdir] = contrib
 projects[media_colorbox][version] = 1.0-rc3
