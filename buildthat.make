@@ -295,7 +295,7 @@ projects[media_colorbox][version] = 1.0-rc3
 projects[media_colorbox][patch][1888198] = http://drupal.org/files/media_colorbox_wysiwyg-1888198-14.patch
 
 projects[media_vimeo][subdir] = contrib 
-projects[media_vimeo][version] = 2.x-dev
+projects[media_vimeo][version] = 2.0-rc1
 
 projects[media_youtube][subdir] = contrib
 projects[media_youtube][version] = 2.0-rc3
@@ -350,7 +350,7 @@ projects[search_api][subdir] = contrib
 projects[search_api][version] = 1.7
 
 projects[search_api_db][subdir] = contrib
-projects[search_api_db][version] = 1.0-rc1
+projects[search_api_db][version] = 1.0-rc2
 
 projects[similarterms][subdir] = contrib 
 projects[similarterms][version] = 2.3
@@ -421,7 +421,7 @@ projects[votingapi][version] = 2.11
 ;;;;;;;;;
 
 projects[advagg][subdir] = contrib
-projects[advagg][version] = 2.0-beta1
+projects[advagg][version] = 2.0-beta2
 
 projects[cdn][subdir] = contrib
 projects[cdn][version] = 2.6
@@ -434,7 +434,7 @@ projects[mailsystem][subdir] = contrib
 projects[mailsystem][version] = 2.34
 
 projects[message][subdir] = contrib
-projects[message][version] = 1.8
+projects[message][version] = 1.9
 
 projects[message_notify][subdir] = contrib
 projects[message_notify][version] = 2.5
@@ -487,7 +487,7 @@ projects[itoggle][subdir] = contrib
 projects[itoggle][version] = 2.3
 
 projects[mailchimp][subdir] = contrib
-projects[mailchimp][version] = 2.x-dev
+projects[mailchimp][version] = 2.11
 
 projects[mollom][subdir] = contrib
 projects[mollom][version] = 2.7
@@ -570,11 +570,11 @@ projects[scribd_filter][version] = 1.3
 ; Internationalization
 ;;;;;;;;;
 
-projects[variable][version] = "2.2"
-projects[variable][subdir] = "contrib"
+projects[variable][version] = 2.2
+projects[variable][subdir] = contrib
 
-projects[i18n][version] = "1.8"
-projects[i18n][subdir] = "contrib"
+projects[i18n][version] = 1.9
+projects[i18n][subdir] = contrib
 
 ;;;;;;;;;
 ; Libraries
@@ -665,7 +665,7 @@ projects[corolla][subdir] = contrib
 projects[corolla][version] = 3.0-rc1
 
 projects[shiny][subdir] = contrib
-projects[shiny][version] = 1.2
+projects[shiny][version] = 1.3
 
 projects[omega][subdir] = contrib
 projects[omega][version] = 3.1
