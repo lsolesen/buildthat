@@ -487,7 +487,7 @@ projects[itoggle][subdir] = contrib
 projects[itoggle][version] = 2.3
 
 projects[mailchimp][subdir] = contrib
-projects[mailchimp][version] = 2.11
+projects[mailchimp][version] = 2.12
 
 projects[mollom][subdir] = contrib
 projects[mollom][version] = 2.7
