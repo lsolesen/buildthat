@@ -204,10 +204,10 @@ projects[connector][subdir] = contrib
 projects[connector][version] = 1.0-beta2
 
 projects[context][subdir] = contrib
-projects[context][version] = 3.0-beta6
+projects[context][version] = 3.0-beta7
 
 projects[crumbs][subdir] = contrib
-projects[crumbs][version] = 1.9
+projects[crumbs][version] = 1.10
 
 projects[ctools][subdir] = contrib
 projects[ctools][version] = 1.3
@@ -691,7 +691,7 @@ projects[simpleclean][version] = 2.x-dev
 projects[simpleclean][patch][2029307] = https://drupal.org/files/issue-2029307_0.patch
 
 projects[zen][subdir] = contrib
-projects[zen][version] = 5.1
+projects[zen][version] = 5.3
 
 projects[neptune][subdir] = contrib
 projects[neptune][version] = 1.2
