@@ -72,7 +72,7 @@ projects[twitter][subdir] = contrib
 projects[twitter][version] = 5.8
 
 projects[superfish][subdir] = contrib
-projects[superfish][version] = 1.9
+projects[superfish][version] = 1.x-dev
 
 projects[save_draft][subdir] = contrib
 projects[save_draft][version] = 1.4
