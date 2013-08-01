@@ -184,7 +184,7 @@ projects[admin_views][version] = 1.2
 projects[ajax_poll][subdir] = contrib
 projects[ajax_poll][version] = 1.1
 projects[ajax_poll][patch][1048064] = http://drupal.org/files/ajax_poll-panels-fix-1048064-11.patch
-projects[ajax_poll][patch][2055925] = https://drupal.org/files/issue-2055925.patch
+projects[ajax_poll][patch][2055925] = https://drupal.org/files/issue-2055925-1.patch
 
 projects[backup_migrate][subdir] = contrib
 projects[backup_migrate][version] = 2.7
