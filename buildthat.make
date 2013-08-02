@@ -233,7 +233,7 @@ projects[facetapi][version] = 1.3
 projects[facetapi][patch][1616518] = http://drupal.org/files/1616518-7-show-active-term.patch
 
 projects[features][subdir] = contrib
-projects[features][version] = 1.0
+projects[features][version] = 2.0-rc1
 
 projects[fences][subdir] = contrib
 projects[fences][version] = 1.0
