@@ -16,11 +16,8 @@ projects[views_content_cache][version] = 3.0-alpha2
 projects[taxonomy_edge][subdir] = contrib
 projects[taxonomy_edge][version] = 1.8
 
-projects[node_view_permissions][subdir] = contrib
-projects[node_view_permissions][version] = 1.2
-
 projects[login_security][subdir] = contrib
-projects[login_security][version] = 1.4
+projects[login_security][version] = 1.5
 
 projects[readonlymode][subdir] = contrib
 projects[readonlymode][version] = 1.1
@@ -56,6 +53,7 @@ projects[globalredirect][version] = 1.5
 projects[easy_social][subdir] = contrib
 projects[easy_social][version] = 2.10
 
+; should be removed when no project is using it anymore. Switch to publishcontent
 projects[publish_button][subdir] = contrib
 projects[publish_button][version] = 1.0-beta8
 
@@ -292,7 +290,7 @@ projects[media][version] = 2.0-alpha2
 projects[media][patch][1951964] = https://drupal.org/files/issue-1951964_0.patch
 
 projects[media_colorbox][subdir] = contrib
-projects[media_colorbox][version] = 1.0-rc3
+projects[media_colorbox][version] = 1.0-rc4
 projects[media_colorbox][patch][1888198] = http://drupal.org/files/media_colorbox_wysiwyg-1888198-14.patch
 
 projects[media_vimeo][subdir] = contrib 
@@ -314,7 +312,7 @@ projects[node_clone][subdir] = contrib
 projects[node_clone][version] = 1.0-rc1
 
 projects[node_view_permissions][subdir] = contrib
-projects[node_view_permissions][version] = 1.0
+projects[node_view_permissions][version] = 1.2
 
 projects[nodequeue][subdir] = contrib
 projects[nodequeue][version] = 2.0-beta1
@@ -331,9 +329,8 @@ projects[oembed][version] = 0.1-beta3
 projects[panels][subdir] = contrib
 projects[panels][version] = 3.x-dev
 
-; should be removed when sure that no module uses it anymore. Switch to publish_content
 projects[publishcontent][subdir] = contrib
-projects[publishcontent][version] = 1.1
+projects[publishcontent][version] = 1.2
 
 projects[plupload][subdir] = contrib
 projects[plupload][version] = 1.2
@@ -422,7 +419,7 @@ projects[votingapi][version] = 2.11
 ;;;;;;;;;
 
 projects[advagg][subdir] = contrib
-projects[advagg][version] = 2.0-beta2
+projects[advagg][version] = 2.0-rc2
 
 projects[cdn][subdir] = contrib
 projects[cdn][version] = 2.6
@@ -484,9 +481,6 @@ projects[chart][version] = 1.x-dev
 projects[colorbox][subdir] = contrib
 projects[colorbox][version] = 2.4
 
-projects[itoggle][subdir] = contrib
-projects[itoggle][version] = 2.3
-
 projects[mailchimp][subdir] = contrib
 projects[mailchimp][version] = 2.12
 
@@ -530,7 +524,7 @@ projects[ccl][subdir] = contrib
 projects[ccl][version] = 1.5
 
 projects[module_filter][subdir] = contrib
-projects[module_filter][version] = 1.7
+projects[module_filter][version] = 1.8
 
 projects[options_element][subdir] = contrib
 projects[options_element][version] = 1.9
@@ -574,7 +568,7 @@ projects[scribd_filter][version] = 1.3
 projects[variable][version] = 2.2
 projects[variable][subdir] = contrib
 
-projects[i18n][version] = 1.9
+projects[i18n][version] = 1.10
 projects[i18n][subdir] = contrib
 
 ;;;;;;;;;
