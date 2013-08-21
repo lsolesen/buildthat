@@ -291,7 +291,7 @@ projects[media][patch][1951964] = https://drupal.org/files/issue-1951964_0.patch
 
 projects[media_colorbox][subdir] = contrib
 projects[media_colorbox][version] = 1.0-rc4
-projects[media_colorbox][patch][1888198] = http://drupal.org/files/media_colorbox_wysiwyg-1888198-14.patch
+;projects[media_colorbox][patch][1888198] = http://drupal.org/files/media_colorbox_wysiwyg-1888198-14.patch
 
 projects[media_vimeo][subdir] = contrib 
 projects[media_vimeo][version] = 2.0-rc1
@@ -499,7 +499,7 @@ projects[ckeditor_link][version] = 2.3
 
 projects[wysiwyg][subdir] = contrib
 projects[wysiwyg][version] = 2.x-dev
-projects[wysiwyg][patch][934976] = http://drupal.org/files/wysiwyg-one-format.934976.23.patch
+;projects[wysiwyg][patch][934976] = http://drupal.org/files/wysiwyg-one-format.934976.23.patch
 
 projects[wysiwyg_filter][subdir] = contrib
 projects[wysiwyg_filter][version] = 1.6-rc2
