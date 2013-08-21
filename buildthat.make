@@ -226,20 +226,20 @@ projects[enterprise_rotator][subdir] = contrib
 projects[enterprise_rotator][version] = 1.0-rc1
 
 projects[entity][subdir] = contrib
-projects[entity][version] = 1.1
+projects[entity][version] = 1.2
 
 projects[facetapi][subdir] = contrib
 projects[facetapi][version] = 1.3
 projects[facetapi][patch][1616518] = http://drupal.org/files/1616518-7-show-active-term.patch
 
 projects[features][subdir] = contrib
-projects[features][version] = 2.0-rc1
+projects[features][version] = 2.0-rc2
 
 projects[fences][subdir] = contrib
 projects[fences][version] = 1.0
 
 projects[file_entity][subdir] = contrib
-projects[file_entity][version] = 2.0-alpha1
+projects[file_entity][version] = 2.0-alpha2
 
 projects[file_lock][subdir] = contrib
 projects[file_lock][version] = 2.x-dev
@@ -288,7 +288,7 @@ projects[logintoboggan][subdir] = contrib
 projects[logintoboggan][version] = 1.3
 
 projects[media][subdir] = contrib
-projects[media][version] = 2.0-alpha1
+projects[media][version] = 2.0-alpha2
 projects[media][patch][1951964] = https://drupal.org/files/issue-1951964_0.patch
 
 projects[media_colorbox][subdir] = contrib
