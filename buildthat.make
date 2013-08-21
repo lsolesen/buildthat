@@ -8,7 +8,7 @@ projects[css_emimage][subdir] = contrib
 projects[css_emimage][version] = 1.3
 
 projects[speedy][subdir] = contrib
-projects[speedy][version] = 1.7
+projects[speedy][version] = 1.8
 
 projects[views_content_cache][subdir] = contrib
 projects[views_content_cache][version] = 3.0-alpha2
@@ -42,7 +42,7 @@ projects[webform_validation][subdir] = contrib
 projects[webform_validation][version] = 1.2
 
 projects[select_or_other][subdir] = contrib
-projects[select_or_other][version] = 2.18
+projects[select_or_other][version] = 2.19
 
 projects[revisioning][subdir] = contrib
 projects[revisioning][version] = 1.5
@@ -565,7 +565,7 @@ projects[scribd_filter][version] = 1.3
 ; Internationalization
 ;;;;;;;;;
 
-projects[variable][version] = 2.2
+projects[variable][version] = 2.3
 projects[variable][subdir] = contrib
 
 projects[i18n][version] = 1.10
