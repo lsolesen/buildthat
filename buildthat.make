@@ -17,7 +17,7 @@ projects[taxonomy_edge][subdir] = contrib
 projects[taxonomy_edge][version] = 1.8
 
 projects[login_security][subdir] = contrib
-projects[login_security][version] = 1.5
+projects[login_security][version] = 1.7
 
 projects[readonlymode][subdir] = contrib
 projects[readonlymode][version] = 1.1
@@ -39,10 +39,10 @@ projects[cck_blocks][subdir] = contrib
 projects[cck_blocks][version] = 1.1
 
 projects[webform_validation][subdir] = contrib
-projects[webform_validation][version] = 1.2
+projects[webform_validation][version] = 1.3
 
 projects[select_or_other][subdir] = contrib
-projects[select_or_other][version] = 2.19
+projects[select_or_other][version] = 2.20
 
 projects[revisioning][subdir] = contrib
 projects[revisioning][version] = 1.5
@@ -88,7 +88,7 @@ projects[fontyourface][subdir] = contrib
 projects[fontyourface][version] = 2.8
 
 projects[block_class][subdir] = contrib
-projects[block_class][version] = 1.2
+projects[block_class][version] = 1.3
 
 projects[empty_front_page][subdir] = contrib
 projects[empty_front_page][version] = 1.0
@@ -97,7 +97,7 @@ projects[delta][subdir] = contrib
 projects[delta][version] = 3.0-beta11
 
 projects[ds][subdir] = contrib
-projects[ds][version] = 2.4
+projects[ds][version] = 2.6
 
 projects[entityconnect][subdir] = contrib
 projects[entityconnect][version] = 1.x-dev
@@ -135,7 +135,7 @@ projects[entityreference][version] = 1.x-dev
 projects[entityreference][patch][1699378] = http://drupal.org/files/view-argument-as-token-1699378-41.patch
 
 projects[field_group][subdir] = contrib
-projects[field_group][version] = 1.1
+projects[field_group][version] = 1.2
 
 projects[field_extrawidgets][subdir] = contrib
 projects[field_extrawidgets][version] = 1.1
@@ -231,7 +231,7 @@ projects[facetapi][version] = 1.3
 projects[facetapi][patch][1616518] = http://drupal.org/files/1616518-7-show-active-term.patch
 
 projects[features][subdir] = contrib
-projects[features][version] = 2.0-rc2
+projects[features][version] = 2.0-rc3
 
 projects[fences][subdir] = contrib
 projects[fences][version] = 1.0
@@ -272,9 +272,6 @@ projects[l10n_update][version] = 1.0-beta3
 
 projects[linkit][subdir] = contrib
 projects[linkit][version] = 2.6
-
-projects[i18n][subdir] = contrib 
-projects[i18n][version] = 1.9
 
 projects[job_scheduler][subdir] = contrib
 projects[job_scheduler][version] = 2.0-alpha3
@@ -333,7 +330,7 @@ projects[publishcontent][subdir] = contrib
 projects[publishcontent][version] = 1.2
 
 projects[plupload][subdir] = contrib
-projects[plupload][version] = 1.2
+projects[plupload][version] = 1.3
 
 projects[references_dialog][subdir] = contrib
 projects[references_dialog][version] = 1.x-dev
@@ -345,7 +342,7 @@ projects[scheduler][subdir] = contrib
 projects[scheduler][version] = 1.1
 
 projects[search_api][subdir] = contrib
-projects[search_api][version] = 1.7
+projects[search_api][version] = 1.8
 
 projects[search_api_db][subdir] = contrib
 projects[search_api_db][version] = 1.0-rc2
@@ -419,7 +416,7 @@ projects[votingapi][version] = 2.11
 ;;;;;;;;;
 
 projects[advagg][subdir] = contrib
-projects[advagg][version] = 2.0-rc2
+projects[advagg][version] = 2.0-rc3
 
 projects[cdn][subdir] = contrib
 projects[cdn][version] = 2.6
@@ -686,7 +683,7 @@ projects[simpleclean][version] = 2.x-dev
 projects[simpleclean][patch][2029307] = https://drupal.org/files/issue-2029307_0.patch
 
 projects[zen][subdir] = contrib
-projects[zen][version] = 5.3
+projects[zen][version] = 5.4
 
 projects[neptune][subdir] = contrib
 projects[neptune][version] = 1.2
