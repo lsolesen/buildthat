@@ -134,7 +134,7 @@ projects[entityreference][version] = 1.x-dev
 projects[entityreference][patch][1699378] = http://drupal.org/files/view-argument-as-token-1699378-41.patch
 
 projects[field_group][subdir] = contrib
-projects[field_group][version] = 1.2
+projects[field_group][version] = 1.3
 
 projects[field_extrawidgets][subdir] = contrib
 projects[field_extrawidgets][version] = 1.1
@@ -202,7 +202,7 @@ projects[connector][subdir] = contrib
 projects[connector][version] = 1.0-beta2
 
 projects[context][subdir] = contrib
-projects[context][version] = 3.0-beta7
+projects[context][version] = 3.1
 
 projects[crumbs][subdir] = contrib
 projects[crumbs][version] = 1.10
@@ -230,7 +230,7 @@ projects[facetapi][version] = 1.3
 projects[facetapi][patch][1616518] = http://drupal.org/files/1616518-7-show-active-term.patch
 
 projects[features][subdir] = contrib
-projects[features][version] = 2.0-rc3
+projects[features][version] = 2.0
 
 projects[fences][subdir] = contrib
 projects[fences][version] = 1.0
@@ -299,7 +299,7 @@ projects[menu_block][subdir] = "contrib"
 projects[menu_block][version] = 2.3
 
 projects[mimemail][subdir] = contrib
-projects[mimemail][version] = 1.0-alpha2
+projects[mimemail][version] = 1.0-beta1
 
 projects[multiform][subdir] = contrib
 projects[multiform][version] = 1.0
@@ -329,7 +329,7 @@ projects[publishcontent][subdir] = contrib
 projects[publishcontent][version] = 1.2
 
 projects[plupload][subdir] = contrib
-projects[plupload][version] = 1.3
+projects[plupload][version] = 1.4
 
 projects[references_dialog][subdir] = contrib
 projects[references_dialog][version] = 1.x-dev
@@ -344,7 +344,7 @@ projects[search_api][subdir] = contrib
 projects[search_api][version] = 1.8
 
 projects[search_api_db][subdir] = contrib
-projects[search_api_db][version] = 1.0-rc2
+projects[search_api_db][version] = 1.0-rc3
 
 projects[similarterms][subdir] = contrib 
 projects[similarterms][version] = 2.3
@@ -542,7 +542,7 @@ projects[emfield][subdir] = contrib
 projects[emfield[version] = 1.0-alpha1
 
 projects[rpx][subdir] = contrib
-projects[rpx][version] = 2.4
+projects[rpx][version] = 2.5
 projects[rpx][patch][1678124] = http://drupal.org/files/rpx-1678124-1.patch
 
 projects[skinr][subdir] = contrib
