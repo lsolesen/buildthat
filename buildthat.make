@@ -236,7 +236,7 @@ projects[fences][subdir] = contrib
 projects[fences][version] = 1.0
 
 projects[file_entity][subdir] = contrib
-projects[file_entity][version] = 2.0-alpha2
+projects[file_entity][version] = 2.0-alpha3
 
 projects[file_lock][subdir] = contrib
 projects[file_lock][version] = 2.x-dev
@@ -282,7 +282,7 @@ projects[logintoboggan][subdir] = contrib
 projects[logintoboggan][version] = 1.3
 
 projects[media][subdir] = contrib
-projects[media][version] = 2.0-alpha2
+projects[media][version] = 2.0-alpha3
 projects[media][patch][1951964] = https://drupal.org/files/issue-1951964_0.patch
 
 projects[media_colorbox][subdir] = contrib
@@ -293,7 +293,7 @@ projects[media_vimeo][subdir] = contrib
 projects[media_vimeo][version] = 2.0-rc1
 
 projects[media_youtube][subdir] = contrib
-projects[media_youtube][version] = 2.0-rc3
+projects[media_youtube][version] = 2.0-rc4
 
 projects[menu_block][subdir] = "contrib"
 projects[menu_block][version] = 2.3
@@ -338,16 +338,16 @@ projects[references_dialog][subdir] = contrib
 projects[references_dialog][version] = 1.x-dev
 
 projects[rules][subdir] = contrib
-projects[rules][version] = 2.3
+projects[rules][version] = 2.6
 
 projects[scheduler][subdir] = contrib
 projects[scheduler][version] = 1.1
 
 projects[search_api][subdir] = contrib
-projects[search_api][version] = 1.8
+projects[search_api][version] = 1.9
 
 projects[search_api_db][subdir] = contrib
-projects[search_api_db][version] = 1.0-rc3
+projects[search_api_db][version] = 1.0
 
 projects[similarterms][subdir] = contrib 
 projects[similarterms][version] = 2.3
@@ -418,17 +418,17 @@ projects[votingapi][version] = 2.11
 ;;;;;;;;;
 
 projects[advagg][subdir] = contrib 
-projects[advagg][version] = 2.x-dev
+projects[advagg][version] = 2.1
 
 projects[cdn][subdir] = contrib 
 projects[cdn][version] = 2.6
 projects[cdn][patch][1942230] = https://drupal.org/files/cdn-1942230-18-advagg-hooks.patch
 
 projects[httprl][subdir] = contrib 
-projects[httprl][version] = 1.12
+projects[httprl][version] = 1.13
 
 projects[entitycache][subdir] = contrib 
-projects[entitycache][version] = 1.x-dev
+projects[entitycache][version] = 1.2
 
 ;;;;;;;;;
 ; Messages and email
@@ -448,7 +448,7 @@ projects[message_notify][version] = 2.5
 ;;;;;;;;;
 
 projects[google_analytics][subdir] = contrib 
-projects[google_analytics][version] = 1.x-dev
+projects[google_analytics][version] = 1.4
 projects[google_analytics][patch][1833578] = https://drupal.org/files/google_analytics-enhanced_link_attribution-1833578-26.patch
 
 projects[google_analytics_reports][subdir] = contrib 
