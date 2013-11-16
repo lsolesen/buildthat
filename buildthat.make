@@ -44,7 +44,7 @@ projects[select_or_other][subdir] = contrib
 projects[select_or_other][version] = 2.20
 
 projects[revisioning][subdir] = contrib
-projects[revisioning][version] = 1.5
+projects[revisioning][version] = 1.6
 
 projects[globalredirect][subdir] = contrib
 projects[globalredirect][version] = 1.5
@@ -187,7 +187,7 @@ projects[ajax_poll][version] = 1.1
 projects[ajax_poll][patch][2055925] = https://drupal.org/files/issue-2055925-1.patch
 
 projects[backup_migrate][subdir] = contrib
-projects[backup_migrate][version] = 2.7
+projects[backup_migrate][version] = 2.8
 
 projects[better_formats][subdir] = contrib
 projects[better_formats][version] = 1.0-beta1
@@ -251,7 +251,7 @@ projects[flag][subdir] = "contrib"
 projects[flag][version] = 2.1
 
 projects[imagecache_profiles][subdir] = contrib
-projects[imagecache_profiles][version] = 1.0
+projects[imagecache_profiles][version] = 1.1
 
 projects[imagecrop][subdir] = contrib
 projects[imagecrop][version] = 1.0-rc3
@@ -379,8 +379,8 @@ projects[taxonomy_menu][version] = 1.4
 projects[token][subdir] = contrib
 projects[token][version] = 1.5
 
-projects[quiz][subdir] = "contrib"
-projects[quiz][version] = 4.0-beta1
+projects[quiz][subdir] = contrib
+projects[quiz][version] = 4.0-beta2
 
 ; Can be removed when http://drupal.org/node/1058912 is resolved
 projects[token_tweaks][subdir] = contrib
@@ -421,7 +421,7 @@ projects[votingapi][version] = 2.11
 ;;;;;;;;;
 
 projects[advagg][subdir] = contrib 
-projects[advagg][version] = 2.1
+projects[advagg][version] = 2.2
 
 projects[cdn][subdir] = contrib 
 projects[cdn][version] = 2.6
@@ -494,7 +494,7 @@ projects[mailchimp][subdir] = contrib
 projects[mailchimp][version] = 2.12
 
 projects[mollom][subdir] = contrib
-projects[mollom][version] = 2.7
+projects[mollom][version] = 2.8
 
 projects[userreport][subdir] = contrib
 projects[userreport][version] = 1.0-alpha4
@@ -669,7 +669,7 @@ projects[corolla][subdir] = contrib
 projects[corolla][version] = 3.0-rc1
 
 projects[shiny][subdir] = contrib
-projects[shiny][version] = 1.3
+projects[shiny][version] = 1.4
 
 projects[omega][subdir] = contrib
 projects[omega][version] = 3.1
