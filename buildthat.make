@@ -286,7 +286,6 @@ projects[logintoboggan][version] = 1.3
 
 projects[media][subdir] = contrib
 projects[media][version] = 2.x-dev
-projects[media][patch][1951964] = https://drupal.org/files/issue-1951964_0.patch
 
 projects[media_colorbox][subdir] = contrib
 projects[media_colorbox][version] = 1.0-rc4
@@ -508,7 +507,6 @@ projects[ckeditor_link][version] = 2.3
 
 projects[wysiwyg][subdir] = contrib
 projects[wysiwyg][version] = 2.x-dev
-;projects[wysiwyg][patch][934976] = http://drupal.org/files/wysiwyg-one-format.934976.23.patch
 
 projects[wysiwyg_filter][subdir] = contrib
 projects[wysiwyg_filter][version] = 1.6-rc2
