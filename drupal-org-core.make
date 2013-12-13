@@ -7,4 +7,3 @@ projects[drupal][patch][1443158] = http://drupal.org/files/1443158-file-field-pr
 projects[drupal][patch][1627860] = http://drupal.org/files/core-save_upgraded_empty_fields-please-1627860-15.patch
 ;projects[drupal][patch][1300920] = http://drupal.org/files/drupal-n1300920-114.patch
 
-includes[] = https://raw.github.com/lsolesen/buildthat/7.x-1.x/buildthat.make
