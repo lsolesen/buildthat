@@ -1,5 +1,5 @@
-core = 7.x
 api = 2
+core = 7.x
 
 projects[fpa][subdir] = contrib
 projects[fpa][version] = 2.3
