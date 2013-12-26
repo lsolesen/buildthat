@@ -492,6 +492,11 @@ projects[colorbox][version] = 2.4
 projects[mailchimp][subdir] = contrib
 projects[mailchimp][version] = 2.12
 
+libraries[mailchimp][download][type] = "get"
+libraries[mailchimp][download][url] = "https://github.com/lsolesen/mailchimp-api-class/archive/v.1.3.2.zip"
+libraries[mailchimp][directory_name] = "mailchimp"
+libraries[mailchimp][destination] = "libraries"
+
 projects[mollom][subdir] = contrib
 projects[mollom][version] = 2.8
 
@@ -640,11 +645,6 @@ libraries[jplayer][download][type] = "get"
 libraries[jplayer][download][url] = "http://www.jplayer.org/2.2.0/jQuery.jPlayer.2.2.0.zip"
 libraries[jplayer][directory_name] = "jplayer"
 libraries[jplayer][destination] = "libraries"
-
-libraries[mailchimp][download][type] = "get"
-libraries[mailchimp][download][url] = "http://apidocs.mailchimp.com/api/downloads/mailchimp-api-class.zip"
-libraries[mailchimp][directory_name] = "mailchimp"
-libraries[mailchimp][destination] = "libraries"
 
 libraries[superfish][download][type] = "get"
 libraries[superfish][download][url] = "https://github.com/mehrpadin/Superfish-for-Drupal/archive/1.x.zip"
