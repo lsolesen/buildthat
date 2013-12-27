@@ -122,7 +122,7 @@ projects[breakpoints][subdir] = contrib
 projects[breakpoints][version] = 1.1
 
 projects[cck][subdir] = contrib
-projects[cck][version] = 2.x-dev
+projects[cck][version] = 3.0-alpha3
 
 projects[countries][subdir] = contrib
 projects[countries][version] = 2.1
