@@ -70,6 +70,7 @@ projects[twitter][version] = 5.8
 
 projects[superfish][subdir] = contrib
 projects[superfish][version] = 1.x-dev
+projects[superfish][patch][2163545] = https://drupal.org/files/issues/issue-2163545.patch
 
 projects[save_draft][subdir] = contrib
 projects[save_draft][version] = 1.4
