@@ -646,11 +646,6 @@ libraries[jplayer][download][url] = "http://www.jplayer.org/2.2.0/jQuery.jPlayer
 libraries[jplayer][directory_name] = "jplayer"
 libraries[jplayer][destination] = "libraries"
 
-libraries[superfish][download][type] = "get"
-libraries[superfish][download][url] = "https://github.com/mehrpadin/Superfish-for-Drupal/archive/1.x.zip"
-libraries[superfish][directory_name] = "superfish"
-libraries[superfish][destination] = "libraries"
-
 libraries[less][download][type] = "get"
 libraries[less][download][url] = "http://leafo.net/lessphp/src/lessphp-0.3.9.tar.gz"
 libraries[less][directory_name] = "lessphp"
