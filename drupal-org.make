@@ -11,13 +11,13 @@ projects[speedy][subdir] = contrib
 projects[speedy][version] = 1.8
 
 projects[views_content_cache][subdir] = contrib
-projects[views_content_cache][version] = 3.0-alpha2
+projects[views_content_cache][version] = 3.0-alpha3
 
 projects[taxonomy_edge][subdir] = contrib
 projects[taxonomy_edge][version] = 1.8
 
 projects[login_security][subdir] = contrib
-projects[login_security][version] = 1.7
+projects[login_security][version] = 1.8
 
 projects[readonlymode][subdir] = contrib
 projects[readonlymode][version] = 1.1
@@ -109,7 +109,7 @@ projects[prelaunch][subdir] = contrib
 projects[prelaunch][version] = 1.2
 
 projects[views_data_export][subdir] = contrib
-projects[views_data_export][version] = 3.0-beta6
+projects[views_data_export][version] = 3.0-beta7
 
 ;;;;;;;;;
 ; Fields
@@ -128,7 +128,7 @@ projects[countries][subdir] = contrib
 projects[countries][version] = 2.1
 
 projects[date][subdir] = contrib
-projects[date][version] = 2.6
+projects[date][version] = 2.7
 
 projects[email][subdir] = contrib
 projects[email][version] = 1.2
@@ -147,7 +147,7 @@ projects[field_redirection][subdir] = contrib
 projects[field_redirection][version] = 2.5
 
 projects[link][subdir] = contrib
-projects[link][version] = 1.1
+projects[link][version] = 1.2
 
 projects[pdf_reader][subdir] = contrib
 projects[pdf_reader][version] = 1.0-rc4
@@ -311,10 +311,10 @@ projects[navbar][subdir] = contrib
 projects[navbar][version] = 1.0-alpha7
 
 projects[node_clone][subdir] = contrib
-projects[node_clone][version] = 1.0-rc1
+projects[node_clone][version] = 1.0-rc2
 
 projects[node_view_permissions][subdir] = contrib
-projects[node_view_permissions][version] = 1.2
+projects[node_view_permissions][version] = 1.3
 
 projects[nodequeue][subdir] = contrib
 projects[nodequeue][version] = 2.0-beta1
@@ -347,10 +347,10 @@ projects[scheduler][subdir] = contrib
 projects[scheduler][version] = 1.1
 
 projects[search_api][subdir] = contrib
-projects[search_api][version] = 1.9
+projects[search_api][version] = 1.11
 
 projects[search_api_db][subdir] = contrib
-projects[search_api_db][version] = 1.0
+projects[search_api_db][version] = 1.2
 
 projects[similarterms][subdir] = contrib 
 projects[similarterms][version] = 2.3
@@ -399,7 +399,7 @@ projects[draggableviews][subdir] = contrib
 projects[draggableviews][version] = 2.x-dev
 
 projects[views_bulk_operations][subdir] = contrib
-projects[views_bulk_operations][version] = 3.1
+projects[views_bulk_operations][version] = 3.2
 
 projects[views_random_seed][subdir] = contrib
 projects[views_random_seed][version] = 1.2
@@ -408,7 +408,7 @@ projects[views_send][subdir] = contrib
 projects[views_send][version] = 1.0-rc3
 
 projects[views_slideshow][subdir] = contrib
-projects[views_slideshow][version] = 3.0
+projects[views_slideshow][version] = 3.1
 
 projects[vote_up_down][subdir] = contrib
 projects[vote_up_down][version] = 1.x-dev
@@ -461,7 +461,7 @@ projects[metatag][subdir] = contrib
 projects[metatag][version] = 1.0-beta7
 
 projects[schemaorg][subdir] = contrib
-projects[schemaorg][version] = 1.0-beta3
+projects[schemaorg][version] = 1.0-beta4
 
 projects[site_verify][subdir] = contrib
 projects[site_verify][version] = 1.0
@@ -488,7 +488,7 @@ projects[chart][subdir] = contrib
 projects[chart][version] = 1.x-dev
 
 projects[colorbox][subdir] = contrib
-projects[colorbox][version] = 2.4
+projects[colorbox][version] = 2.5
 
 projects[mailchimp][subdir] = contrib
 projects[mailchimp][version] = 2.12
@@ -525,7 +525,7 @@ projects[admin_menu][subdir] = contrib
 projects[admin_menu][version] = 3.0-rc4
 
 projects[advanced_help][subdir] = contrib
-projects[advanced_help][version] = 1.0
+projects[advanced_help][version] = 1.1
 
 projects[backports][subdir] = contrib
 projects[backports][version] = 1.0-alpha1
@@ -540,7 +540,7 @@ projects[module_filter][subdir] = contrib
 projects[module_filter][version] = 1.8
 
 projects[options_element][subdir] = contrib
-projects[options_element][version] = 1.9
+projects[options_element][version] = 1.10
 
 projects[shortcutperrole][subdir] = contrib
 projects[shortcutperrole][version] = 1.1
@@ -552,7 +552,7 @@ projects[emfield][subdir] = contrib
 projects[emfield[version] = 1.0-alpha1
 
 projects[rpx][subdir] = contrib
-projects[rpx][version] = 2.5
+projects[rpx][version] = 2.6
 projects[rpx][patch][1678124] = http://drupal.org/files/rpx-1678124-1.patch
 
 projects[skinr][subdir] = contrib
