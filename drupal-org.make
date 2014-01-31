@@ -421,9 +421,6 @@ projects[votingapi][version] = 2.11
 ; Performance
 ;;;;;;;;;
 
-projects[advagg][subdir] = contrib
-projects[advagg][version] = 2.3
-
 projects[cdn][subdir] = contrib 
 projects[cdn][version] = 2.6
 projects[cdn][patch][1942230] = https://drupal.org/files/cdn-1942230-18-advagg-hooks.patch
