@@ -24,6 +24,9 @@ projects[readonlymode][version] = 1.1
 
 projects[robotstxt][subdir] = contrib
 projects[robotstxt][version] = 1.x-dev
+projects[robotstxt][download][type] = git
+projects[robotstxt][download][revision] = f43c5296567baee821e1c28d3aa141b2a3ef67d7
+projects[robotstxt][download][branch] = 7.x-1.x
 
 projects[less][subdir] = contrib
 projects[less][version] = 3.0
@@ -64,12 +67,18 @@ projects[featured_content][version] = 1.5
 
 projects[semanticviews][subdir] = contrib
 projects[semanticviews][version] = 1.x-dev
+projects[semanticviews][download][type] = git
+projects[semanticviews][download][revision] = 4dd1ee67b9cb6db32e7212802f3c9ea43e2d0f52
+projects[semanticviews][download][branch] = master
 
 projects[twitter][subdir] = contrib
 projects[twitter][version] = 5.8
 
 projects[superfish][subdir] = contrib
 projects[superfish][version] = 1.x-dev
+projects[superfish][download][type] = git
+projects[superfish][download][revision] = a612a8b27585b9101c6df21a5161decf7af1faee
+projects[superfish][download][branch] = 7.x-1.x
 projects[superfish][patch][2163545] = https://drupal.org/files/issues/issue-2163545.patch
 
 projects[save_draft][subdir] = contrib
@@ -77,9 +86,15 @@ projects[save_draft][version] = 1.4
 
 projects[image_caption][subdir] = contrib
 projects[image_caption][version] = 1.x-dev
+projects[image_caption][download][type] = git
+projects[image_caption][download][revision] = 82f855b27f8e9912f6e328d588d5354395e6722a
+projects[image_caption][download][branch] = 7.x-1.x
 
 projects[flexslider][subdir] = contrib
 projects[flexslider][version] = 1.x-dev
+projects[flexslider][download][type] = git
+projects[flexslider][download][revision] = 77ea061e536b7fc7aef6b6555fb61746d7f5eed8
+projects[flexslider][download][branch] = 7.x-1.x
 
 projects[commentsblock][subdir] = contrib
 projects[commentsblock][version] = 2.2
@@ -101,6 +116,9 @@ projects[ds][version] = 2.6
 
 projects[entityconnect][subdir] = contrib
 projects[entityconnect][version] = 1.x-dev
+projects[entityconnect][download][type] = git
+projects[entityconnect][download][revision] = 1001ed6d675ab40d47ef3d3edee322a96dffda84
+projects[entityconnect][download][branch] = 7.x-1.x
 
 projects[feeds][subdir] = contrib
 projects[feeds][version] = 2.0-alpha8
@@ -135,6 +153,9 @@ projects[email][version] = 1.2
 
 projects[entityreference][subdir] = contrib
 projects[entityreference][version] = 1.x-dev
+projects[entityreference][download][type] = git
+projects[entityreference][download][revision] = 902b5edc674e0e7920aa77b94ae8d6ef05ac492b
+projects[entityreference][download][branch] = 7.x-1.x
 projects[entityreference][patch][1699378] = http://drupal.org/files/view-argument-as-token-1699378-41.patch
 
 projects[field_group][subdir] = contrib
@@ -167,6 +188,9 @@ projects[pathauto_persist][version] = 1.3
 
 projects[redirect][subdir] = contrib
 projects[redirect][version] = 1.x-dev
+projects[redirect][download][type] = git
+projects[redirect][download][revision] = 0b7b8dc2d58cb277874d87c91c45f0a361e148f7
+projects[redirect][download][branch] = 7.x-1.x
 projects[redirect][patch][1796596] = http://drupal.org/files/redirect-circular-1796596-8.patch
 
 projects[transliteration][subdir] = contrib
@@ -219,6 +243,9 @@ projects[devel][version] = 1.3
 
 projects[disqus][subdir] = contrib
 projects[disqus][version] = 1.x-dev
+projects[disqus][download][type] = git
+projects[disqus][download][revision] = 9503ebb5ec9eca25e5234a73f74595e20d6427e7
+projects[disqus][download][branch] = 7.x-1.x
 
 projects[diff][subdir] = contrib
 projects[diff][version] = 3.2
@@ -244,6 +271,9 @@ projects[file_entity][version] = 2.0-alpha3
 
 projects[file_lock][subdir] = contrib
 projects[file_lock][version] = 2.x-dev
+projects[file_lock][download][type] = git
+projects[file_lock][download][revision] = a84c0ed970fdd6e2d992d2ae50a5a13ce494f53
+projects[file_lock][download][branch] = 7.x-2.x
 
 projects[http_client][subdir] = contrib
 projects[http_client][version] = 2.4
@@ -259,6 +289,9 @@ projects[imagecrop][version] = 1.0-rc3
 
 projects[imagefield_focus][subdir] = contrib
 projects[imagefield_focus][version] = 1.x-dev
+projects[imagefield_focus][download][type] = git
+projects[imagefield_focus][download][revision] = fd5c5df29575b32f08638321abcf02a3fca4d83f
+projects[imagefield_focus][download][branch] = 7.x-1.x
 projects[imagefield_focus][patch][1781778] = http://drupal.org/files/iff-media_1.patch
 
 projects[image_resize_filter][subdir] = contrib
@@ -285,8 +318,11 @@ projects[libraries][version] = 2.1
 projects[logintoboggan][subdir] = contrib
 projects[logintoboggan][version] = 1.3
 
-projects[media][subdir] = contrib
 projects[media][version] = 2.x-dev
+projects[media][subdir] = contrib
+projects[media][download][type] = git
+projects[media][download][revision] = 2f828ea761103c49197a50aaeac9b98a350a559b
+projects[media][download][branch] = 7.x-2.x
 
 projects[media_colorbox][subdir] = contrib
 projects[media_colorbox][version] = 1.0-rc4
@@ -328,8 +364,11 @@ projects[oauthconnector][version] = 1.0-beta2
 projects[oembed][subdir] = contrib
 projects[oembed][version] = 0.1-beta3
 
-projects[panels][subdir] = contrib
 projects[panels][version] = 3.x-dev
+projects[panels][subdir] = contrib
+projects[panels][download][type] = git
+projects[panels][download][revision] = 2bb470e
+projects[panels][download][branch] = 7.x-3.x
 
 projects[publishcontent][subdir] = contrib
 projects[publishcontent][version] = 1.2
@@ -340,6 +379,9 @@ projects[plupload][patch][2088143] = https://drupal.org/files/issues/plupload-dr
 
 projects[references_dialog][subdir] = contrib
 projects[references_dialog][version] = 1.x-dev
+projects[references_dialog][download][type] = git
+projects[references_dialog][download][revision] = c2457782d07791a2263574c979d0f4b1765a85c2
+projects[references_dialog][download][branch] = 7.x-3.x
 
 projects[rules][subdir] = contrib
 projects[rules][version] = 2.6
@@ -364,6 +406,9 @@ projects[strongarm][version] = 2.0
 
 projects[tagadelic][subdir] = contrib 
 projects[tagadelic][version] = 2.x-dev
+projects[tagadelic][download][type] = git
+projects[tagadelic][download][revision] = 26cf4681830770aa6a2700f3e1913d7c270afcab
+projects[tagadelic][download][branch] = 7.x-3.x
 
 projects[tabsnomore][type] = module
 projects[tabsnomore][subdir] = contrib
@@ -386,6 +431,9 @@ projects[quiz][version] = 4.0-beta2
 ; Can be removed when http://drupal.org/node/1058912 is resolved
 projects[token_tweaks][subdir] = contrib
 projects[token_tweaks][version] = 1.x-dev
+projects[token_tweaks][download][type] = git
+projects[token_tweaks][download][revision] = 7232bbad4f53131021fefd490ba7f411b2287ea5
+projects[token_tweaks][download][branch] = 7.x-1.x
 
 projects[webform][subdir] = contrib
 projects[webform][version] = 3.19
@@ -398,6 +446,9 @@ projects[views][version] = 3.7
 
 projects[draggableviews][subdir] = contrib
 projects[draggableviews][version] = 2.x-dev
+projects[draggableviews][download][type] = git
+projects[draggableviews][download][revision] = 4f5ac4ca6eaef98d9ccf28b715eeaa2548306ccd
+projects[draggableviews][download][branch] = 7.x-2.x
 
 projects[views_bulk_operations][subdir] = contrib
 projects[views_bulk_operations][version] = 3.2
@@ -413,6 +464,9 @@ projects[views_slideshow][version] = 3.1
 
 projects[vote_up_down][subdir] = contrib
 projects[vote_up_down][version] = 1.x-dev
+projects[vote_up_down][download][type] = git
+projects[vote_up_down][download][revision] = 9555af7f50a30f7b84c1aa7dfed39b70c152cc18
+projects[vote_up_down][download][branch] = 7.x-2.x
 
 projects[votingapi][subdir] = contrib
 projects[votingapi][version] = 2.11
@@ -454,6 +508,9 @@ projects[google_analytics][patch][1833578] = https://drupal.org/files/google_ana
 
 projects[google_analytics_reports][subdir] = contrib 
 projects[google_analytics_reports][version] = 3.x-dev
+projects[google_analytics_reports][download][type] = git
+projects[google_analytics_reports][download][revision] = 58274ae7ca184e5648f3db4542d0e60da3fe2de2
+projects[google_analytics_reports][download][branch] = 7.x-3.x
 
 projects[metatag][subdir] = contrib
 projects[metatag][version] = 1.0-beta7
@@ -470,6 +527,9 @@ projects[site_verify][version] = 1.0
 
 projects[service_links][subdir] = contrib  
 projects[service_links][version] = 2.x-dev
+projects[service_links][download][type] = git
+projects[service_links][download][revision] = f53a5651317ee396a9a35c577ea47a00d39a7538
+projects[service_links][download][branch] = 7.x-2.x
 
 projects[socialmedia][subdir] = contrib	
 projects[socialmedia][version] = 1.0-beta13
@@ -484,6 +544,9 @@ projects[widgets][version] = 1.0-rc1
 
 projects[chart][subdir] = contrib
 projects[chart][version] = 1.x-dev
+projects[chart][download][type] = git
+projects[chart][download][revision] = 860c75c27c296a4135ac1efac773ba1cdf7edf7c
+projects[chart][download][branch] = 7.x-1.x
 
 projects[colorbox][subdir] = contrib
 projects[colorbox][version] = 2.5
@@ -509,8 +572,11 @@ projects[userreport][version] = 1.0-alpha4
 projects[ckeditor_link][subdir] = contrib
 projects[ckeditor_link][version] = 2.3
 
-projects[wysiwyg][subdir] = contrib
 projects[wysiwyg][version] = 2.x-dev
+projects[wysiwyg][subdir] = contrib
+projects[wysiwyg][download][type] = git
+projects[wysiwyg][download][revision] = ee64524b3edb2aa21098a2309b0736e292010247
+projects[wysiwyg][download][branch] = 7.x-2.x
 
 projects[wysiwyg_filter][subdir] = contrib
 projects[wysiwyg_filter][version] = 1.6-rc2
@@ -678,6 +744,9 @@ projects[responsive_bartik][version] = 1.0-beta2
 
 projects[simpleclean][subdir] = contrib
 projects[simpleclean][version] = 2.x-dev
+projects[simpleclean][download][type] = git
+projects[simpleclean][download][revision] = 11548ce318deb5f300f4daa8eed7a54892bdfe92
+projects[simpleclean][download][branch] = 7.x-2.x
 projects[simpleclean][patch][2029307] = https://drupal.org/files/issue-2029307_0.patch
 
 projects[zen][subdir] = contrib
