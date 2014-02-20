@@ -236,7 +236,7 @@ projects[crumbs][subdir] = contrib
 projects[crumbs][version] = 1.10
 
 projects[ctools][subdir] = contrib
-projects[ctools][version] = 1.3
+projects[ctools][version] = 1.4
 
 projects[devel][subdir] = contrib
 projects[devel][version] = 1.3
@@ -254,7 +254,7 @@ projects[enterprise_rotator][subdir] = contrib
 projects[enterprise_rotator][version] = 1.0-rc1
 
 projects[entity][subdir] = contrib
-projects[entity][version] = 1.2
+projects[entity][version] = 1.3
 
 projects[facetapi][subdir] = contrib
 projects[facetapi][version] = 1.3
