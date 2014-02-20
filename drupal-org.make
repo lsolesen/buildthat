@@ -53,7 +53,7 @@ projects[globalredirect][subdir] = contrib
 projects[globalredirect][version] = 1.5
 
 projects[easy_social][subdir] = contrib
-projects[easy_social][version] = 2.10
+projects[easy_social][version] = 2.11
 
 ; should be removed when no project is using it anymore. Switch to publishcontent
 projects[publish_button][subdir] = contrib
@@ -97,7 +97,7 @@ projects[flexslider][download][revision] = 77ea061e536b7fc7aef6b6555fb61746d7f5e
 projects[flexslider][download][branch] = 7.x-1.x
 
 projects[commentsblock][subdir] = contrib
-projects[commentsblock][version] = 2.2
+projects[commentsblock][version] = 2.3
 
 projects[fontyourface][subdir] = contrib
 projects[fontyourface][version] = 2.8
@@ -171,7 +171,7 @@ projects[link][subdir] = contrib
 projects[link][version] = 1.2
 
 projects[pdf_reader][subdir] = contrib
-projects[pdf_reader][version] = 1.0-rc4
+projects[pdf_reader][version] = 1.0-rc5
 
 projects[title][subdir] = contrib
 projects[title][version] = 1.0-alpha7
@@ -230,7 +230,7 @@ projects[connector][subdir] = contrib
 projects[connector][version] = 1.0-beta2
 
 projects[context][subdir] = contrib
-projects[context][version] = 3.1
+projects[context][version] = 3.2
 
 projects[crumbs][subdir] = contrib
 projects[crumbs][version] = 1.10
@@ -239,7 +239,7 @@ projects[ctools][subdir] = contrib
 projects[ctools][version] = 1.4
 
 projects[devel][subdir] = contrib
-projects[devel][version] = 1.3
+projects[devel][version] = 1.4
 
 projects[disqus][subdir] = contrib
 projects[disqus][version] = 1.x-dev
@@ -295,7 +295,7 @@ projects[imagefield_focus][download][branch] = 7.x-1.x
 projects[imagefield_focus][patch][1781778] = http://drupal.org/files/iff-media_1.patch
 
 projects[image_resize_filter][subdir] = contrib
-projects[image_resize_filter][version] = 1.13
+projects[image_resize_filter][version] = 1.14
 
 projects[jquery_update][subdir] = contrib
 projects[jquery_update][version] = 2.3
@@ -313,7 +313,7 @@ projects[job_scheduler][subdir] = contrib
 projects[job_scheduler][version] = 2.0-alpha3
 
 projects[libraries][subdir] = contrib
-projects[libraries][version] = 2.1
+projects[libraries][version] = 2.2
 
 projects[logintoboggan][subdir] = contrib
 projects[logintoboggan][version] = 1.3
@@ -356,7 +356,7 @@ projects[nodequeue][subdir] = contrib
 projects[nodequeue][version] = 2.0-beta1
 
 projects[oauth][subdir] = contrib
-projects[oauth][version] = 3.1
+projects[oauth][version] = 3.2
 
 projects[oauthconnector][subdir] = contrib
 projects[oauthconnector][version] = 1.0-beta2
@@ -364,11 +364,8 @@ projects[oauthconnector][version] = 1.0-beta2
 projects[oembed][subdir] = contrib
 projects[oembed][version] = 0.1-beta3
 
-projects[panels][version] = 3.x-dev
+projects[panels][version] = 3.4
 projects[panels][subdir] = contrib
-projects[panels][download][type] = git
-projects[panels][download][revision] = 2bb470e
-projects[panels][download][branch] = 7.x-3.x
 
 projects[publishcontent][subdir] = contrib
 projects[publishcontent][version] = 1.2
@@ -387,7 +384,7 @@ projects[rules][subdir] = contrib
 projects[rules][version] = 2.6
 
 projects[scheduler][subdir] = contrib
-projects[scheduler][version] = 1.1
+projects[scheduler][version] = 1.2
 
 projects[search_api][subdir] = contrib
 projects[search_api][version] = 1.11
@@ -480,7 +477,7 @@ projects[cdn][version] = 2.6
 projects[cdn][patch][1942230] = https://drupal.org/files/cdn-1942230-18-advagg-hooks.patch
 
 projects[httprl][subdir] = contrib 
-projects[httprl][version] = 1.13
+projects[httprl][version] = 1.14
 
 projects[entitycache][subdir] = contrib 
 projects[entitycache][version] = 1.2
@@ -513,7 +510,7 @@ projects[google_analytics_reports][download][revision] = 58274ae7ca184e5648f3db4
 projects[google_analytics_reports][download][branch] = 7.x-3.x
 
 projects[metatag][subdir] = contrib
-projects[metatag][version] = 1.0-beta7
+projects[metatag][version] = 1.0-beta9
 
 projects[schemaorg][subdir] = contrib
 projects[schemaorg][version] = 1.0-beta4
