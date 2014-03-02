@@ -263,6 +263,9 @@ projects[facetapi][patch][1616518] = http://drupal.org/files/1616518-7-show-acti
 projects[features][subdir] = contrib
 projects[features][version] = 2.0
 
+projects[features_override][subdir] = contrib
+projects[features_override][version] = 2.0-rc1
+
 projects[fences][subdir] = contrib
 projects[fences][version] = 1.0
 
