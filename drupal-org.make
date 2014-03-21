@@ -183,9 +183,6 @@ projects[title][version] = 1.0-alpha7
 projects[pathauto][subdir] = contrib
 projects[pathauto][version] = 1.2
 
-projects[pathauto_persist][subdir] = contrib
-projects[pathauto_persist][version] = 1.3
-
 projects[redirect][subdir] = contrib
 projects[redirect][version] = 1.x-dev
 projects[redirect][download][type] = git
