@@ -1,6 +1,9 @@
 api = 2
 core = 7.x
 
+projects[colorfield][subdir] = contrib
+projects[colorfield][version] = 1.1
+
 projects[fpa][subdir] = contrib
 projects[fpa][version] = 2.3
 
@@ -41,13 +44,13 @@ projects[cck_blocks][subdir] = contrib
 projects[cck_blocks][version] = 1.1
 
 projects[webform_validation][subdir] = contrib
-projects[webform_validation][version] = 1.3
+projects[webform_validation][version] = 1.4
 
 projects[select_or_other][subdir] = contrib
 projects[select_or_other][version] = 2.20
 
 projects[revisioning][subdir] = contrib
-projects[revisioning][version] = 1.6
+projects[revisioning][version] = 1.7
 
 projects[globalredirect][subdir] = contrib
 projects[globalredirect][version] = 1.5
@@ -57,7 +60,7 @@ projects[easy_social][version] = 2.11
 
 ; should be removed when no project is using it anymore. Switch to publishcontent
 projects[publish_button][subdir] = contrib
-projects[publish_button][version] = 1.0-beta8
+projects[publish_button][version] = 1.0
 
 projects[url][subdir] = contrib
 projects[url][version] = 1.0
@@ -191,7 +194,7 @@ projects[redirect][download][branch] = 7.x-1.x
 projects[redirect][patch][1796596] = http://drupal.org/files/redirect-circular-1796596-8.patch
 
 projects[transliteration][subdir] = contrib
-projects[transliteration][version] = 3.1
+projects[transliteration][version] = 3.2
 
 ;;;;;;;;;
 ; Site building tools
@@ -251,7 +254,7 @@ projects[enterprise_rotator][subdir] = contrib
 projects[enterprise_rotator][version] = 1.0-rc1
 
 projects[entity][subdir] = contrib
-projects[entity][version] = 1.3
+projects[entity][version] = 1.4
 
 projects[facetapi][subdir] = contrib
 projects[facetapi][version] = 1.3
@@ -304,7 +307,7 @@ projects[jplayer][subdir] = contrib
 projects[jplayer][version] = 2.0-beta1
 
 projects[l10n_update][subdir] = contrib 
-projects[l10n_update][version] = 1.0-beta3
+projects[l10n_update][version] = 1.0-rc2
 
 projects[linkit][subdir] = contrib
 projects[linkit][version] = 2.6
@@ -329,7 +332,7 @@ projects[media_colorbox][version] = 1.0-rc4
 ;projects[media_colorbox][patch][1888198] = http://drupal.org/files/media_colorbox_wysiwyg-1888198-14.patch
 
 projects[media_vimeo][subdir] = contrib 
-projects[media_vimeo][version] = 2.0-rc1
+projects[media_vimeo][version] = 2.0
 
 projects[media_youtube][subdir] = contrib
 projects[media_youtube][version] = 2.0-rc4
@@ -338,7 +341,7 @@ projects[menu_block][subdir] = "contrib"
 projects[menu_block][version] = 2.3
 
 projects[mimemail][subdir] = contrib
-projects[mimemail][version] = 1.0-beta1
+projects[mimemail][version] = 1.0-beta3
 
 projects[multiform][subdir] = contrib
 projects[multiform][version] = 1.0
@@ -433,7 +436,7 @@ projects[token_tweaks][download][revision] = 75818fbfb97bf8882ca106e6af703be7644
 projects[token_tweaks][download][branch] = 7.x-1.x
 
 projects[webform][subdir] = contrib
-projects[webform][version] = 3.19
+projects[webform][version] = 3.20
 
 projects[webform_mailchimp][subdir] = contrib
 projects[webform_mailchimp][version] = 1.0-rc2
@@ -516,7 +519,7 @@ projects[schemaorg][subdir] = contrib
 projects[schemaorg][version] = 1.0-beta4
 
 projects[site_verify][subdir] = contrib
-projects[site_verify][version] = 1.0
+projects[site_verify][version] = 1.1
 
 ;;;;;;;;;
 ; Social integration
@@ -557,7 +560,7 @@ libraries[mailchimp][directory_name] = "mailchimp"
 libraries[mailchimp][destination] = "libraries"
 
 projects[mollom][subdir] = contrib
-projects[mollom][version] = 2.8
+projects[mollom][version] = 2.9
 
 projects[userreport][subdir] = contrib
 projects[userreport][version] = 1.0-alpha4
@@ -633,17 +636,17 @@ projects[gist_filter][subdir] = contrib
 projects[gist_filter][version] = 1.2
 
 projects[scribd_filter][subdir] = contrib
-projects[scribd_filter][version] = 1.3
+projects[scribd_filter][version] = 1.4
 
 ;;;;;;;;;
 ; Internationalization
 ;;;;;;;;;
 
-projects[variable][version] = 2.3
 projects[variable][subdir] = contrib
+projects[variable][version] = 2.4
 
-projects[i18n][version] = 1.10
 projects[i18n][subdir] = contrib
+projects[i18n][version] = 1.10
 
 ;;;;;;;;;
 ; Libraries
@@ -712,10 +715,10 @@ libraries[less][destination] = "libraries"
 ;;;;;;;;;
 
 projects[adaptivetheme][subdir] = contrib
-projects[adaptivetheme][version] = 3.1
+projects[adaptivetheme][version] = 3.2
 
 projects[corolla][subdir] = contrib
-projects[corolla][version] = 3.0-rc1
+projects[corolla][version] = 3.0
 
 projects[shiny][subdir] = contrib
 projects[shiny][version] = 1.4
@@ -750,4 +753,4 @@ projects[zen][subdir] = contrib
 projects[zen][version] = 5.4
 
 projects[neptune][subdir] = contrib
-projects[neptune][version] = 1.2
+projects[neptune][version] = 1.3
