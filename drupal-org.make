@@ -575,7 +575,7 @@ projects[ckeditor_link][version] = 2.3
 projects[wysiwyg][version] = 2.x-dev
 projects[wysiwyg][subdir] = contrib
 projects[wysiwyg][download][type] = git
-projects[wysiwyg][download][revision] = ee64524b3edb2aa21098a2309b0736e292010247
+projects[wysiwyg][download][revision] = 3cb63de
 projects[wysiwyg][download][branch] = 7.x-2.x
 
 projects[wysiwyg_filter][subdir] = contrib
