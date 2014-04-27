@@ -44,13 +44,13 @@ projects[cck_blocks][subdir] = contrib
 projects[cck_blocks][version] = 1.1
 
 projects[webform_validation][subdir] = contrib
-projects[webform_validation][version] = 1.4
+projects[webform_validation][version] = 1.5
 
 projects[select_or_other][subdir] = contrib
 projects[select_or_other][version] = 2.20
 
 projects[revisioning][subdir] = contrib
-projects[revisioning][version] = 1.7
+projects[revisioning][version] = 1.8
 
 projects[globalredirect][subdir] = contrib
 projects[globalredirect][version] = 1.5
@@ -100,7 +100,7 @@ projects[flexslider][download][revision] = 77ea061e536b7fc7aef6b6555fb61746d7f5e
 projects[flexslider][download][branch] = 7.x-1.x
 
 projects[commentsblock][subdir] = contrib
-projects[commentsblock][version] = 2.3
+projects[commentsblock][version] = 2.4
 
 projects[fontyourface][subdir] = contrib
 projects[fontyourface][version] = 2.8
@@ -301,7 +301,7 @@ projects[image_resize_filter][subdir] = contrib
 projects[image_resize_filter][version] = 1.14
 
 projects[jquery_update][subdir] = contrib
-projects[jquery_update][version] = 2.3
+projects[jquery_update][version] = 2.4
 
 projects[jplayer][subdir] = contrib
 projects[jplayer][version] = 2.0-beta1
@@ -420,7 +420,7 @@ projects[taxonomy_display][subdir] = contrib
 projects[taxonomy_display][version] = 1.1
 
 projects[taxonomy_menu][subdir] = contrib
-projects[taxonomy_menu][version] = 1.4
+projects[taxonomy_menu][version] = 1.5
 
 projects[token][subdir] = contrib
 projects[token][version] = 1.5
@@ -604,7 +604,7 @@ projects[module_filter][subdir] = contrib
 projects[module_filter][version] = 1.8
 
 projects[options_element][subdir] = contrib
-projects[options_element][version] = 1.10
+projects[options_element][version] = 1.12
 
 projects[shortcutperrole][subdir] = contrib
 projects[shortcutperrole][version] = 1.1
@@ -643,7 +643,7 @@ projects[scribd_filter][version] = 1.4
 ;;;;;;;;;
 
 projects[variable][subdir] = contrib
-projects[variable][version] = 2.4
+projects[variable][version] = 2.5
 
 projects[i18n][subdir] = contrib
 projects[i18n][version] = 1.10
