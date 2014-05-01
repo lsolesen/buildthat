@@ -5,7 +5,7 @@ projects[colorfield][subdir] = contrib
 projects[colorfield][version] = 1.1
 
 projects[fpa][subdir] = contrib
-projects[fpa][version] = 2.3
+projects[fpa][version] = 2.5
 
 projects[css_emimage][subdir] = contrib
 projects[css_emimage][version] = 1.3
@@ -18,9 +18,6 @@ projects[views_content_cache][version] = 3.0-alpha3
 
 projects[taxonomy_edge][subdir] = contrib
 projects[taxonomy_edge][version] = 1.8
-
-projects[login_security][subdir] = contrib
-projects[login_security][version] = 1.8
 
 projects[readonlymode][subdir] = contrib
 projects[readonlymode][version] = 1.1
@@ -100,7 +97,7 @@ projects[flexslider][download][revision] = 77ea061e536b7fc7aef6b6555fb61746d7f5e
 projects[flexslider][download][branch] = 7.x-1.x
 
 projects[commentsblock][subdir] = contrib
-projects[commentsblock][version] = 2.4
+projects[commentsblock][version] = 2.5
 
 projects[fontyourface][subdir] = contrib
 projects[fontyourface][version] = 2.8
@@ -152,7 +149,7 @@ projects[date][subdir] = contrib
 projects[date][version] = 2.7
 
 projects[email][subdir] = contrib
-projects[email][version] = 1.2
+projects[email][version] = 1.3
 
 projects[entityreference][subdir] = contrib
 projects[entityreference][version] = 1.x-dev
@@ -254,7 +251,7 @@ projects[enterprise_rotator][subdir] = contrib
 projects[enterprise_rotator][version] = 1.0-rc1
 
 projects[entity][subdir] = contrib
-projects[entity][version] = 1.4
+projects[entity][version] = 1.5
 
 projects[facetapi][subdir] = contrib
 projects[facetapi][version] = 1.3
@@ -282,7 +279,7 @@ projects[http_client][subdir] = contrib
 projects[http_client][version] = 2.4
 
 projects[flag][subdir] = "contrib"
-projects[flag][version] = 2.1
+projects[flag][version] = 2.2
 
 projects[imagecache_profiles][subdir] = contrib
 projects[imagecache_profiles][version] = 1.1
@@ -307,7 +304,7 @@ projects[jplayer][subdir] = contrib
 projects[jplayer][version] = 2.0-beta1
 
 projects[l10n_update][subdir] = contrib 
-projects[l10n_update][version] = 1.0-rc2
+projects[l10n_update][version] = 1.0
 
 projects[linkit][subdir] = contrib
 projects[linkit][version] = 2.6
@@ -371,7 +368,7 @@ projects[panels][version] = 3.4
 projects[panels][subdir] = contrib
 
 projects[publishcontent][subdir] = contrib
-projects[publishcontent][version] = 1.2
+projects[publishcontent][version] = 1.3
 
 projects[plupload][subdir] = contrib
 projects[plupload][version] = 1.4
@@ -457,7 +454,7 @@ projects[views_random_seed][subdir] = contrib
 projects[views_random_seed][version] = 1.2
 
 projects[views_send][subdir] = contrib
-projects[views_send][version] = 1.0-rc3
+projects[views_send][version] = 1.0
 
 projects[views_slideshow][subdir] = contrib
 projects[views_slideshow][version] = 3.1
@@ -750,7 +747,7 @@ projects[simpleclean][download][branch] = 7.x-2.x
 projects[simpleclean][patch][2029307] = https://drupal.org/files/issue-2029307_0.patch
 
 projects[zen][subdir] = contrib
-projects[zen][version] = 5.4
+projects[zen][version] = 5.5
 
 projects[neptune][subdir] = contrib
 projects[neptune][version] = 1.3
