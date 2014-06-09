@@ -159,7 +159,7 @@ projects[entityreference][download][branch] = 7.x-1.x
 projects[entityreference][patch][1699378] = http://drupal.org/files/view-argument-as-token-1699378-41.patch
 
 projects[field_group][subdir] = contrib
-projects[field_group][version] = 1.3
+projects[field_group][version] = 1.4
 
 projects[field_extrawidgets][subdir] = contrib
 projects[field_extrawidgets][version] = 1.1
@@ -439,7 +439,7 @@ projects[webform_mailchimp][subdir] = contrib
 projects[webform_mailchimp][version] = 1.0-rc2
 
 projects[views][subdir] = contrib
-projects[views][version] = 3.7
+projects[views][version] = 3.8
 
 projects[draggableviews][subdir] = contrib
 projects[draggableviews][version] = 2.x-dev
