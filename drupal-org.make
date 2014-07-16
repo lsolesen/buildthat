@@ -510,7 +510,7 @@ projects[google_analytics_reports][download][revision] = 58274ae7ca184e5648f3db4
 projects[google_analytics_reports][download][branch] = 7.x-3.x
 
 projects[metatag][subdir] = contrib
-projects[metatag][version] = 1.0-beta9
+projects[metatag][version] = 1.0-rc1
 
 projects[schemaorg][subdir] = contrib
 projects[schemaorg][version] = 1.0-beta4
