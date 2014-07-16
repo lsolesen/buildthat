@@ -11,7 +11,7 @@ projects[css_emimage][subdir] = contrib
 projects[css_emimage][version] = 1.3
 
 projects[speedy][subdir] = contrib
-projects[speedy][version] = 1.8
+projects[speedy][version] = 1.9
 
 projects[views_content_cache][subdir] = contrib
 projects[views_content_cache][version] = 3.0-alpha3
@@ -20,7 +20,7 @@ projects[taxonomy_edge][subdir] = contrib
 projects[taxonomy_edge][version] = 1.8
 
 projects[readonlymode][subdir] = contrib
-projects[readonlymode][version] = 1.1
+projects[readonlymode][version] = 1.2
 
 projects[robotstxt][subdir] = contrib
 projects[robotstxt][version] = 1.x-dev
@@ -47,7 +47,7 @@ projects[select_or_other][subdir] = contrib
 projects[select_or_other][version] = 2.20
 
 projects[revisioning][subdir] = contrib
-projects[revisioning][version] = 1.8
+projects[revisioning][version] = 1.9
 
 projects[globalredirect][subdir] = contrib
 projects[globalredirect][version] = 1.5
@@ -137,7 +137,7 @@ projects[addressfield][subdir] = contrib
 projects[addressfield][version] = 1.0-beta5
 
 projects[breakpoints][subdir] = contrib
-projects[breakpoints][version] = 1.1
+projects[breakpoints][version] = 1.2
 
 projects[cck][subdir] = contrib
 projects[cck][version] = 3.0-alpha3
@@ -201,7 +201,7 @@ projects[adaptive_image][subdir] = contrib
 projects[adaptive_image][version] = 1.4
 
 projects[admin_views][subdir] = contrib
-projects[admin_views][version] = 1.2
+projects[admin_views][version] = 1.3
 
 projects[ajax_poll][subdir] = contrib
 projects[ajax_poll][version] = 1.1
@@ -236,7 +236,7 @@ projects[ctools][subdir] = contrib
 projects[ctools][version] = 1.4
 
 projects[devel][subdir] = contrib
-projects[devel][version] = 1.4
+projects[devel][version] = 1.5
 
 projects[disqus][subdir] = contrib
 projects[disqus][version] = 1.x-dev
@@ -316,7 +316,7 @@ projects[libraries][subdir] = contrib
 projects[libraries][version] = 2.2
 
 projects[logintoboggan][subdir] = contrib
-projects[logintoboggan][version] = 1.3
+projects[logintoboggan][version] = 1.4
 
 projects[media][version] = 2.x-dev
 projects[media][subdir] = contrib
@@ -335,13 +335,13 @@ projects[media_youtube][subdir] = contrib
 projects[media_youtube][version] = 2.0-rc4
 
 projects[menu_block][subdir] = "contrib"
-projects[menu_block][version] = 2.3
+projects[menu_block][version] = 2.4
 
 projects[mimemail][subdir] = contrib
 projects[mimemail][version] = 1.0-beta3
 
 projects[multiform][subdir] = contrib
-projects[multiform][version] = 1.0
+projects[multiform][version] = 1.1
 
 projects[navbar][subdir] = contrib
 projects[navbar][version] = 1.0-alpha7
@@ -350,7 +350,7 @@ projects[node_clone][subdir] = contrib
 projects[node_clone][version] = 1.0-rc2
 
 projects[node_view_permissions][subdir] = contrib
-projects[node_view_permissions][version] = 1.3
+projects[node_view_permissions][version] = 1.5
 
 projects[nodequeue][subdir] = contrib
 projects[nodequeue][version] = 2.0-beta1
@@ -375,22 +375,19 @@ projects[plupload][version] = 1.4
 projects[plupload][patch][2088143] = https://drupal.org/files/issues/plupload-drush_make-2088143-2.patch
 
 projects[references_dialog][subdir] = contrib
-projects[references_dialog][version] = 1.x-dev
-projects[references_dialog][download][type] = git
-projects[references_dialog][download][revision] = c2457782d07791a2263574c979d0f4b1765a85c2
-projects[references_dialog][download][branch] = 7.x-3.x
+projects[references_dialog][version] = 1.0-beta1
 
 projects[rules][subdir] = contrib
-projects[rules][version] = 2.6
+projects[rules][version] = 2.7
 
 projects[scheduler][subdir] = contrib
 projects[scheduler][version] = 1.2
 
 projects[search_api][subdir] = contrib
-projects[search_api][version] = 1.11
+projects[search_api][version] = 1.12
 
 projects[search_api_db][subdir] = contrib
-projects[search_api_db][version] = 1.2
+projects[search_api_db][version] = 1.3
 
 projects[similarterms][subdir] = contrib 
 projects[similarterms][version] = 2.3
@@ -454,7 +451,7 @@ projects[views_random_seed][subdir] = contrib
 projects[views_random_seed][version] = 1.2
 
 projects[views_send][subdir] = contrib
-projects[views_send][version] = 1.0
+projects[views_send][version] = 1.1
 
 projects[views_slideshow][subdir] = contrib
 projects[views_slideshow][version] = 3.1
@@ -545,7 +542,7 @@ projects[chart][download][revision] = 860c75c27c296a4135ac1efac773ba1cdf7edf7c
 projects[chart][download][branch] = 7.x-1.x
 
 projects[colorbox][subdir] = contrib
-projects[colorbox][version] = 2.5
+projects[colorbox][version] = 2.7
 
 projects[mailchimp][subdir] = contrib
 projects[mailchimp][version] = 2.12
@@ -556,7 +553,7 @@ libraries[mailchimp][directory_name] = "mailchimp"
 libraries[mailchimp][destination] = "libraries"
 
 projects[mollom][subdir] = contrib
-projects[mollom][version] = 2.9
+projects[mollom][version] = 2.10
 
 projects[userreport][subdir] = contrib
 projects[userreport][version] = 1.0-alpha4
@@ -616,7 +613,7 @@ projects[rpx][version] = 2.6
 projects[rpx][patch][1678124] = http://drupal.org/files/rpx-1678124-1.patch
 
 projects[skinr][subdir] = contrib
-projects[skinr][version] = 2.0-beta1
+projects[skinr][version] = 2.0
 
 projects[translation_helpers][subdir] = contrib
 projects[translation_helpers][version] = 1.0
@@ -626,7 +623,7 @@ projects[translation_helpers][version] = 1.0
 ;;;;;;;;;
 
 projects[codefilter][subdir] = contrib
-projects[codefilter][version] = 1.0
+projects[codefilter][version] = 1.1
 
 projects[gist_filter][subdir] = contrib
 projects[gist_filter][version] = 1.2
@@ -717,7 +714,7 @@ projects[corolla][subdir] = contrib
 projects[corolla][version] = 3.0
 
 projects[shiny][subdir] = contrib
-projects[shiny][version] = 1.4
+projects[shiny][version] = 1.5
 
 projects[omega][subdir] = contrib
 projects[omega][version] = 3.1
@@ -736,7 +733,7 @@ projects[navin][version] = 1.0-beta2
 projects[navin][patch][1850670] = http://drupal.org/files/issue-1850670.patch
 
 projects[responsive_bartik][subdir] = contrib
-projects[responsive_bartik][version] = 1.0-beta2
+projects[responsive_bartik][version] = 1.0-rc1
 
 projects[simpleclean][subdir] = contrib
 projects[simpleclean][version] = 2.x-dev
