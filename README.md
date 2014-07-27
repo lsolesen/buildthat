@@ -1,4 +1,4 @@
-Buildthat
+Buildthat [![Build Status](https://travis-ci.org/lsolesen/buildthat.svg?branch=7.x-1.x)](https://travis-ci.org/lsolesen/buildthat)
 ==
 
 Just a couple of make files to be able to build a Drupal with the mostly used contrib modules.
