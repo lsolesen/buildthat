@@ -146,7 +146,7 @@ projects[countries][subdir] = contrib
 projects[countries][version] = 2.1
 
 projects[date][subdir] = contrib
-projects[date][version] = 2.7
+projects[date][version] = 2.8
 
 projects[email][subdir] = contrib
 projects[email][version] = 1.3
