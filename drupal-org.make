@@ -41,7 +41,7 @@ projects[cck_blocks][subdir] = contrib
 projects[cck_blocks][version] = 1.1
 
 projects[webform_validation][subdir] = contrib
-projects[webform_validation][version] = 1.5
+projects[webform_validation][version] = 1.7
 
 projects[select_or_other][subdir] = contrib
 projects[select_or_other][version] = 2.20
@@ -127,7 +127,7 @@ projects[prelaunch][subdir] = contrib
 projects[prelaunch][version] = 1.2
 
 projects[views_data_export][subdir] = contrib
-projects[views_data_export][version] = 3.0-beta7
+projects[views_data_export][version] = 3.0-beta8
 
 ;;;;;;;;;
 ; Fields
@@ -137,13 +137,13 @@ projects[addressfield][subdir] = contrib
 projects[addressfield][version] = 1.0-beta5
 
 projects[breakpoints][subdir] = contrib
-projects[breakpoints][version] = 1.2
+projects[breakpoints][version] = 1.3
 
 projects[cck][subdir] = contrib
 projects[cck][version] = 3.0-alpha3
 
 projects[countries][subdir] = contrib
-projects[countries][version] = 2.1
+projects[countries][version] = 2.2
 
 projects[date][subdir] = contrib
 projects[date][version] = 2.8
@@ -227,7 +227,7 @@ projects[connector][subdir] = contrib
 projects[connector][version] = 1.0-beta2
 
 projects[context][subdir] = contrib
-projects[context][version] = 3.2
+projects[context][version] = 3.3
 
 projects[crumbs][subdir] = contrib
 projects[crumbs][version] = 1.10
@@ -254,20 +254,20 @@ projects[entity][subdir] = contrib
 projects[entity][version] = 1.5
 
 projects[facetapi][subdir] = contrib
-projects[facetapi][version] = 1.3
-projects[facetapi][patch][1616518] = http://drupal.org/files/1616518-7-show-active-term.patch
+projects[facetapi][version] = 1.5
+projects[facetapi][patch][1616518] = https://www.drupal.org/files/1616518-term_remove_link-24.patch
 
 projects[features][subdir] = contrib
 projects[features][version] = 2.2
 
 projects[features_override][subdir] = contrib
-projects[features_override][version] = 2.0-rc1
+projects[features_override][version] = 2.0-rc2
 
 projects[fences][subdir] = contrib
 projects[fences][version] = 1.0
 
 projects[file_entity][subdir] = contrib
-projects[file_entity][version] = 2.0-alpha3
+projects[file_entity][version] = 2.0-beta1
 
 projects[file_lock][subdir] = contrib
 projects[file_lock][version] = 2.x-dev
@@ -318,11 +318,8 @@ projects[libraries][version] = 2.2
 projects[logintoboggan][subdir] = contrib
 projects[logintoboggan][version] = 1.4
 
-projects[media][version] = 2.x-dev
 projects[media][subdir] = contrib
-projects[media][download][type] = git
-projects[media][download][revision] = 2f828ea761103c49197a50aaeac9b98a350a559b
-projects[media][download][branch] = 7.x-2.x
+projects[media][version] = 2.0-alpha4
 
 projects[media_colorbox][subdir] = contrib
 projects[media_colorbox][version] = 1.0-rc4
@@ -371,8 +368,7 @@ projects[publishcontent][subdir] = contrib
 projects[publishcontent][version] = 1.3
 
 projects[plupload][subdir] = contrib
-projects[plupload][version] = 1.4
-projects[plupload][patch][2088143] = https://drupal.org/files/issues/plupload-drush_make-2088143-2.patch
+projects[plupload][version] = 1.6
 
 projects[references_dialog][subdir] = contrib
 projects[references_dialog][version] = 1.0-beta1
@@ -384,10 +380,10 @@ projects[scheduler][subdir] = contrib
 projects[scheduler][version] = 1.2
 
 projects[search_api][subdir] = contrib
-projects[search_api][version] = 1.12
+projects[search_api][version] = 1.13
 
 projects[search_api_db][subdir] = contrib
-projects[search_api_db][version] = 1.3
+projects[search_api_db][version] = 1.4
 
 projects[similarterms][subdir] = contrib 
 projects[similarterms][version] = 2.3
@@ -430,7 +426,7 @@ projects[token_tweaks][download][revision] = 75818fbfb97bf8882ca106e6af703be7644
 projects[token_tweaks][download][branch] = 7.x-1.x
 
 projects[webform][subdir] = contrib
-projects[webform][version] = 3.20
+projects[webform][version] = 3.21
 
 projects[webform_mailchimp][subdir] = contrib
 projects[webform_mailchimp][version] = 1.0-rc2
@@ -463,7 +459,7 @@ projects[vote_up_down][download][revision] = 9555af7f50a30f7b84c1aa7dfed39b70c15
 projects[vote_up_down][download][branch] = 7.x-2.x
 
 projects[votingapi][subdir] = contrib
-projects[votingapi][version] = 2.11
+projects[votingapi][version] = 2.12
 
 ;;;;;;;;;
 ; Performance
@@ -506,7 +502,7 @@ projects[google_analytics_reports][download][revision] = 58274ae7ca184e5648f3db4
 projects[google_analytics_reports][download][branch] = 7.x-3.x
 
 projects[metatag][subdir] = contrib
-projects[metatag][version] = 1.0-rc1
+projects[metatag][version] = 1.4
 
 projects[schemaorg][subdir] = contrib
 projects[schemaorg][version] = 1.0-beta4
@@ -542,7 +538,7 @@ projects[chart][download][revision] = 860c75c27c296a4135ac1efac773ba1cdf7edf7c
 projects[chart][download][branch] = 7.x-1.x
 
 projects[colorbox][subdir] = contrib
-projects[colorbox][version] = 2.7
+projects[colorbox][version] = 2.8
 
 projects[mailchimp][subdir] = contrib
 projects[mailchimp][version] = 2.12
@@ -553,7 +549,7 @@ libraries[mailchimp][directory_name] = "mailchimp"
 libraries[mailchimp][destination] = "libraries"
 
 projects[mollom][subdir] = contrib
-projects[mollom][version] = 2.10
+projects[mollom][version] = 2.12
 
 projects[userreport][subdir] = contrib
 projects[userreport][version] = 1.0-alpha4
@@ -714,13 +710,13 @@ projects[corolla][subdir] = contrib
 projects[corolla][version] = 3.0
 
 projects[shiny][subdir] = contrib
-projects[shiny][version] = 1.5
+projects[shiny][version] = 1.6
 
 projects[omega][subdir] = contrib
 projects[omega][version] = 3.1
 
 projects[fusion][subdir] = contrib
-projects[fusion][version] = 2.0-beta2
+projects[fusion][version] = 2.1
 
 projects[acquia_marina][subdir] = contrib
 projects[acquia_marina][version] = 2.0-beta1
