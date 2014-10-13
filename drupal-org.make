@@ -10,14 +10,8 @@ projects[fpa][version] = 2.5
 projects[css_emimage][subdir] = contrib
 projects[css_emimage][version] = 1.3
 
-projects[speedy][subdir] = contrib
-projects[speedy][version] = 1.9
-
 projects[views_content_cache][subdir] = contrib
 projects[views_content_cache][version] = 3.0-alpha3
-
-projects[taxonomy_edge][subdir] = contrib
-projects[taxonomy_edge][version] = 1.8
 
 projects[readonlymode][subdir] = contrib
 projects[readonlymode][version] = 1.2
@@ -143,7 +137,7 @@ projects[cck][subdir] = contrib
 projects[cck][version] = 3.0-alpha3
 
 projects[countries][subdir] = contrib
-projects[countries][version] = 2.2
+projects[countries][version] = 2.3
 
 projects[date][subdir] = contrib
 projects[date][version] = 2.8
