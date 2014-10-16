@@ -209,7 +209,7 @@ projects[better_formats][subdir] = contrib
 projects[better_formats][version] = 1.0-beta1
 
 projects[calendar][subdir] = contrib
-projects[calendar][version] = 3.4
+projects[calendar][version] = 3.5
 
 projects[comment_notify][subdir] = contrib
 projects[comment_notify][version] = 1.2
@@ -723,7 +723,7 @@ projects[navin][version] = 1.0-beta2
 projects[navin][patch][1850670] = http://drupal.org/files/issue-1850670.patch
 
 projects[responsive_bartik][subdir] = contrib
-projects[responsive_bartik][version] = 1.0-rc1
+projects[responsive_bartik][version] = 1.0
 
 projects[simpleclean][subdir] = contrib
 projects[simpleclean][version] = 2.x-dev
