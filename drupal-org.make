@@ -1,6 +1,9 @@
 api = 2
 core = 7.x
 
+projects[migrate][subdir] = contrib
+projects[migrate][version] = 2.5
+
 projects[colorfield][subdir] = contrib
 projects[colorfield][version] = 1.1
 
