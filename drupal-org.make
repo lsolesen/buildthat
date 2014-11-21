@@ -687,7 +687,7 @@ libraries[fpdf][download][tag] = 1.6.0
 libraries[fpdf][destination] = "libraries"
 
 libraries[jplayer][download][type] = "get"
-libraries[jplayer][download][url] = "http://www.jplayer.org/2.2.0/jQuery.jPlayer.2.2.0.zip"
+libraries[jplayer][download][url] = "https://github.com/happyworm/jPlayer/archive/2.2.0.zip"
 libraries[jplayer][directory_name] = "jplayer"
 libraries[jplayer][destination] = "libraries"
 
