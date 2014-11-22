@@ -109,7 +109,7 @@ projects[delta][subdir] = contrib
 projects[delta][version] = 3.0-beta11
 
 projects[ds][subdir] = contrib
-projects[ds][version] = 2.6
+projects[ds][version] = 2.7
 
 projects[entityconnect][subdir] = contrib
 projects[entityconnect][version] = 1.x-dev
@@ -162,10 +162,10 @@ projects[field_extrawidgets][subdir] = contrib
 projects[field_extrawidgets][version] = 1.1
 
 projects[field_redirection][subdir] = contrib
-projects[field_redirection][version] = 2.5
+projects[field_redirection][version] = 2.6
 
 projects[link][subdir] = contrib
-projects[link][version] = 1.2
+projects[link][version] = 1.3
 
 projects[pdf_reader][subdir] = contrib
 projects[pdf_reader][version] = 1.0-rc5
@@ -230,7 +230,7 @@ projects[crumbs][subdir] = contrib
 projects[crumbs][version] = 1.10
 
 projects[ctools][subdir] = contrib
-projects[ctools][version] = 1.4
+projects[ctools][version] = 1.5
 
 projects[devel][subdir] = contrib
 projects[devel][version] = 1.5
@@ -301,7 +301,7 @@ projects[jplayer][subdir] = contrib
 projects[jplayer][version] = 2.0-beta1
 
 projects[l10n_update][subdir] = contrib 
-projects[l10n_update][version] = 1.0
+projects[l10n_update][version] = 1.1
 
 projects[linkit][subdir] = contrib
 projects[linkit][version] = 2.6
@@ -365,7 +365,7 @@ projects[publishcontent][subdir] = contrib
 projects[publishcontent][version] = 1.3
 
 projects[plupload][subdir] = contrib
-projects[plupload][version] = 1.6
+projects[plupload][version] = 1.7
 
 projects[references_dialog][subdir] = contrib
 projects[references_dialog][version] = 1.0-beta1
@@ -374,7 +374,7 @@ projects[rules][subdir] = contrib
 projects[rules][version] = 2.7
 
 projects[scheduler][subdir] = contrib
-projects[scheduler][version] = 1.2
+projects[scheduler][version] = 1.3
 
 projects[search_api][subdir] = contrib
 projects[search_api][version] = 1.13
