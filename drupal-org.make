@@ -1,9 +1,6 @@
 api = 2
 core = 7.x
 
-projects[references_dialog][subdir] = contrib
-projects[references_dialog][version] = 1.0-beta1
-
 projects[migrate][subdir] = contrib
 projects[migrate][version] = 2.5
 
