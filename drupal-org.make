@@ -54,13 +54,13 @@ projects[easy_social][version] = 2.11
 
 ; should be removed when no project is using it anymore. Switch to publishcontent
 projects[publish_button][subdir] = contrib
-projects[publish_button][version] = 1.0
+projects[publish_button][version] = 1.1
 
 projects[url][subdir] = contrib
 projects[url][version] = 1.0
 
 projects[featured_content][subdir] = contrib
-projects[featured_content][version] = 1.5
+projects[featured_content][version] = 1.6
 
 projects[semanticviews][subdir] = contrib
 projects[semanticviews][version] = 1.x-dev
@@ -131,7 +131,7 @@ projects[views_data_export][version] = 3.0-beta8
 ;;;;;;;;;
 
 projects[addressfield][subdir] = contrib
-projects[addressfield][version] = 1.0-beta5
+projects[addressfield][version] = 1.0
 
 projects[breakpoints][subdir] = contrib
 projects[breakpoints][version] = 1.3
@@ -224,7 +224,7 @@ projects[connector][subdir] = contrib
 projects[connector][version] = 1.0-beta2
 
 projects[context][subdir] = contrib
-projects[context][version] = 3.3
+projects[context][version] = 3.6
 
 projects[crumbs][subdir] = contrib
 projects[crumbs][version] = 1.10
@@ -255,7 +255,7 @@ projects[facetapi][version] = 1.5
 projects[facetapi][patch][1616518] = https://www.drupal.org/files/1616518-term_remove_link-24.patch
 
 projects[features][subdir] = contrib
-projects[features][version] = 2.2
+projects[features][version] = 2.3
 
 projects[features_override][subdir] = contrib
 projects[features_override][version] = 2.0-rc2
@@ -304,7 +304,7 @@ projects[l10n_update][subdir] = contrib
 projects[l10n_update][version] = 1.1
 
 projects[linkit][subdir] = contrib
-projects[linkit][version] = 2.6
+projects[linkit][version] = 2.7
 
 projects[job_scheduler][subdir] = contrib
 projects[job_scheduler][version] = 2.0-alpha3
@@ -372,13 +372,13 @@ projects[references_dialog][version] = 1.0-beta1
 projects[references_dialog][patch][2315905] = https://www.drupal.org/files/issues/references_dialog_fix_theme_links-2315905-5.patch.patch
 
 projects[rules][subdir] = contrib
-projects[rules][version] = 2.7
+projects[rules][version] = 2.8
 
 projects[scheduler][subdir] = contrib
 projects[scheduler][version] = 1.3
 
 projects[search_api][subdir] = contrib
-projects[search_api][version] = 1.13
+projects[search_api][version] = 1.14
 
 projects[search_api_db][subdir] = contrib
 projects[search_api_db][version] = 1.4
@@ -491,13 +491,10 @@ projects[message_notify][version] = 2.5
 ;;;;;;;;;
 
 projects[google_analytics][subdir] = contrib 
-projects[google_analytics][version] = 2.0
+projects[google_analytics][version] = 2.1
 
 projects[google_analytics_reports][subdir] = contrib 
-projects[google_analytics_reports][version] = 3.x-dev
-projects[google_analytics_reports][download][type] = git
-projects[google_analytics_reports][download][revision] = 58274ae7ca184e5648f3db4542d0e60da3fe2de2
-projects[google_analytics_reports][download][branch] = 7.x-3.x
+projects[google_analytics_reports][version] = 3.0-beta1
 
 projects[metatag][subdir] = contrib
 projects[metatag][version] = 1.4
@@ -547,7 +544,7 @@ libraries[mailchimp][directory_name] = "mailchimp"
 libraries[mailchimp][destination] = "libraries"
 
 projects[mollom][subdir] = contrib
-projects[mollom][version] = 2.12
+projects[mollom][version] = 2.13
 
 projects[userreport][subdir] = contrib
 projects[userreport][version] = 1.0-alpha4
@@ -573,7 +570,7 @@ projects[wysiwyg_filter][version] = 1.6-rc2
 ;;;;;;;;;
 
 projects[admin_menu][subdir] = contrib
-projects[admin_menu][version] = 3.0-rc4
+projects[admin_menu][version] = 3.0-rc5
 
 projects[advanced_help][subdir] = contrib
 projects[advanced_help][version] = 1.1
@@ -594,7 +591,7 @@ projects[options_element][subdir] = contrib
 projects[options_element][version] = 1.12
 
 projects[shortcutperrole][subdir] = contrib
-projects[shortcutperrole][version] = 1.1
+projects[shortcutperrole][version] = 1.2
 
 projects[simplified_menu_admin][subdir] = contrib
 projects[simplified_menu_admin][version] = 1.0-beta2
@@ -714,7 +711,7 @@ projects[omega][subdir] = contrib
 projects[omega][version] = 3.1
 
 projects[fusion][subdir] = contrib
-projects[fusion][version] = 2.1
+projects[fusion][version] = 2.2
 
 projects[acquia_marina][subdir] = contrib
 projects[acquia_marina][version] = 2.0-beta1
