@@ -7,6 +7,9 @@ projects[migrate][version] = 2.5
 projects[colorfield][subdir] = contrib
 projects[colorfield][version] = 1.1
 
+projects[honeypot][subdir] = contrib
+projects[honeypot][version] = 1.17
+
 projects[fpa][subdir] = contrib
 projects[fpa][version] = 2.5
 
