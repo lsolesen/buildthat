@@ -41,7 +41,7 @@ projects[cck_blocks][subdir] = contrib
 projects[cck_blocks][version] = 1.1
 
 projects[webform_validation][subdir] = contrib
-projects[webform_validation][version] = 1.7
+projects[webform_validation][version] = 1.9
 
 projects[select_or_other][subdir] = contrib
 projects[select_or_other][version] = 2.20
@@ -233,7 +233,7 @@ projects[crumbs][subdir] = contrib
 projects[crumbs][version] = 1.10
 
 projects[ctools][subdir] = contrib
-projects[ctools][version] = 1.5
+projects[ctools][version] = 1.6
 
 projects[devel][subdir] = contrib
 projects[devel][version] = 1.5
@@ -331,8 +331,8 @@ projects[media_vimeo][version] = 2.0
 projects[media_youtube][subdir] = contrib
 projects[media_youtube][version] = 2.0-rc4
 
-projects[menu_block][subdir] = "contrib"
-projects[menu_block][version] = 2.4
+projects[menu_block][subdir] = contrib
+projects[menu_block][version] = 2.5
 
 projects[mimemail][subdir] = contrib
 projects[mimemail][version] = 1.0-beta3
@@ -433,7 +433,7 @@ projects[webform_mailchimp][subdir] = contrib
 projects[webform_mailchimp][version] = 1.0-rc2
 
 projects[views][subdir] = contrib
-projects[views][version] = 3.8
+projects[views][version] = 3.10
 
 projects[draggableviews][subdir] = contrib
 projects[draggableviews][version] = 2.x-dev
@@ -503,7 +503,7 @@ projects[metatag][subdir] = contrib
 projects[metatag][version] = 1.4
 
 projects[schemaorg][subdir] = contrib
-projects[schemaorg][version] = 1.0-beta4
+projects[schemaorg][version] = 1.0-rc1
 
 projects[site_verify][subdir] = contrib
 projects[site_verify][version] = 1.1
@@ -519,8 +519,7 @@ projects[service_links][download][revision] = f53a5651317ee396a9a35c577ea47a00d3
 projects[service_links][download][branch] = 7.x-2.x
 
 projects[socialmedia][subdir] = contrib	
-projects[socialmedia][version] = 1.0-beta13
-projects[socialmedia][patch][1468030] = http://drupal.org/files/fixed_warning-1468030-9.patch
+projects[socialmedia][version] = 1.0-beta14
 
 projects[widgets][subdir] = contrib	
 projects[widgets][version] = 1.0-rc1
