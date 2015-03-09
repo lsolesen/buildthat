@@ -201,7 +201,7 @@ projects[adaptive_image][subdir] = contrib
 projects[adaptive_image][version] = 1.4
 
 projects[admin_views][subdir] = contrib
-projects[admin_views][version] = 1.3
+projects[admin_views][version] = 1.4
 
 projects[ajax_poll][subdir] = contrib
 projects[ajax_poll][version] = 1.1
@@ -251,14 +251,14 @@ projects[enterprise_rotator][subdir] = contrib
 projects[enterprise_rotator][version] = 1.0-rc1
 
 projects[entity][subdir] = contrib
-projects[entity][version] = 1.5
+projects[entity][version] = 1.6
 
 projects[facetapi][subdir] = contrib
 projects[facetapi][version] = 1.5
 projects[facetapi][patch][1616518] = https://www.drupal.org/files/1616518-term_remove_link-24.patch
 
 projects[features][subdir] = contrib
-projects[features][version] = 2.3
+projects[features][version] = 2.4
 
 projects[features_override][subdir] = contrib
 projects[features_override][version] = 2.0-rc2
@@ -361,7 +361,7 @@ projects[oauthconnector][version] = 1.0-beta2
 projects[oembed][subdir] = contrib
 projects[oembed][version] = 0.1-beta3
 
-projects[panels][version] = 3.4
+projects[panels][version] = 3.5
 projects[panels][subdir] = contrib
 
 projects[publishcontent][subdir] = contrib
@@ -414,10 +414,10 @@ projects[taxonomy_menu][subdir] = contrib
 projects[taxonomy_menu][version] = 1.5
 
 projects[token][subdir] = contrib
-projects[token][version] = 1.5
+projects[token][version] = 1.6
 
 projects[quiz][subdir] = contrib
-projects[quiz][version] = 4.0-beta2
+projects[quiz][version] = 4.0-beta4
 
 ; Can be removed when http://drupal.org/node/1058912 is resolved
 projects[token_tweaks][subdir] = contrib
@@ -427,7 +427,7 @@ projects[token_tweaks][download][revision] = 75818fbfb97bf8882ca106e6af703be7644
 projects[token_tweaks][download][branch] = 7.x-1.x
 
 projects[webform][subdir] = contrib
-projects[webform][version] = 3.21
+projects[webform][version] = 3.22
 
 projects[webform_mailchimp][subdir] = contrib
 projects[webform_mailchimp][version] = 1.0-rc2
@@ -436,10 +436,7 @@ projects[views][subdir] = contrib
 projects[views][version] = 3.10
 
 projects[draggableviews][subdir] = contrib
-projects[draggableviews][version] = 2.x-dev
-projects[draggableviews][download][type] = git
-projects[draggableviews][download][revision] = 4f5ac4ca6eaef98d9ccf28b715eeaa2548306ccd
-projects[draggableviews][download][branch] = 7.x-2.x
+projects[draggableviews][version] = 2.1
 
 projects[views_bulk_operations][subdir] = contrib
 projects[views_bulk_operations][version] = 3.2
@@ -587,7 +584,7 @@ projects[ccl][subdir] = contrib
 projects[ccl][version] = 1.5
 
 projects[module_filter][subdir] = contrib
-projects[module_filter][version] = 1.8
+projects[module_filter][version] = 2.0
 
 projects[options_element][subdir] = contrib
 projects[options_element][version] = 1.12
