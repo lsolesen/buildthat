@@ -19,15 +19,6 @@ projects[css_emimage][version] = 1.3
 projects[views_content_cache][subdir] = contrib
 projects[views_content_cache][version] = 3.0-alpha3
 
-projects[readonlymode][subdir] = contrib
-projects[readonlymode][version] = 1.2
-
-projects[robotstxt][subdir] = contrib
-projects[robotstxt][version] = 1.x-dev
-projects[robotstxt][download][type] = git
-projects[robotstxt][download][revision] = 7c1f070e8d5e687220761ba950c0fadf4089d56a
-projects[robotstxt][download][branch] = 7.x-1.x
-
 projects[less][subdir] = contrib
 projects[less][version] = 3.0
 
