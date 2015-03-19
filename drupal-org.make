@@ -500,7 +500,7 @@ projects[service_links][download][revision] = f53a5651317ee396a9a35c577ea47a00d3
 projects[service_links][download][branch] = 7.x-2.x
 
 projects[socialmedia][subdir] = contrib	
-projects[socialmedia][version] = 1.0-beta14
+projects[socialmedia][version] = 1.0-beta15
 
 projects[widgets][subdir] = contrib	
 projects[widgets][version] = 1.0-rc1
