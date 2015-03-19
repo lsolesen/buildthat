@@ -366,7 +366,7 @@ projects[references_dialog][version] = 1.0-beta1
 projects[references_dialog][patch][2315905] = https://www.drupal.org/files/issues/references_dialog_fix_theme_links-2315905-5.patch.patch
 
 projects[rules][subdir] = contrib
-projects[rules][version] = 2.8
+projects[rules][version] = 2.9
 
 projects[scheduler][subdir] = contrib
 projects[scheduler][version] = 1.3
