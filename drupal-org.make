@@ -224,7 +224,7 @@ projects[crumbs][subdir] = contrib
 projects[crumbs][version] = 1.10
 
 projects[ctools][subdir] = contrib
-projects[ctools][version] = 1.6
+projects[ctools][version] = 1.7
 
 projects[devel][subdir] = contrib
 projects[devel][version] = 1.5
