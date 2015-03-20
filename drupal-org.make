@@ -372,16 +372,10 @@ projects[scheduler][subdir] = contrib
 projects[scheduler][version] = 1.3
 
 projects[search_api][subdir] = contrib
-projects[search_api][version] = 1.x-dev
-projects[search_api][download][type] = git
-projects[search_api][download][revision] = cedaf03
-projects[search_api][download][branch] = 7.x-1.x
+projects[search_api][version] = 1.14
 
 projects[search_api_db][subdir] = contrib
-projects[search_api_db][version] = 1.x-dev
-projects[search_api_db][download][type] = git
-projects[search_api_db][download][revision] = 643d96c
-projects[search_api_db][download][branch] = 7.x-1.x
+projects[search_api_db][version] = 1.4
 
 projects[similarterms][subdir] = contrib 
 projects[similarterms][version] = 2.3
