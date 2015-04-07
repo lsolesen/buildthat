@@ -38,7 +38,7 @@ projects[webform_validation][subdir] = contrib
 projects[webform_validation][version] = 1.9
 
 projects[select_or_other][subdir] = contrib
-projects[select_or_other][version] = 2.20
+projects[select_or_other][version] = 2.21
 
 projects[revisioning][subdir] = contrib
 projects[revisioning][version] = 1.9
@@ -323,7 +323,7 @@ projects[media_vimeo][subdir] = contrib
 projects[media_vimeo][version] = 2.0
 
 projects[media_youtube][subdir] = contrib
-projects[media_youtube][version] = 2.0-rc4
+projects[media_youtube][version] = 2.0-rc5
 
 projects[menu_block][subdir] = contrib
 projects[menu_block][version] = 2.5
@@ -421,7 +421,7 @@ projects[token_tweaks][download][revision] = 75818fbfb97bf8882ca106e6af703be7644
 projects[token_tweaks][download][branch] = 7.x-1.x
 
 projects[webform][subdir] = contrib
-projects[webform][version] = 4.5
+projects[webform][version] = 4.7
 
 projects[webform_mailchimp][subdir] = contrib
 projects[webform_mailchimp][version] = 1.0-rc2
