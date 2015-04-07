@@ -1,6 +1,9 @@
 api = 2
 core = 7.x
 
+projects[sumome][subdir] = contrib
+projects[sumome][version] = 1.0-beta1
+
 projects[migrate][subdir] = contrib
 projects[migrate][version] = 2.5
 
