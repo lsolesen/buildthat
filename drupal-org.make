@@ -128,7 +128,7 @@ projects[views_data_export][version] = 3.0-beta8
 ;;;;;;;;;
 
 projects[addressfield][subdir] = contrib
-projects[addressfield][version] = 1.0
+projects[addressfield][version] = 1.1
 
 projects[breakpoints][subdir] = contrib
 projects[breakpoints][version] = 1.3
