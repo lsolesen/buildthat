@@ -335,7 +335,7 @@ projects[multiform][subdir] = contrib
 projects[multiform][version] = 1.1
 
 projects[navbar][subdir] = contrib
-projects[navbar][version] = 1.0-alpha7
+projects[navbar][version] = 1.6
 
 projects[node_clone][subdir] = contrib
 projects[node_clone][version] = 1.0-rc2
