@@ -19,9 +19,6 @@ projects[fpa][version] = 2.5
 projects[css_emimage][subdir] = contrib
 projects[css_emimage][version] = 1.3
 
-projects[views_content_cache][subdir] = contrib
-projects[views_content_cache][version] = 3.0-alpha3
-
 projects[less][subdir] = contrib
 projects[less][version] = 3.0
 
@@ -427,7 +424,7 @@ projects[webform_mailchimp][subdir] = contrib
 projects[webform_mailchimp][version] = 1.0-rc2
 
 projects[views][subdir] = contrib
-projects[views][version] = 3.10
+projects[views][version] = 3.11
 
 projects[draggableviews][subdir] = contrib
 projects[draggableviews][version] = 2.1
