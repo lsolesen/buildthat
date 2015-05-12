@@ -613,7 +613,7 @@ projects[variable][subdir] = contrib
 projects[variable][version] = 2.5
 
 projects[i18n][subdir] = contrib
-projects[i18n][version] = 1.11
+projects[i18n][version] = 1.13
 
 ;;;;;;;;;
 ; Libraries
