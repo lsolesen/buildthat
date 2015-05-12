@@ -289,7 +289,7 @@ projects[image_resize_filter][subdir] = contrib
 projects[image_resize_filter][version] = 1.14
 
 projects[jquery_update][subdir] = contrib
-projects[jquery_update][version] = 2.4
+projects[jquery_update][version] = 2.5
 
 projects[jplayer][subdir] = contrib
 projects[jplayer][version] = 2.0-beta1
