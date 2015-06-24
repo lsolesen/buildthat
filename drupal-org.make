@@ -314,7 +314,7 @@ projects[media_youtube][subdir] = contrib
 projects[media_youtube][version] = 3.0
 
 projects[menu_block][subdir] = contrib
-projects[menu_block][version] = 2.5
+projects[menu_block][version] = 2.6
 
 projects[mimemail][subdir] = contrib
 projects[mimemail][version] = 1.0-beta3
