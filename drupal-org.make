@@ -408,7 +408,7 @@ projects[token][subdir] = contrib
 projects[token][version] = 1.6
 
 projects[quiz][subdir] = contrib
-projects[quiz][version] = 4.0-beta4
+projects[quiz][version] = 4.0-rc1
 
 ; Can be removed when http://drupal.org/node/1058912 is resolved
 projects[token_tweaks][subdir] = contrib
