@@ -11,7 +11,7 @@ projects[colorfield][subdir] = contrib
 projects[colorfield][version] = 1.1
 
 projects[honeypot][subdir] = contrib
-projects[honeypot][version] = 1.17
+projects[honeypot][version] = 1.18
 
 projects[fpa][subdir] = contrib
 projects[fpa][version] = 2.5
