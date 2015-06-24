@@ -320,7 +320,7 @@ projects[media_vimeo][subdir] = contrib
 projects[media_vimeo][version] = 2.0
 
 projects[media_youtube][subdir] = contrib
-projects[media_youtube][version] = 2.0-rc5
+projects[media_youtube][version] = 3.0
 
 projects[menu_block][subdir] = contrib
 projects[menu_block][version] = 2.5
