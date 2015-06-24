@@ -527,7 +527,7 @@ libraries[mailchimp][directory_name] = "mailchimp"
 libraries[mailchimp][destination] = "libraries"
 
 projects[mollom][subdir] = contrib
-projects[mollom][version] = 2.13
+projects[mollom][version] = 2.14
 
 projects[userreport][subdir] = contrib
 projects[userreport][version] = 1.0-alpha4
