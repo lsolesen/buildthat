@@ -255,10 +255,7 @@ projects[file_entity][subdir] = contrib
 projects[file_entity][version] = 2.0-beta1
 
 projects[file_lock][subdir] = contrib
-projects[file_lock][version] = 2.x-dev
-projects[file_lock][download][type] = git
-projects[file_lock][download][revision] = a84c0ed970fdd6e2d992d2ae50a5a13ce494f53
-projects[file_lock][download][branch] = 7.x-2.x
+projects[file_lock][version] = 2.0
 
 projects[http_client][subdir] = contrib
 projects[http_client][version] = 2.4
