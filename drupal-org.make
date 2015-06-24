@@ -57,10 +57,7 @@ projects[featured_content][subdir] = contrib
 projects[featured_content][version] = 1.6
 
 projects[semanticviews][subdir] = contrib
-projects[semanticviews][version] = 1.x-dev
-projects[semanticviews][download][type] = git
-projects[semanticviews][download][revision] = 4dd1ee67b9cb6db32e7212802f3c9ea43e2d0f52
-projects[semanticviews][download][branch] = master
+projects[semanticviews][version] = 1.0-rc2
 
 projects[twitter][subdir] = contrib
 projects[twitter][version] = 5.8
