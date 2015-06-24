@@ -286,7 +286,7 @@ projects[imagefield_focus][download][branch] = 7.x-1.x
 projects[imagefield_focus][patch][1781778] = http://drupal.org/files/iff-media_1.patch
 
 projects[image_resize_filter][subdir] = contrib
-projects[image_resize_filter][version] = 1.14
+projects[image_resize_filter][version] = 1.15
 
 projects[jquery_update][subdir] = contrib
 projects[jquery_update][version] = 2.5
