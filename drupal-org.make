@@ -100,7 +100,7 @@ projects[delta][subdir] = contrib
 projects[delta][version] = 3.0-beta11
 
 projects[ds][subdir] = contrib
-projects[ds][version] = 2.8
+projects[ds][version] = 2.10
 
 projects[entityconnect][subdir] = contrib
 projects[entityconnect][version] = 1.x-dev
