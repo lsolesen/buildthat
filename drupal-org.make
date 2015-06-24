@@ -35,7 +35,7 @@ projects[webform_validation][subdir] = contrib
 projects[webform_validation][version] = 1.9
 
 projects[select_or_other][subdir] = contrib
-projects[select_or_other][version] = 2.21
+projects[select_or_other][version] = 2.22
 
 projects[revisioning][subdir] = contrib
 projects[revisioning][version] = 1.9
