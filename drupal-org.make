@@ -701,11 +701,7 @@ projects[responsive_bartik][subdir] = contrib
 projects[responsive_bartik][version] = 1.0
 
 projects[simpleclean][subdir] = contrib
-projects[simpleclean][version] = 2.x-dev
-projects[simpleclean][download][type] = git
-projects[simpleclean][download][revision] = 11548ce318deb5f300f4daa8eed7a54892bdfe92
-projects[simpleclean][download][branch] = 7.x-2.x
-projects[simpleclean][patch][2029307] = https://drupal.org/files/issue-2029307_0.patch
+projects[simpleclean][version] = 2.0-alpha2
 
 projects[zen][subdir] = contrib
 projects[zen][version] = 5.5
