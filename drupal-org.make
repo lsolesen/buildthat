@@ -332,7 +332,7 @@ projects[node_view_permissions][subdir] = contrib
 projects[node_view_permissions][version] = 1.5
 
 projects[nodequeue][subdir] = contrib
-projects[nodequeue][version] = 2.0-beta1
+projects[nodequeue][version] = 2.0
 
 projects[oauth][subdir] = contrib
 projects[oauth][version] = 3.2
