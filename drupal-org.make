@@ -227,10 +227,7 @@ projects[devel][subdir] = contrib
 projects[devel][version] = 1.5
 
 projects[disqus][subdir] = contrib
-projects[disqus][version] = 1.x-dev
-projects[disqus][download][type] = git
-projects[disqus][download][revision] = 9503ebb5ec9eca25e5234a73f74595e20d6427e7
-projects[disqus][download][branch] = 7.x-1.x
+projects[disqus][version] = 1.12
 
 projects[diff][subdir] = contrib
 projects[diff][version] = 3.2
