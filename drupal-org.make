@@ -243,7 +243,7 @@ projects[facetapi][version] = 1.5
 projects[facetapi][patch][1616518] = https://www.drupal.org/files/1616518-term_remove_link-24.patch
 
 projects[features][subdir] = contrib
-projects[features][version] = 2.5
+projects[features][version] = 2.6
 
 projects[features_override][subdir] = contrib
 projects[features_override][version] = 2.0-rc2
