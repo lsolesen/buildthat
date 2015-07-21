@@ -32,7 +32,7 @@ projects[cck_blocks][subdir] = contrib
 projects[cck_blocks][version] = 1.1
 
 projects[webform_validation][subdir] = contrib
-projects[webform_validation][version] = 1.9
+projects[webform_validation][version] = 1.10
 
 projects[select_or_other][subdir] = contrib
 projects[select_or_other][version] = 2.22
@@ -405,7 +405,7 @@ projects[token_tweaks][download][revision] = 75818fbfb97bf8882ca106e6af703be7644
 projects[token_tweaks][download][branch] = 7.x-1.x
 
 projects[webform][subdir] = contrib
-projects[webform][version] = 4.9
+projects[webform][version] = 4.10
 
 projects[webform_mailchimp][subdir] = contrib
 projects[webform_mailchimp][version] = 1.0-rc2
