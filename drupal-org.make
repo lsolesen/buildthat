@@ -417,7 +417,7 @@ projects[draggableviews][subdir] = contrib
 projects[draggableviews][version] = 2.1
 
 projects[views_bulk_operations][subdir] = contrib
-projects[views_bulk_operations][version] = 3.2
+projects[views_bulk_operations][version] = 3.3
 
 projects[views_random_seed][subdir] = contrib
 projects[views_random_seed][version] = 1.2
