@@ -172,11 +172,7 @@ projects[pathauto][subdir] = contrib
 projects[pathauto][version] = 1.2
 
 projects[redirect][subdir] = contrib
-projects[redirect][version] = 1.x-dev
-projects[redirect][download][type] = git
-projects[redirect][download][revision] = 0b7b8dc2d58cb277874d87c91c45f0a361e148f7
-projects[redirect][download][branch] = 7.x-1.x
-projects[redirect][patch][1796596] = http://drupal.org/files/redirect-circular-1796596-8.patch
+projects[redirect][version] = 1.0-rc3
 
 projects[transliteration][subdir] = contrib
 projects[transliteration][version] = 3.2
