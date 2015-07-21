@@ -109,7 +109,7 @@ projects[entityconnect][download][revision] = 1001ed6d675ab40d47ef3d3edee322a96d
 projects[entityconnect][download][branch] = 7.x-1.x
 
 projects[feeds][subdir] = contrib
-projects[feeds][version] = 2.0-alpha9
+projects[feeds][version] = 2.0-beta1
 
 projects[prelaunch][subdir] = contrib
 projects[prelaunch][version] = 1.2
