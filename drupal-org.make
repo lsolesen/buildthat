@@ -189,7 +189,7 @@ projects[adaptive_image][subdir] = contrib
 projects[adaptive_image][version] = 1.4
 
 projects[admin_views][subdir] = contrib
-projects[admin_views][version] = 1.4
+projects[admin_views][version] = 1.5
 
 projects[ajax_poll][subdir] = contrib
 projects[ajax_poll][version] = 1.1
