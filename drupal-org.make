@@ -481,10 +481,7 @@ projects[site_verify][version] = 1.1
 ;;;;;;;;;
 
 projects[service_links][subdir] = contrib  
-projects[service_links][version] = 2.x-dev
-projects[service_links][download][type] = git
-projects[service_links][download][revision] = f53a5651317ee396a9a35c577ea47a00d39a7538
-projects[service_links][download][branch] = 7.x-2.x
+projects[service_links][version] = 2.3
 
 projects[socialmedia][subdir] = contrib	
 projects[socialmedia][version] = 1.0-beta15
