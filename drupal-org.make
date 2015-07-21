@@ -252,7 +252,7 @@ projects[fences][subdir] = contrib
 projects[fences][version] = 1.0
 
 projects[file_entity][subdir] = contrib
-projects[file_entity][version] = 2.0-beta1
+projects[file_entity][version] = 2.0-beta2
 
 projects[file_lock][subdir] = contrib
 projects[file_lock][version] = 2.0
@@ -301,7 +301,7 @@ projects[logintoboggan][subdir] = contrib
 projects[logintoboggan][version] = 1.5
 
 projects[media][subdir] = contrib
-projects[media][version] = 2.0-alpha4
+projects[media][version] = 2.0-beta1
 
 projects[media_colorbox][subdir] = contrib
 projects[media_colorbox][version] = 1.0-rc4
@@ -314,7 +314,7 @@ projects[media_youtube][subdir] = contrib
 projects[media_youtube][version] = 3.0
 
 projects[menu_block][subdir] = contrib
-projects[menu_block][version] = 2.6
+projects[menu_block][version] = 2.7
 
 projects[mimemail][subdir] = contrib
 projects[mimemail][version] = 1.0-beta3
