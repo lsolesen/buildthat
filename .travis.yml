@@ -1,4 +1,5 @@
 language: php
+sudo: false
 
 php:
   - 5.4
@@ -16,7 +17,7 @@ before_script:
   - phpenv rehash
   - drush make --prepare-install build-buildthat.make ../vih.dk --yes
   - cd ../vih.dk
-  - sudo chmod -R 777 sites/all/modules
+  - chmod -R 777 sites/all/modules
   - drush si standard --db-url=mysql://root:@127.0.0.1/drupal --account-name=admin --account-pass=VIH@2012 --site-mail=admin@example.com --site-name="vih.dk" --yes
   - drush cc all --yes
   - cd ../buildthat
