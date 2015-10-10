@@ -1,6 +1,9 @@
 api = 2
 core = 7.x
 
+projects[twitter_block][subdir] = contrib
+projects[twitter_block][version] = 2.3
+
 projects[sumome][subdir] = contrib
 projects[sumome][version] = 1.0-beta1
 
