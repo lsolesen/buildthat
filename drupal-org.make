@@ -47,7 +47,7 @@ projects[globalredirect][subdir] = contrib
 projects[globalredirect][version] = 1.5
 
 projects[easy_social][subdir] = contrib
-projects[easy_social][version] = 2.11
+projects[easy_social][version] = 2.12
 
 ; should be removed when no project is using it anymore. Switch to publishcontent
 projects[publish_button][subdir] = contrib
@@ -172,7 +172,7 @@ projects[title][version] = 1.0-alpha7
 ;;;;;;;;;
 
 projects[pathauto][subdir] = contrib
-projects[pathauto][version] = 1.2
+projects[pathauto][version] = 1.3
 
 projects[redirect][subdir] = contrib
 projects[redirect][version] = 1.0-rc3
@@ -220,7 +220,7 @@ projects[crumbs][subdir] = contrib
 projects[crumbs][version] = 1.10
 
 projects[ctools][subdir] = contrib
-projects[ctools][version] = 1.7
+projects[ctools][version] = 1.9
 
 projects[devel][subdir] = contrib
 projects[devel][version] = 1.5
@@ -276,7 +276,7 @@ projects[imagefield_focus][download][branch] = 7.x-1.x
 projects[imagefield_focus][patch][1781778] = http://drupal.org/files/iff-media_1.patch
 
 projects[image_resize_filter][subdir] = contrib
-projects[image_resize_filter][version] = 1.15
+projects[image_resize_filter][version] = 1.16
 
 projects[jquery_update][subdir] = contrib
 projects[jquery_update][version] = 2.6
@@ -408,7 +408,7 @@ projects[token_tweaks][download][revision] = 75818fbfb97bf8882ca106e6af703be7644
 projects[token_tweaks][download][branch] = 7.x-1.x
 
 projects[webform][subdir] = contrib
-projects[webform][version] = 4.10
+projects[webform][version] = 4.11
 
 projects[webform_mailchimp][subdir] = contrib
 projects[webform_mailchimp][version] = 1.0-rc2
@@ -471,7 +471,7 @@ projects[google_analytics_reports][subdir] = contrib
 projects[google_analytics_reports][version] = 3.0-beta1
 
 projects[metatag][subdir] = contrib
-projects[metatag][version] = 1.6
+projects[metatag][version] = 1.7
 
 projects[schemaorg][subdir] = contrib
 projects[schemaorg][version] = 1.0-rc1
