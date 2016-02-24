@@ -8,12 +8,22 @@ mysql:
   database: drupal
   username: root
   encoding: utf8
-  
+
+# Cache Composer & Drush directories.
+cache:
+  directories:
+    - $HOME/.composer/cache
+    - $HOME/.drush/cache
+
 before_script:
   - "mysql -e 'create database drupal;'"
-  - pear channel-discover pear.drush.org
-  - pear install drush/drush
-  - phpenv rehash
+
+  # Install latest Drush 6.
+  - travis_retry composer self-update && composer --version
+  - travis_retry composer global require "drush/drush:6.*"
+  - export PATH="$HOME/.composer/vendor/bin:$PATH"
+
+  # Build site.
   - drush make --prepare-install build-buildthat.make ../vih.dk --yes
   - cd ../vih.dk
   - chmod -R 777 sites/all/modules
