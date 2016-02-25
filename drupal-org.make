@@ -231,9 +231,6 @@ projects[disqus][version] = 1.12
 projects[diff][subdir] = contrib
 projects[diff][version] = 3.2
 
-projects[enterprise_rotator][subdir] = contrib
-projects[enterprise_rotator][version] = 1.0-rc1
-
 projects[entity][subdir] = contrib
 projects[entity][version] = 1.6
 
