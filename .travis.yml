@@ -15,7 +15,7 @@ cache:
     - $HOME/.composer/cache
     - $HOME/.drush/cache
 
-before_script:
+install:
   - "mysql -e 'create database drupal;'"
 
   # Install latest Drush 6.
@@ -27,6 +27,11 @@ before_script:
   - drush make --prepare-install build-buildthat.make ../vih.dk --yes
   - cd ../vih.dk
   - chmod -R 777 sites/all/modules
+
+  # Disable sendmail
+  - echo sendmail_path=`which true` >> ~/.phpenv/versions/$(phpenv version-name)/etc/php.ini
+
+before_script:
   - drush si standard --db-url=mysql://root:@127.0.0.1/drupal --account-name=admin --account-pass=VIH@2012 --site-mail=admin@example.com --site-name="vih.dk" --yes
   - drush cc all --yes
   - cd ../buildthat
