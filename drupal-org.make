@@ -8,7 +8,7 @@ projects[sumome][subdir] = contrib
 projects[sumome][version] = 1.0-beta1
 
 projects[migrate][subdir] = contrib
-projects[migrate][version] = 2.5
+projects[migrate][version] = 2.8
 
 projects[colorfield][subdir] = contrib
 projects[colorfield][version] = 1.1
@@ -239,7 +239,7 @@ projects[facetapi][version] = 1.5
 projects[facetapi][patch][1616518] = https://www.drupal.org/files/1616518-term_remove_link-24.patch
 
 projects[features][subdir] = contrib
-projects[features][version] = 2.6
+projects[features][version] = 2.8
 
 projects[features_override][subdir] = contrib
 projects[features_override][version] = 2.0-rc2
