@@ -137,7 +137,7 @@ projects[countries][subdir] = contrib
 projects[countries][version] = 2.3
 
 projects[date][subdir] = contrib
-projects[date][version] = 2.8
+projects[date][version] = 2.9
 
 projects[email][subdir] = contrib
 projects[email][version] = 1.3
@@ -150,7 +150,7 @@ projects[entityreference][download][branch] = 7.x-1.x
 projects[entityreference][patch][1699378] = http://drupal.org/files/view-argument-as-token-1699378-41.patch
 
 projects[field_group][subdir] = contrib
-projects[field_group][version] = 1.4
+projects[field_group][version] = 1.5
 
 projects[field_extrawidgets][subdir] = contrib
 projects[field_extrawidgets][version] = 1.1
@@ -159,7 +159,7 @@ projects[field_redirection][subdir] = contrib
 projects[field_redirection][version] = 2.6
 
 projects[link][subdir] = contrib
-projects[link][version] = 1.3
+projects[link][version] = 1.4
 
 projects[pdf_reader][subdir] = contrib
 projects[pdf_reader][version] = 1.0-rc5
@@ -199,13 +199,13 @@ projects[backup_migrate][subdir] = contrib
 projects[backup_migrate][version] = 2.8
 
 projects[better_formats][subdir] = contrib
-projects[better_formats][version] = 1.0-beta1
+projects[better_formats][version] = 1.0-beta2
 
 projects[calendar][subdir] = contrib
 projects[calendar][version] = 3.5
 
 projects[comment_notify][subdir] = contrib
-projects[comment_notify][version] = 1.2
+projects[comment_notify][version] = 1.3
 
 projects[cookiecontrol][subdir] = contrib
 projects[cookiecontrol][version] = 1.6
@@ -232,7 +232,7 @@ projects[diff][subdir] = contrib
 projects[diff][version] = 3.2
 
 projects[entity][subdir] = contrib
-projects[entity][version] = 1.6
+projects[entity][version] = 1.7
 
 projects[facetapi][subdir] = contrib
 projects[facetapi][version] = 1.5
@@ -356,7 +356,7 @@ projects[rules][subdir] = contrib
 projects[rules][version] = 2.9
 
 projects[scheduler][subdir] = contrib
-projects[scheduler][version] = 1.3
+projects[scheduler][version] = 1.4
 
 projects[search_api][subdir] = contrib
 projects[search_api][version] = 1.15
@@ -395,7 +395,7 @@ projects[token][subdir] = contrib
 projects[token][version] = 1.6
 
 projects[quiz][subdir] = contrib
-projects[quiz][version] = 4.0-rc1
+projects[quiz][version] = 4.0-rc2
 
 ; Can be removed when http://drupal.org/node/1058912 is resolved
 projects[token_tweaks][subdir] = contrib
@@ -411,7 +411,7 @@ projects[webform_mailchimp][subdir] = contrib
 projects[webform_mailchimp][version] = 1.0-rc2
 
 projects[views][subdir] = contrib
-projects[views][version] = 3.11
+projects[views][version] = 3.13
 
 projects[draggableviews][subdir] = contrib
 projects[draggableviews][version] = 2.1
@@ -468,7 +468,7 @@ projects[google_analytics_reports][subdir] = contrib
 projects[google_analytics_reports][version] = 3.0-beta1
 
 projects[metatag][subdir] = contrib
-projects[metatag][version] = 1.7
+projects[metatag][version] = 1.13
 
 projects[schemaorg][subdir] = contrib
 projects[schemaorg][version] = 1.0-rc1
@@ -511,7 +511,7 @@ libraries[mailchimp][directory_name] = "mailchimp"
 libraries[mailchimp][destination] = "libraries"
 
 projects[mollom][subdir] = contrib
-projects[mollom][version] = 2.14
+projects[mollom][version] = 2.15
 
 projects[userreport][subdir] = contrib
 projects[userreport][version] = 1.0-alpha4
