@@ -14,7 +14,7 @@ projects[colorfield][subdir] = contrib
 projects[colorfield][version] = 1.1
 
 projects[honeypot][subdir] = contrib
-projects[honeypot][version] = 1.18
+projects[honeypot][version] = 1.22
 
 projects[fpa][subdir] = contrib
 projects[fpa][version] = 2.5
@@ -35,7 +35,7 @@ projects[cck_blocks][subdir] = contrib
 projects[cck_blocks][version] = 1.1
 
 projects[webform_validation][subdir] = contrib
-projects[webform_validation][version] = 1.10
+projects[webform_validation][version] = 1.11
 
 projects[select_or_other][subdir] = contrib
 projects[select_or_other][version] = 2.22
@@ -63,7 +63,7 @@ projects[semanticviews][subdir] = contrib
 projects[semanticviews][version] = 1.0-rc2
 
 projects[twitter][subdir] = contrib
-projects[twitter][version] = 5.8
+projects[twitter][version] = 5.11
 
 projects[superfish][subdir] = contrib
 projects[superfish][version] = 1.x-dev
@@ -94,7 +94,7 @@ projects[fontyourface][subdir] = contrib
 projects[fontyourface][version] = 2.8
 
 projects[block_class][subdir] = contrib
-projects[block_class][version] = 1.3
+projects[block_class][version] = 2.3
 
 projects[empty_front_page][subdir] = contrib
 projects[empty_front_page][version] = 1.0
@@ -103,32 +103,29 @@ projects[delta][subdir] = contrib
 projects[delta][version] = 3.0-beta11
 
 projects[ds][subdir] = contrib
-projects[ds][version] = 2.10
+projects[ds][version] = 2.14
 
 projects[entityconnect][subdir] = contrib
-projects[entityconnect][version] = 1.x-dev
-projects[entityconnect][download][type] = git
-projects[entityconnect][download][revision] = 1001ed6d675ab40d47ef3d3edee322a96dffda84
-projects[entityconnect][download][branch] = 7.x-1.x
+projects[entityconnect][version] = 1.0-rc5
 
 projects[feeds][subdir] = contrib
-projects[feeds][version] = 2.0-beta1
+projects[feeds][version] = 2.0-beta2
 
 projects[prelaunch][subdir] = contrib
 projects[prelaunch][version] = 1.2
 
 projects[views_data_export][subdir] = contrib
-projects[views_data_export][version] = 3.0-beta8
+projects[views_data_export][version] = 3.0-beta9
 
 ;;;;;;;;;
 ; Fields
 ;;;;;;;;;
 
 projects[addressfield][subdir] = contrib
-projects[addressfield][version] = 1.1
+projects[addressfield][version] = 1.2
 
 projects[breakpoints][subdir] = contrib
-projects[breakpoints][version] = 1.3
+projects[breakpoints][version] = 1.4
 
 projects[cck][subdir] = contrib
 projects[cck][version] = 3.0-alpha3
@@ -165,7 +162,7 @@ projects[pdf_reader][subdir] = contrib
 projects[pdf_reader][version] = 1.0-rc5
 
 projects[title][subdir] = contrib
-projects[title][version] = 1.0-alpha7
+projects[title][version] = 1.0-alpha8
 
 ;;;;;;;;;
 ; Path tools
@@ -242,10 +239,10 @@ projects[features][subdir] = contrib
 projects[features][version] = 2.10
 
 projects[features_override][subdir] = contrib
-projects[features_override][version] = 2.0-rc2
+projects[features_override][version] = 2.0-rc3
 
 projects[fences][subdir] = contrib
-projects[fences][version] = 1.0
+projects[fences][version] = 1.2
 
 projects[file_entity][subdir] = contrib
 projects[file_entity][version] = 2.0-beta2
@@ -276,7 +273,7 @@ projects[image_resize_filter][subdir] = contrib
 projects[image_resize_filter][version] = 1.16
 
 projects[jquery_update][subdir] = contrib
-projects[jquery_update][version] = 2.6
+projects[jquery_update][version] = 2.7
 
 projects[jplayer][subdir] = contrib
 projects[jplayer][version] = 2.0-beta1
@@ -313,16 +310,16 @@ projects[menu_block][subdir] = contrib
 projects[menu_block][version] = 2.7
 
 projects[mimemail][subdir] = contrib
-projects[mimemail][version] = 1.0-beta3
+projects[mimemail][version] = 1.0-beta4
 
 projects[multiform][subdir] = contrib
 projects[multiform][version] = 1.1
 
 projects[navbar][subdir] = contrib
-projects[navbar][version] = 1.6
+projects[navbar][version] = 1.7
 
 projects[node_clone][subdir] = contrib
-projects[node_clone][version] = 1.0-rc2
+projects[node_clone][version] = 1.0
 
 projects[node_view_permissions][subdir] = contrib
 projects[node_view_permissions][version] = 1.5
@@ -359,13 +356,13 @@ projects[scheduler][subdir] = contrib
 projects[scheduler][version] = 1.4
 
 projects[search_api][subdir] = contrib
-projects[search_api][version] = 1.15
+projects[search_api][version] = 1.18
 
 projects[search_api_db][subdir] = contrib
-projects[search_api_db][version] = 1.4
+projects[search_api_db][version] = 1.5
 
 projects[similarterms][subdir] = contrib 
-projects[similarterms][version] = 2.3
+projects[similarterms][version] = 2.5
 
 projects[special_menu_items][subdir] = contrib
 projects[special_menu_items][version] = 2.0
@@ -405,7 +402,7 @@ projects[token_tweaks][download][revision] = 75818fbfb97bf8882ca106e6af703be7644
 projects[token_tweaks][download][branch] = 7.x-1.x
 
 projects[webform][subdir] = contrib
-projects[webform][version] = 4.11
+projects[webform][version] = 4.12
 
 projects[webform_mailchimp][subdir] = contrib
 projects[webform_mailchimp][version] = 1.0-rc2
@@ -423,7 +420,7 @@ projects[views_random_seed][subdir] = contrib
 projects[views_random_seed][version] = 1.2
 
 projects[views_send][subdir] = contrib
-projects[views_send][version] = 1.1
+projects[views_send][version] = 1.2
 
 projects[views_slideshow][subdir] = contrib
 projects[views_slideshow][version] = 3.1
@@ -452,7 +449,7 @@ projects[mailsystem][subdir] = contrib
 projects[mailsystem][version] = 2.34
 
 projects[message][subdir] = contrib
-projects[message][version] = 1.10
+projects[message][version] = 1.11
 
 projects[message_notify][subdir] = contrib
 projects[message_notify][version] = 2.5
@@ -462,13 +459,13 @@ projects[message_notify][version] = 2.5
 ;;;;;;;;;
 
 projects[google_analytics][subdir] = contrib 
-projects[google_analytics][version] = 2.1
+projects[google_analytics][version] = 2.2
 
 projects[google_analytics_reports][subdir] = contrib 
-projects[google_analytics_reports][version] = 3.0-beta1
+projects[google_analytics_reports][version] = 3.0
 
 projects[metatag][subdir] = contrib
-projects[metatag][version] = 1.13
+projects[metatag][version] = 1.14
 
 projects[schemaorg][subdir] = contrib
 projects[schemaorg][version] = 1.0-rc1
@@ -500,10 +497,10 @@ projects[chart][download][revision] = 860c75c27c296a4135ac1efac773ba1cdf7edf7c
 projects[chart][download][branch] = 7.x-1.x
 
 projects[colorbox][subdir] = contrib
-projects[colorbox][version] = 2.9
+projects[colorbox][version] = 2.10
 
 projects[mailchimp][subdir] = contrib
-projects[mailchimp][version] = 2.12
+projects[mailchimp][version] = 2.13
 
 libraries[mailchimp][download][type] = "get"
 libraries[mailchimp][download][url] = "https://github.com/lsolesen/mailchimp-api-class/archive/v.1.3.2.zip"
@@ -521,7 +518,7 @@ projects[userreport][version] = 1.0-alpha4
 ;;;;;;;;;
 
 projects[ckeditor_link][subdir] = contrib
-projects[ckeditor_link][version] = 2.3
+projects[ckeditor_link][version] = 2.4
 
 projects[wysiwyg][version] = 2.x-dev
 projects[wysiwyg][subdir] = contrib
@@ -530,7 +527,7 @@ projects[wysiwyg][download][revision] = 3cb63de
 projects[wysiwyg][download][branch] = 7.x-2.x
 
 projects[wysiwyg_filter][subdir] = contrib
-projects[wysiwyg_filter][version] = 1.6-rc2
+projects[wysiwyg_filter][version] = 1.6-rc3
 
 ;;;;;;;;;
 ; UX Enhancements
@@ -561,7 +558,7 @@ projects[shortcutperrole][subdir] = contrib
 projects[shortcutperrole][version] = 1.2
 
 projects[simplified_menu_admin][subdir] = contrib
-projects[simplified_menu_admin][version] = 1.0-beta2
+projects[simplified_menu_admin][version] = 1.0
 
 projects[emfield][subdir] = contrib
 projects[emfield[version] = 1.0-alpha1
@@ -581,7 +578,7 @@ projects[translation_helpers][version] = 1.0
 ;;;;;;;;;
 
 projects[codefilter][subdir] = contrib
-projects[codefilter][version] = 1.1
+projects[codefilter][version] = 1.2
 
 projects[gist_filter][subdir] = contrib
 projects[gist_filter][version] = 1.2
@@ -672,7 +669,7 @@ projects[corolla][subdir] = contrib
 projects[corolla][version] = 3.0
 
 projects[shiny][subdir] = contrib
-projects[shiny][version] = 1.6
+projects[shiny][version] = 1.7
 
 projects[omega][subdir] = contrib
 projects[omega][version] = 3.1
@@ -697,7 +694,7 @@ projects[simpleclean][subdir] = contrib
 projects[simpleclean][version] = 2.0-alpha2
 
 projects[zen][subdir] = contrib
-projects[zen][version] = 5.5
+projects[zen][version] = 5.6
 
 projects[neptune][subdir] = contrib
 projects[neptune][version] = 1.3
