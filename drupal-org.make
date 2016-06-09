@@ -82,10 +82,7 @@ projects[image_caption][download][revision] = 82f855b27f8e9912f6e328d588d5354395
 projects[image_caption][download][branch] = 7.x-1.x
 
 projects[flexslider][subdir] = contrib
-projects[flexslider][version] = 1.x-dev
-projects[flexslider][download][type] = git
-projects[flexslider][download][revision] = 77ea061e536b7fc7aef6b6555fb61746d7f5eed8
-projects[flexslider][download][branch] = 7.x-1.x
+projects[flexslider][version] = 2.0-rc1
 
 projects[commentsblock][subdir] = contrib
 projects[commentsblock][version] = 2.5
