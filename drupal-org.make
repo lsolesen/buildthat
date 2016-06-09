@@ -84,6 +84,10 @@ projects[image_caption][download][branch] = 7.x-1.x
 projects[flexslider][subdir] = contrib
 projects[flexslider][version] = 2.0-rc1
 
+libraries[flexslider][download][type] = "get"
+libraries[flexslider][download][url] = "https://github.com/woothemes/FlexSlider/archive/2.6.1.zip"
+libraries[flexslider][directory_name] = "flexslider"
+
 projects[commentsblock][subdir] = contrib
 projects[commentsblock][version] = 2.5
 
