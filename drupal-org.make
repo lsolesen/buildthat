@@ -645,8 +645,8 @@ libraries[tcpdf][destination] = "libraries"
 libraries[tcpdf][download][revision] = e9ebd692d5c5b1db8d9fa3a276662e75ceb9ac5a
 
 libraries[fpdf][download][type] = "git"
-libraries[fpdf][download][url] = git://github.com/lsolesen/fpdf.git
-libraries[fpdf][download][tag] = 1.6.0
+libraries[fpdf][download][url] = "https://github.com/Setasign/FPDF.git"
+libraries[fpdf][download][tag] = 1.7
 libraries[fpdf][destination] = "libraries"
 
 libraries[jplayer][download][type] = "get"
