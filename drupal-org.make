@@ -245,7 +245,7 @@ projects[fences][subdir] = contrib
 projects[fences][version] = 1.2
 
 projects[file_entity][subdir] = contrib
-projects[file_entity][version] = 2.0-beta2
+projects[file_entity][version] = 2.0-beta3
 
 projects[file_lock][subdir] = contrib
 projects[file_lock][version] = 2.0
@@ -288,13 +288,13 @@ projects[job_scheduler][subdir] = contrib
 projects[job_scheduler][version] = 2.0-alpha3
 
 projects[libraries][subdir] = contrib
-projects[libraries][version] = 2.2
+projects[libraries][version] = 2.3
 
 projects[logintoboggan][subdir] = contrib
 projects[logintoboggan][version] = 1.5
 
 projects[media][subdir] = contrib
-projects[media][version] = 2.0-beta1
+projects[media][version] = 2.0-beta2
 
 projects[media_colorbox][subdir] = contrib
 projects[media_colorbox][version] = 1.0-rc4
@@ -465,7 +465,7 @@ projects[google_analytics_reports][subdir] = contrib
 projects[google_analytics_reports][version] = 3.0
 
 projects[metatag][subdir] = contrib
-projects[metatag][version] = 1.14
+projects[metatag][version] = 1.16
 
 projects[schemaorg][subdir] = contrib
 projects[schemaorg][version] = 1.0-rc1
