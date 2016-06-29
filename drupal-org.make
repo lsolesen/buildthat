@@ -212,7 +212,7 @@ projects[connector][subdir] = contrib
 projects[connector][version] = 1.0-beta2
 
 projects[context][subdir] = contrib
-projects[context][version] = 3.6
+projects[context][version] = 3.7
 
 projects[crumbs][subdir] = contrib
 projects[crumbs][version] = 1.10
@@ -277,7 +277,7 @@ projects[jquery_update][subdir] = contrib
 projects[jquery_update][version] = 2.7
 
 projects[jplayer][subdir] = contrib
-projects[jplayer][version] = 2.0-beta1
+projects[jplayer][version] = 2.0
 
 projects[l10n_update][subdir] = contrib 
 projects[l10n_update][version] = 1.1
@@ -326,7 +326,7 @@ projects[node_view_permissions][subdir] = contrib
 projects[node_view_permissions][version] = 1.5
 
 projects[nodequeue][subdir] = contrib
-projects[nodequeue][version] = 2.0
+projects[nodequeue][version] = 2.1
 
 projects[oauth][subdir] = contrib
 projects[oauth][version] = 3.2
@@ -498,7 +498,7 @@ projects[chart][download][revision] = 860c75c27c296a4135ac1efac773ba1cdf7edf7c
 projects[chart][download][branch] = 7.x-1.x
 
 projects[colorbox][subdir] = contrib
-projects[colorbox][version] = 2.10
+projects[colorbox][version] = 2.12
 
 projects[mailchimp][subdir] = contrib
 projects[mailchimp][version] = 2.13
