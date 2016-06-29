@@ -409,7 +409,7 @@ projects[webform_mailchimp][subdir] = contrib
 projects[webform_mailchimp][version] = 1.0-rc2
 
 projects[views][subdir] = contrib
-projects[views][version] = 3.13
+projects[views][version] = 3.14
 
 projects[draggableviews][subdir] = contrib
 projects[draggableviews][version] = 2.1
