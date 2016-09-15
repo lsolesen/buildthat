@@ -634,7 +634,7 @@ libraries[json2][directory_name] = "json2"
 libraries[json2][destination] = "libraries"
 
 libraries[jquery_ui][download][type] = "get"
-libraries[jquery_ui][download][url] = "http://jquery-ui.googlecode.com/files/jquery.ui-1.6.zip"
+libraries[jquery_ui][download][url] = "https://jqueryui.com/resources/download/jquery-ui-1.11.4.zip"
 libraries[jquery_ui][directory_name] = "jquery.ui"
 libraries[jquery_ui][destination] = "modules/contrib/jquery_ui"
 
