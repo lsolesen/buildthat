@@ -159,7 +159,7 @@ projects[context][version] = 3.7
 
 projects[crumbs][version] = 1.10
 
-projects[ctools][version] = 1.9
+projects[ctools][version] = 1.11
 
 projects[devel][version] = 1.5
 
@@ -167,7 +167,7 @@ projects[disqus][version] = 1.12
 
 projects[diff][version] = 3.2
 
-projects[entity][version] = 1.7
+projects[entity][version] = 1.8
 
 projects[facetapi][version] = 1.5
 projects[facetapi][patch][1616518] = https://www.drupal.org/files/1616518-term_remove_link-24.patch
@@ -330,11 +330,11 @@ projects[message_notify][version] = 2.5
 ; SEO Tools
 ;;;;;;;;;
 
-projects[google_analytics][version] = 2.2
+projects[google_analytics][version] = 2.3
 
 projects[google_analytics_reports][version] = 3.0
 
-projects[metatag][version] = 1.16
+projects[metatag][version] = 1.17
 
 projects[schemaorg][version] = 1.0-rc1
 
