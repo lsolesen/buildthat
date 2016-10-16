@@ -287,7 +287,7 @@ projects[token_tweaks][download][type] = git
 projects[token_tweaks][download][revision] = 75818fbfb97bf8882ca106e6af703be7644b11bb
 projects[token_tweaks][download][branch] = 7.x-1.x
 
-projects[webform][version] = 4.12
+projects[webform][version] = 4.14
 
 projects[webform_mailchimp][version] = 1.0-rc2
 
