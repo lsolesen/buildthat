@@ -99,7 +99,7 @@ projects[cck][version] = 3.0-alpha3
 
 projects[countries][version] = 2.3
 
-projects[date][version] = 2.9
+projects[date][version] = 2.10
 
 projects[email][version] = 1.3
 
@@ -109,7 +109,7 @@ projects[entityreference][download][revision] = 902b5edc674e0e7920aa77b94ae8d6ef
 projects[entityreference][download][branch] = 7.x-1.x
 projects[entityreference][patch][1699378] = http://drupal.org/files/view-argument-as-token-1699378-41.patch
 
-projects[field_group][version] = 1.5
+projects[field_group][version] = 1.6
 
 projects[field_extrawidgets][version] = 1.1
 
@@ -119,7 +119,7 @@ projects[link][version] = 1.4
 
 projects[pdf_reader][version] = 1.0-rc5
 
-projects[title][version] = 1.0-alpha8
+projects[title][version] = 1.0-alpha9
 
 ;;;;;;;;;
 ; Path tools
@@ -159,13 +159,13 @@ projects[context][version] = 3.7
 
 projects[crumbs][version] = 1.10
 
-projects[ctools][version] = 1.11
+projects[ctools][version] = 1.12
 
 projects[devel][version] = 1.5
 
 projects[disqus][version] = 1.12
 
-projects[diff][version] = 3.2
+projects[diff][version] = 3.3
 
 projects[entity][version] = 1.8
 
@@ -178,7 +178,7 @@ projects[features_override][version] = 2.0-rc3
 
 projects[fences][version] = 1.2
 
-projects[file_entity][version] = 2.0-beta3
+projects[file_entity][version] = 2.12
 
 projects[file_lock][version] = 2.0
 
@@ -212,14 +212,14 @@ projects[libraries][version] = 2.3
 
 projects[logintoboggan][version] = 1.5
 
-projects[media][version] = 2.0-beta2
+projects[media][version] = 2.13
 
 projects[media_colorbox][version] = 1.0-rc4
 ;projects[media_colorbox][patch][1888198] = http://drupal.org/files/media_colorbox_wysiwyg-1888198-14.patch
 
 projects[media_vimeo][version] = 2.1
 
-projects[media_youtube][version] = 3.0
+projects[media_youtube][version] = 3.5
 
 projects[menu_block][version] = 2.7
 
@@ -231,11 +231,11 @@ projects[navbar][version] = 1.7
 
 projects[node_clone][version] = 1.0
 
-projects[node_view_permissions][version] = 1.5
+projects[node_view_permissions][version] = 1.6
 
 projects[nodequeue][version] = 2.1
 
-projects[oauth][version] = 3.2
+projects[oauth][version] = 3.4
 
 projects[oauthconnector][version] = 1.0-beta2
 
@@ -253,9 +253,9 @@ projects[rules][version] = 2.9
 
 projects[scheduler][version] = 1.4
 
-projects[search_api][version] = 1.18
+projects[search_api][version] = 1.22
 
-projects[search_api_db][version] = 1.5
+projects[search_api_db][version] = 1.6
 
 projects[similarterms][version] = 2.5
 
@@ -277,7 +277,7 @@ projects[taxonomy_display][version] = 1.1
 
 projects[taxonomy_menu][version] = 1.5
 
-projects[token][version] = 1.6
+projects[token][version] = 1.7
 
 projects[quiz][version] = 4.0-rc2
 
@@ -291,7 +291,7 @@ projects[webform][version] = 4.14
 
 projects[webform_mailchimp][version] = 1.0-rc2
 
-projects[views][version] = 3.14
+projects[views][version] = 3.18
 
 projects[draggableviews][version] = 2.1
 
@@ -330,7 +330,7 @@ projects[message_notify][version] = 2.5
 ; SEO Tools
 ;;;;;;;;;
 
-projects[google_analytics][version] = 2.3
+projects[google_analytics][version] = 2.4
 
 projects[google_analytics_reports][version] = 3.0
 
@@ -378,10 +378,7 @@ projects[userreport][version] = 1.0-alpha4
 
 projects[ckeditor_link][version] = 2.4
 
-projects[wysiwyg][version] = 2.x-dev
-projects[wysiwyg][download][type] = git
-projects[wysiwyg][download][revision] = 3cb63de
-projects[wysiwyg][download][branch] = 7.x-2.x
+projects[wysiwyg][version] = 2.4
 
 projects[wysiwyg_filter][version] = 1.6-rc3
 
@@ -399,7 +396,7 @@ projects[block_visibility][version] = 1.0-beta2
 
 projects[ccl][version] = 1.5
 
-projects[module_filter][version] = 2.0
+projects[module_filter][version] = 2.1
 
 projects[options_element][version] = 1.12
 
@@ -502,7 +499,7 @@ libraries[less][destination] = "libraries"
 
 projects[adaptivetheme][version] = 3.2
 
-projects[corolla][version] = 3.0
+projects[corolla][version] = 3.1
 
 projects[shiny][version] = 1.7
 
